@@ -1,0 +1,854 @@
+000;Blue-Eyes White Dragon;55;Monster;LIGHT;Dragon;8;3000;2500
+001;Seiyaryu;53;Monster;LIGHT;Dragon;7;2500;2300;300-point bonus for battles against FIEND monsters.
+002;Blue-Eyes Ultimate Dragon;83;Monster;LIGHT;Dragon;12;4500;3800
+003;Kaiser Dragon;43;Monster;LIGHT;Dragon;7;2300;2000
+004;Blackland Fire Dragon;23;Monster;DARK;Dragon;4;1500;800
+005;Koumori Dragon;27;Monster;DARK;Dragon;4;1500;1200
+006;Curse of Dragon;40;Monster;DARK;Dragon;5;2000;1500;Transforms the occupied space into WASTELAND terrain when engaging in a battle.
+007;Red-Eyes B. Dragon;44;Monster;DARK;Dragon;7;2400;2000;Transforms into "Red-Eyes Black Metal Dragon when powered up with a "Metalmorph".
+008;Darkfire Dragon;28;Monster;DARK;Dragon;4;1500;1250
+009;B. Skull Dragon;57;Monster;DARK;Dragon;9;3200;2500
+010;Tri-Horned Dragon;52;Monster;DARK;Dragon;8;2850;2350
+011;Serpent Night Dragon;53;Monster;DARK;Dragon;7;2350;2400;900-point bonus for battles against SPELLCASTER monsters.
+012;Mikazukinoyaiba;46;Monster;DARK;Dragon;7;2200;2350
+013;Yamadron;44;Monster;FIRE;Dragon;5;1600;1800;Transforms surrounding spaces into NORMAL terrain when engaged in battle. Transforms surrounding spaces into NORMAL terrain when this card is flipped face-up.
+014;Meteor B. Dragon;55;Monster;FIRE;Dragon;8;3500;2000
+015;Tyhone #2;36;Monster;FIRE;Dragon;6;1700;1900
+016;Ryu-Ran;48;Monster;FIRE;Dragon;7;2200;2600;Randomly transforms into DRAGON/FIRE monster when powered up with Insect Imitation.
+017;Manga Ryu-Ran;48;Monster;FIRE;Dragon;7;2200;2600;Strong in TOON terrain. Randomly transforms into DRAGON/FIRE monster when powered up with Insect Imitation.
+018;Crawling Dragon;30;Monster;EARTH;Dragon;5;1600;1400
+019;Meteor Dragon;38;Monster;EARTH;Dragon;6;1800;2000
+020;B. Dragon Jungle King;39;Monster;EARTH;Dragon;6;2100;1800
+021;Baby Dragon;19;Monster;WIND;Dragon;3;1200;700
+022;Winged Dragon, Guardian of the Fortress #1;26;Monster;WIND;Dragon;4;1400;1200
+023;Gaia the Dragon Champion;47;Monster;WIND;Dragon;7;2600;2100
+024;Thousand Dragon;44;Monster;WIND;Dragon;7;2400;2000
+025;Yamatano Dragon Scroll;17;Monster;WIND;Dragon;2;900;300;Transforms into Yamadron after surviving 3 turns in a face-up, defense position. However, the card must be voluntarily turned face-up.
+026;Petit Dragon;13;Monster;WIND;Dragon;2;600;700
+027;One-Eyed Shield Dragon;20;Monster;WIND;Dragon;3;700;1300
+028;Wicked Dragon with the Ersatz Head;18;Monster;WIND;Dragon;3;900;900
+029;Parrot Dragon;33;Monster;WIND;Dragon;5;2000;1300;Strong in TOON terrain.
+030;Harpie's Pet Dragon;45;Monster;WIND;Dragon;7;2000;2500
+031;Sky Dragon;37;Monster;WIND;Dragon;6;1900;1800
+032;Lesser Dragon;22;Monster;WIND;Dragon;4;1200;1000
+033;Fairy Dragon;23;Monster;WIND;Dragon;4;1100;1200
+034;Twin-Headed Behemoth;27;Monster;WIND;Dragon;4;1500;1200
+035;Mystical Elf;33;Monster;LIGHT;Spellcaster;4;800;2000;When this card is flipped face-up, powers up all of your own LIGHT monsters by 800 points.
+036;Time Wizard;14;Monster;LIGHT;Spellcaster;2;500;400;When this card is flipped face-up, all DRAGON monsters with ATK less than 2400 are turned into Thousand Dragon.
+037;Rogue Doll;31;Monster;LIGHT;Spellcaster;4;1600;1000;Allows the one-sided destruction of the opposition when battling ZOMBIE monsters.
+038;White Magical Hat;22;Monster;LIGHT;Spellcaster;3;1000;700;Able to move and attack without triggering an opponent's TRAP (LR).
+039;LaMoon;29;Monster;LIGHT;Spellcaster;5;1200;1700
+040;Lucky Trinket;19;Monster;LIGHT;Spellcaster;2;600;800;All DARK monsters are reduced 100 points while this card remains in the face-up, defense position.
+041;Genin;20;Monster;LIGHT;Spellcaster;3;600;900;Strong in TOON terrain. Spellbinds an opponent for 1 turn when this card is flipped face-up in battle.
+042;Fairy's Gift;29;Monster;LIGHT;Spellcaster;4;1400;1000;Gain 800 Life Points when this card is flipped face-up.
+043;Magician of Faith;12;Monster;LIGHT;Spellcaster;1;300;400;When this card is flipped face-up, select 1 spell card from all graveyards and revive it in own Summoning Area. However, can only be activated in a turn when 'Magician of Faith' is being controlled.
+044;Ancient Elf;27;Monster;LIGHT;Spellcaster;4;1450;1200
+045;Maha Vailo;35;Monster;LIGHT;Spellcaster;5;1550;1400;When in the face-up, defense position, the effect of all Power-up Cards are boosted an additional 200 points.
+046;Musician King;33;Monster;LIGHT;Spellcaster;5;1750;1500
+047;Eldeen;20;Monster;LIGHT;Spellcaster;3;950;1000
+048;Lady of Faith;19;Monster;LIGHT;Spellcaster;3;1100;800
+049;Ill Witch;31;Monster;LIGHT;Spellcaster;5;1600;1500
+050;Maiden of the Moonlight;33;Monster;LIGHT;Spellcaster;4;1500;1300
+051;The Stern Mystic;32;Monster;LIGHT;Spellcaster;4;1500;1200;When this card is flipped face-up, all face-down cards are automatically flipped face-up.
+052;Neo the Magic Swordsman;27;Monster;LIGHT;Spellcaster;4;1700;1000
+053;The Unhappy Maiden;6;Monster;LIGHT;Spellcaster;1;0;100;Whenever damage is inflicted to LP in battle, the damage amount is reduced to 0.
+054;Right Leg of the Forbidden One;15;Monster;DARK;Spellcaster;1;200;300;Awards victory to the one who brings together all four limbs and unleashes the monster.
+055;Left Leg of the Forbidden One;15;Monster;DARK;Spellcaster;1;200;300;Awards victory to the one who brings together all four limbs and unleashes the monster.
+056;Right Arm of the Forbidden One;15;Monster;DARK;Spellcaster;1;200;300;Awards victory to the one who brings together all four limbs and unleashes the monster.
+057;Left Arm of the Forbidden One;15;Monster;DARK;Spellcaster;1;200;300;Awards victory to the one who brings together all four limbs and unleashes the monster.
+058;Exodia the Forbidden One;30;Monster;DARK;Spellcaster;3;1000;1000;As Leader, summon the four limbs from your own deck to adjacent Summoning Areas, and enter your next turn face-up without being spellbound and victory is yours.
+059;Saggi the Dark Clown;21;Monster;DARK;Spellcaster;3;600;1500;Strong in TOON terrain.
+060;Dark Magician;46;Monster;DARK;Spellcaster;7;2500;2100
+061;Illusionist Faceless Mage;39;Monster;DARK;Spellcaster;5;1200;2200;When this card is flipped face-up in battle, spellbinds opposing monster for 3 turns.
+062;Curtain of the Dark Ones;16;Monster;DARK;Spellcaster;2;600;500;When this card is flipped face-up in battle, the opposing enemy is spellbound for one turn.
+063;Kamionwizard;24;Monster;DARK;Spellcaster;4;1300;1100
+064;Nemuriko;20;Monster;DARK;Spellcaster;3;800;700;While this card is face-up in the defense position, spellbinds all enemy WARRIOR monsters.
+065;Necrolancer the Timelord;17;Monster;DARK;Spellcaster;3;800;900
+066;The Bewitching Phantom Thief;19;Monster;DARK;Spellcaster;2;700;700;Able to move and attack without triggering an opponent's TRAP (LR).
+067;Phantom Dewan;18;Monster;DARK;Spellcaster;2;700;600;When this card is flipped face-up in battle, spellbinds opposing monster for 3 turns.
+068;Akakieisu;18;Monster;DARK;Spellcaster;3;1000;800
+069;Masked Sorcerer;23;Monster;DARK;Spellcaster;4;900;1400
+070;Fairywitch;18;Monster;DARK;Spellcaster;3;800;1000
+071;Ancient Sorcerer;23;Monster;DARK;Spellcaster;4;1000;1300
+072;Sectarian of Secrets;17;Monster;DARK;Spellcaster;2;700;500;Weakens an opposing enemy by 300 points when destroyed in battle.
+073;Mystic Lamp;12;Monster;DARK;Spellcaster;1;400;300;When this card is flipped face-up, strengthens Lord of the Lamp by 700 points.
+074;Boo Koo;17;Monster;DARK;Spellcaster;2;650;500;When this card is flipped face-up, strengthens Spirit of the Books by 700 points.
+075;Skull Knight;49;Monster;DARK;Spellcaster;7;2650;2250
+076;Cosmo Queen;59;Monster;DARK;Spellcaster;8;2900;2450;When this card is flipped face-up, transforms the surrounding spaces within a range of two to DARK terrain.
+077;Mask of Shine & Dark;43;Monster;DARK;Spellcaster;6;2000;1800;900-pt bonus for battles against WARRIOR types.
+078;Magician of Black Chaos;54;Monster;DARK;Spellcaster;8;2800;2600
+079;Dark Elf;33;Monster;DARK;Spellcaster;4;2000;800;For every battle engaged with the enemy, the LP of the player controlling Dark Elf is reduced by 50 points.
+080;Witch of the Black Forest;28;Monster;DARK;Spellcaster;4;1100;1200;While this card is face-up in the defense position, all LIGHT monsters are reduced 100 points.
+081;Witch's Apprentice;11;Monster;DARK;Spellcaster;2;550;500
+082;Sorcerer of the Doomed;27;Monster;DARK;Spellcaster;4;1450;1200
+083;Lord of D.;28;Monster;DARK;Spellcaster;4;1200;1100;While this card is face-up in the defense position, all DRAGON monsters on the field are immune to the effects of an opponent's SPELL cards.
+084;Invitation to a Dark Sleep;38;Monster;DARK;Spellcaster;5;1500;1800;When this card is flipped face-up, all enemy cards are spellbound for 1 turn.
+085;Hannibal Necromancer;37;Monster;DARK;Spellcaster;5;1400;1800;When this card is flipped face-up, all ZOMBIE monsters are increased by 300 points.
+086;The Illusory Gentleman;31;Monster;DARK;Spellcaster;5;1500;1600
+087;Dark Magician Girl;42;Monster;DARK;Spellcaster;4;2000;1700;When this card is flipped face-up, it is increased by 500 points for every Dark Magician and Dark Magician Girl found in all graveyards.
+088;Flame Manipulator;19;Monster;FIRE;Spellcaster;3;900;1000
+089;Dryad;31;Monster;EARTH;Spellcaster;4;1200;1400;When this card is flipped face-up in battle, the opposing monster is spellbound for 1 turn.
+090;Tao the Chanter;26;Monster;EARTH;Spellcaster;3;1200;900;When this card is flipped face-up, all LIGHT monsters are turned to DARK monsters.
+091;Spirit of the Mountain;31;Monster;EARTH;Spellcaster;5;1300;1800
+092;Gemini Elf;28;Monster;EARTH;Spellcaster;4;1900;900
+093;Leo Wizard;26;Monster;EARTH;Spellcaster;5;1350;1200
+094;Rock Spirit;36;Monster;EARTH;Spellcaster;5;1650;1900
+095;Injection Fairy Lily;24;Monster;EARTH;Spellcaster;3;400;1500;While this card is face-up in the defense position, LP increases 50 points at the start of each turn.
+096;Spirit of the Winds;31;Monster;WIND;Spellcaster;5;1700;1400
+097;Djinn the Watcher of the Wind;16;Monster;WIND;Spellcaster;3;700;900
+098;Hurricail;16;Monster;WIND;Spellcaster;2;900;200;When this card is flipped face-up, all spells within a range of a single space are destroyed.
+099;Kazejin;51;Monster;WIND;Spellcaster;7;2400;2200;Whenever damage is inflicted to LP in battle, the damage amount is reduced to 0.
+100;Aqua Madoor;32;Monster;WATER;Spellcaster;4;1200;2000
+101;Shadow Specter;12;Monster;DARK;Zombie;1;500;200;When this card is flipped face-up, all Shadow Specters are increased by 300 points.
+102;Skull Servant;10;Monster;DARK;Zombie;1;300;200;When this card is flipped face-up, all Skull Servants are increased by 300 points.
+103;Zombie Warrior;21;Monster;DARK;Zombie;3;1200;900
+104;The Snake Hair;27;Monster;DARK;Zombie;4;1500;1200;Eternally spellbinds opposing monster when destroyed in battle.
+105;Armored Zombie;15;Monster;DARK;Zombie;3;1500;0
+106;Dragon Zombie;16;Monster;DARK;Zombie;3;1600;0
+107;Clown Zombie;14;Monster;DARK;Zombie;2;1350;0
+108;Pumpking the King of Ghosts;43;Monster;DARK;Zombie;6;1800;2000;While this card is face-up in the defense position, all ZOMBIE monsters are increased 100 points at the start of each turn.
+109;Graveyard and the Hand of Invitation;21;Monster;DARK;Zombie;3;700;900;When this card is flipped face-up, all your monsters are transformed into ZOMBIE monsters.
+110;The 13th Grave;21;Monster;DARK;Zombie;3;1200;900
+111;Fiend's Hand;17;Monster;DARK;Zombie;2;600;600;When destroyed in battle, it destroys the opposing monster as well.
+112;Blue-Eyed Silver Zombie;21;Monster;DARK;Zombie;3;900;700;When this card is flipped face-up, all your monsters are transformed into ZOMBIE monsters.
+113;Temple of Skulls;27;Monster;DARK;Zombie;4;900;1300;While this card is in the face-up, defense position, all MAGIC and RITUAL cards are rendered ineffective.
+114;Dokuroizo the Grim Reaper;26;Monster;DARK;Zombie;3;900;1200;Able to move and attack without triggering an opponent's TRAP (LR).
+115;Fire Reaper;17;Monster;DARK;Zombie;2;700;500;When this card is flipped face-up, all cards located in Meadow terrain are destroyed.
+116;Mech Mole Zombie;14;Monster;DARK;Zombie;2;500;400;When turned face-up in battle, transforms an opponent into a ZOMBIE monster.
+117;Phantom Ghost;14;Monster;DARK;Zombie;2;600;800
+118;Flame Ghost;23;Monster;DARK;Zombie;3;1000;800;When this card is flipped face-up, all cards located in Sea terrain are destroyed.
+119;Wood Remains;24;Monster;DARK;Zombie;3;1000;900;When this card is flipped face-up, all Wood Remains are increased by 500 points.
+120;Dark Assailant;24;Monster;DARK;Zombie;4;1200;1200
+121;Yaranzo;28;Monster;DARK;Zombie;4;1300;1500
+122;Three-Legged Zombies;19;Monster;DARK;Zombie;3;1100;800
+123;Shadow Ghoul;34;Monster;DARK;Zombie;5;1600;1300;Can move into LABYRINTH terrain, and transforms into Wall Shadow.
+124;Magical Ghost;27;Monster;DARK;Zombie;4;1300;1400
+125;Corroding Shark;18;Monster;DARK;Zombie;3;1100;700
+126;Skelgon;36;Monster;DARK;Zombie;6;1700;1900
+127;Bone Mouse;12;Monster;DARK;Zombie;1;400;300;Able to move and attack without triggering an opponent's TRAP (LR).
+128;Dokurorider;43;Monster;DARK;Zombie;6;1900;1850;During movement, transforms terrain of entered space into WASTELAND terrain.
+129;The Wandering Doomed;14;Monster;DARK;Zombie;2;800;600
+130;Great Mammoth of Goldfine;40;Monster;DARK;Zombie;6;2200;1800
+131;Ghoul with an Appetite;28;Monster;DARK;Zombie;4;1600;1200
+132;Patrician of Darkness;34;Monster;DARK;Zombie;5;2000;1400
+133;Moon Envoy;21;Monster;LIGHT;Warrior;4;1100;1000
+134;Giltia the D. Knight;34;Monster;LIGHT;Warrior;5;1850;1500
+135;Skull Guardian;56;Monster;LIGHT;Warrior;7;2050;2500;900-pt bonus when battling FIEND monsters. When this card is flipped face-up, strengthens all LIGHT monsters by 300 points.
+136;Luminous Soldier;30;Monster;LIGHT;Warrior;5;1600;1400
+137;Kageningen;24;Monster;DARK;Warrior;2;800;600;Whenever damage is inflicted to LP in battle, the damage amount is reduced to 0. When this card is flipped face-up, adds one more Kageningen face-up in own Summoning Area.
+138;Masked Clown;12;Monster;DARK;Warrior;2;500;700
+139;Fiend Sword;22;Monster;DARK;Warrior;4;1400;800
+140;Skull Stalker;22;Monster;DARK;Warrior;3;900;800;Reduces opposing monster by 300 points when destroyed in battle.
+141;Vishwar Randi;21;Monster;DARK;Warrior;3;900;700;When this card is flipped face-up, strengthens all Succubus Knights by 300 points.
+142;Unknown Warrior of Fiend;15;Monster;DARK;Warrior;3;1000;500
+143;Black Luster Soldier;60;Monster;DARK;Warrior;8;3000;2500;600-pt bonus when battling DRAGON monsters.
+144;Wall Shadow;51;Monster;DARK;Warrior;7;1600;3000;Can move into LABYRINTH terrain.
+145;Gate Guardian;77;Monster;DARK;Warrior;11;3750;3400;Whenever damage is inflicted to LP in battle, the damage amount is reduced to 0.
+146;Swordstalker;41;Monster;DARK;Warrior;6;2000;1600;When this card is flipped face-up, it is increased by 100 points for each monster in own Graveyard.
+147;Hungry Burger;44;Monster;DARK;Warrior;6;2000;1850;Allows the one-sided destruction of the opposition when battling BEAST monsters. Strong in TOON terrain.
+148;Garma Sword;47;Monster;DARK;Warrior;7;2550;2150;800-pt bonus when battling SPELLCASTER monsters.
+149;Greenkappa;21;Monster;DARK;Warrior;3;650;900;When this card is flipped face-up, adopts the ATK/DEF of the monster with the highest attack power on the field.
+150;Succubus Knight;30;Monster;DARK;Warrior;5;1650;1300
+151;Flame Swordsman;39;Monster;FIRE;Warrior;5;1800;1600;300-pt bonus when battling DINOSAUR monsters.
+152;Tactical Warrior;36;Monster;FIRE;Warrior;5;1200;1900;When this card is flipped face-up, all WARRIOR monsters are increased 300 points.
+153;Swamp Battleguard;38;Monster;EARTH;Warrior;5;1800;1500;When this card is flipped face-up, all Lava Battleguards are increased 500 points.
+154;Judge Man;37;Monster;EARTH;Warrior;6;2200;1500
+155;Gaia The Fierce Knight;44;Monster;EARTH;Warrior;7;2300;2100
+156;Celtic Guardian;31;Monster;EARTH;Warrior;4;1400;1200;While this card is face-up in the defense position, all effects involving the taking of a card's control are rendered ineffective.
+157;Karbonala Warrior;27;Monster;EARTH;Warrior;4;1500;1200
+158;Kojikocy;27;Monster;EARTH;Warrior;4;1500;1200
+159;Axe Raider;29;Monster;EARTH;Warrior;4;1700;1150
+160;Zanki;32;Monster;EARTH;Warrior;5;1500;1700
+161;Battle Warrior;22;Monster;EARTH;Warrior;2;700;1000;500-pt bonus when battling BEAST monsters.
+162;Hero of the East;21;Monster;EARTH;Warrior;3;1100;1000
+163;Supporter in the Shadows;25;Monster;EARTH;Warrior;3;1000;1000;When this card is flipped face-up, all WARRIOR monsters are increased 300 points.
+164;Dream Clown;26;Monster;EARTH;Warrior;3;1200;900;When this card is flipped face-up in battle, the opponent is rendered eternally spellbound.
+165;Ansatsu;29;Monster;EARTH;Warrior;5;1700;1200
+166;Dragon Statue;20;Monster;EARTH;Warrior;3;1100;900
+167;Monster Egg;15;Monster;EARTH;Warrior;3;600;900;Randomly transforms into a BEAST-WARRIOR/EARTH monster when powered up with Insect Imitation.
+168;Rhaimundos of the Red Sword;25;Monster;EARTH;Warrior;4;1200;1300
+169;Hard Armor;15;Monster;EARTH;Warrior;3;300;1200
+170;M-Warrior #1;20;Monster;EARTH;Warrior;3;1000;500;When this card is flipped face-up, all M-Warrior #2s are increased 500 points.
+171;M-Warrior #2;20;Monster;EARTH;Warrior;3;500;1000;When this card is flipped face-up, all M-Warrior #1s are increased 500 points.
+172;The Judgement Hand;21;Monster;EARTH;Warrior;3;1400;700
+173;Mysterious Puppeteer;25;Monster;EARTH;Warrior;4;1000;1500
+174;Armaill;20;Monster;EARTH;Warrior;3;700;1300
+175;Eyearmor;16;Monster;EARTH;Warrior;2;600;500;When this card is flipped face-up, adopts the ATK/DEF of the monster with the highest attack power on the field.
+176;Doron;19;Monster;EARTH;Warrior;2;900;500;When this card is flipped face-up, adds another Doron face-up in own Summoning Area.
+177;Kagemusha of the Blue Flame;12;Monster;EARTH;Warrior;2;800;400
+178;Trap Master;21;Monster;EARTH;Warrior;3;500;1100;Able to move and attack without triggering an opponent's TRAP (LR).
+179;Wood Clown;20;Monster;EARTH;Warrior;3;800;1200
+180;Beautiful Headhuntress;24;Monster;EARTH;Warrior;4;1600;800
+181;Wodan the Resident of the Forest;26;Monster;EARTH;Warrior;3;900;1200;When this card is flipped face-up, strengthens all PLANT monsters by 300 points.
+182;Guardian of the Labyrinth;22;Monster;EARTH;Warrior;4;1000;1200
+183;Dimensional Warrior;27;Monster;EARTH;Warrior;4;1200;1000;Monsters destroyed in battles against Dimensional Warrior cannot be revived once they are sent to the Graveyard.
+184;Protector of the Throne;23;Monster;EARTH;Warrior;4;800;1500
+185;Masaki the Legendary Swordsman;22;Monster;EARTH;Warrior;4;1100;1100
+186;Sonic Maid;26;Monster;EARTH;Warrior;3;1200;900;When this card is flipped face-up, all Hibikime cards are increased 500 points.
+187;Kanan the Swordmistress;28;Monster;EARTH;Warrior;4;1400;1400
+188;Stuffed Animal;21;Monster;EARTH;Warrior;3;1200;900;Strong in TOON terrain.
+189;Millennium Shield;35;Monster;EARTH;Warrior;5;0;3000;While this card is face-up in the defense position, all your monsters receive 1000 bonus points for their DEF.
+190;Monster Tamer;39;Monster;EARTH;Warrior;5;1800;1600;When this card is flipped face-up, all INSECT monsters are increased 300 points.
+191;Swordsman from a Foreign Land;10;Monster;EARTH;Warrior;1;250;250;When destroyed in battle, it destroys the opposing monster as well.
+192;Beautiful Beast Trainer;38;Monster;EARTH;Warrior;5;1750;1500;When this card is flipped face-up, all BEAST monsters are increased 300 points.
+193;Armed Ninja;11;Monster;EARTH;Warrior;1;300;300;Able to move and attack without triggering an opponent's TRAP (LR).
+194;D. Human;24;Monster;EARTH;Warrior;4;1300;1100
+195;Performance of Sword;43;Monster;EARTH;Warrior;6;1950;1850;900-pt bonus for battles against WARRIOR monsters.
+196;Mushroom Man #2;21;Monster;EARTH;Warrior;3;1250;800
+197;Lava Battleguard;39;Monster;EARTH;Warrior;5;1550;1800;When this card is flipped face-up, all Swamp Battleguards are increased 500 points.
+198;Oscillo Hero;20;Monster;EARTH;Warrior;3;1250;700
+199;Empress Judge;38;Monster;EARTH;Warrior;6;2100;1700
+200;Warrior of Tradition;36;Monster;EARTH;Warrior;6;1900;1700
+201;Queen's Double;12;Monster;EARTH;Warrior;1;350;350;When this card is flipped face-up, all Princess of Tsurugi cards are increased 700 points.
+202;Invader of the Throne;31;Monster;EARTH;Warrior;5;1350;1700
+203;Hibikime;30;Monster;EARTH;Warrior;4;1450;1000;When this card is flipped face-up, all Sonic Maid cards are increased 500 points.
+204;Princess of Tsurugi;16;Monster;WIND;Warrior;3;900;700
+205;Dragoness the Wicked Knight;21;Monster;WIND;Warrior;3;1200;900
+206;Hyo;25;Monster;WATER;Warrior;3;800;1200;Spellbinds an opponent for 1 turn when destroyed in battle.
+207;The Little Swordsman of Aile;21;Monster;WATER;Warrior;3;800;1300
+208;Garoozis;33;Monster;FIRE;Beast-Warrior;5;1800;1500
+209;Hitotsu-Me Giant;22;Monster;EARTH;Beast-Warrior;4;1200;1000
+210;Battle Steer;31;Monster;EARTH;Beast-Warrior;5;1800;1300
+211;Battle Ox;27;Monster;EARTH;Beast-Warrior;4;1700;1000
+212;Beaver Warrior;27;Monster;EARTH;Beast-Warrior;4;1200;1500
+213;Mountain Warrior;21;Monster;EARTH;Beast-Warrior;3;600;1000;When this card is flipped face-up, all monsters in MOUNTAIN terrain are increased 300 points.
+214;Tiger Axe;24;Monster;EARTH;Beast-Warrior;4;1300;1100
+215;Rabid Horseman;37;Monster;EARTH;Beast-Warrior;6;2000;1700
+216;Solitude;26;Monster;EARTH;Beast-Warrior;3;1050;1000;Spellbinds an opponent for 3 turns when destroyed in battle.
+217;One Who Hunts Souls;26;Monster;EARTH;Beast-Warrior;4;1100;1000;Monsters destroyed in battles against One Who Hunts Souls cannot be revived once they are sent to the Graveyard.
+218;Ogre of the Black Shadow;26;Monster;EARTH;Beast-Warrior;4;1200;1400
+219;Rude Kaiser;34;Monster;EARTH;Beast-Warrior;5;1800;1600
+220;Sengenjin;58;Monster;EARTH;Beast-Warrior;8;2750;2500;900-pt bonus for battles against ROCK monsters.
+221;Nekogal #2;39;Monster;EARTH;Beast-Warrior;6;1900;2000
+222;Panther Warrior;36;Monster;EARTH;Beast-Warrior;6;2000;1600
+223;Wolf Axwielder;27;Monster;EARTH;Beast-Warrior;4;1650;1000
+224;Gate Deeg;20;Monster;DARK;Beast;3;700;800;When this card is flipped face-up, the owning player's Summoning Power Points are increased to the maximum value.
+225;Dark Rabbit;26;Monster;DARK;Beast;4;1100;1500;Strong in TOON terrain.
+226;Firewing Pegasus;41;Monster;FIRE;Beast;6;2250;1800
+227;Little Chimera;12;Monster;FIRE;Beast;2;600;550
+228;The Wicked Worm Beast;26;Monster;EARTH;Beast;3;1400;700;When destroyed in battle, this card is returned to the deck, and the deck is re-shuffled.
+229;Griffore;27;Monster;EARTH;Beast;4;1200;1500
+230;Torike;18;Monster;EARTH;Beast;3;1200;600
+231;Wolf;20;Monster;EARTH;Beast;3;1200;800
+232;Silver Fang;20;Monster;EARTH;Beast;3;1200;800
+233;Mystic Horseman;29;Monster;EARTH;Beast;4;1300;1550
+234;Dark Gray;17;Monster;EARTH;Beast;3;800;900
+235;Sleeping Lion;24;Monster;EARTH;Beast;4;700;1700
+236;Larvas;23;Monster;EARTH;Beast;3;800;1000;When this card is flipped face-up, all Mon Larvas cards are increased 500 points.
+237;Dig Beak;13;Monster;EARTH;Beast;2;500;800
+238;Lisark;26;Monster;EARTH;Beast;4;1300;1300
+239;Synchar;17;Monster;EARTH;Beast;3;800;900
+240;Fusionist;16;Monster;EARTH;Beast;3;900;700
+241;Frenzied Panda;22;Monster;EARTH;Beast;4;1200;1000
+242;Air Marmot of Nefariousness;15;Monster;EARTH;Beast;2;400;600;Able to move and attack without triggering an opponent's TRAP (LR).
+243;Meotoko;13;Monster;EARTH;Beast;2;700;600
+244;Master & Expert;22;Monster;EARTH;Beast;4;1200;1000
+245;Nekogal #1;20;Monster;EARTH;Beast;3;1100;900
+246;Prevent Rat;25;Monster;EARTH;Beast;4;500;2000
+247;Mystical Sheep #2;23;Monster;EARTH;Beast;3;800;1000;When this card is flipped face-up in battle, the opposing monster is spellbound for 1 turn.
+248;Super War-Lion;49;Monster;EARTH;Beast;7;2300;2100;If face-up, can move two spaces at a time regardless of terrain.
+249;Leogun;33;Monster;EARTH;Beast;5;1750;1550
+250;Tatsunootoshigo;30;Monster;EARTH;Beast;5;1350;1600
+251;Burglar;17;Monster;EARTH;Beast;3;850;800
+252;Garvas;37;Monster;EARTH;Beast;6;2000;1700
+253;Flower Wolf;32;Monster;EARTH;Beast;5;1800;1400
+254;Wilmee;22;Monster;EARTH;Beast;4;1000;1200
+255;Milus Radiant;11;Monster;EARTH;Beast;1;300;250;When this card is flipped face-up in battle, if the opposing card is a ZOMBIE monster, it is automatically destroyed.
+256;Togex;34;Monster;EARTH;Beast;5;1600;1800
+257;Hane-Hane;15;Monster;EARTH;Beast;2;450;500;When this card is flipped face-up, return to own deck and re-shuffle the deck.
+258;Ancient One of the Deep Forest;37;Monster;EARTH;Beast;6;1800;1900
+259;Mon Larvas;27;Monster;EARTH;Beast;4;1300;1400
+260;Pale Beast;27;Monster;EARTH;Beast;4;1500;1200
+261;Obese Marmot of Nefariousness;14;Monster;EARTH;Beast;3;750;800
+262;Great Bill;26;Monster;EARTH;Beast;4;1250;1300
+263;Armored Rat;21;Monster;EARTH;Beast;3;950;1100
+264;Mystical Sheep #1;21;Monster;EARTH;Beast;3;1150;900
+265;Gazelle the King of Mythical Beasts;27;Monster;EARTH;Beast;4;1500;1200
+266;King Tiger Wanghu;32;Monster;EARTH;Beast;4;1700;1000;If face-up, can move two spaces at a time regardless of terrain.
+267;Chimera the Flying Mythical Beast;39;Monster;WIND;Beast;6;2100;1800
+268;Fiend Reflection #2;30;Monster;LIGHT;Winged Beast;4;1100;1400;When this card is flipped face-up and a card has already been played from the hand, an additional card can be played from the hand.
+269;Crimson Sunbird;41;Monster;FIRE;Winged Beast;6;2300;1800
+270;Niwatori;22;Monster;EARTH;Winged Beast;3;900;800;While this card is face-up in the defense position, all recovery values to LP are doubled. Strong in TOON terrain.
+271;Tyhone;26;Monster;WIND;Winged Beast;4;1200;1400
+272;Harpie Lady;32;Monster;WIND;Winged Beast;4;1300;1400;When this card is flipped face-up, Harpie's Pet Dragon increases 300 points. When strengthened with Elegant Egotist, transforms into Harpie Lady Sisters.
+273;Harpie Lady Sisters;46;Monster;WIND;Winged Beast;6;1950;2100;When this card is flipped face-up, Harpie's Pet Dragon increases 900 points.
+274;Spirit of the Books;31;Monster;WIND;Winged Beast;4;1400;1200;When this card is flipped face-up, add a Boo Koo face-down to own Summoning Area.
+275;Faith Bird;26;Monster;WIND;Winged Beast;4;1500;1100
+276;Droll Bird;16;Monster;WIND;Winged Beast;2;600;500;When this card is flipped face-up, all monsters with an ATK of 500 or less are automatically flipped face-up.
+277;Mavelus;22;Monster;WIND;Winged Beast;4;1300;900
+278;Kurama;16;Monster;WIND;Winged Beast;3;800;800
+279;Wing Eagle;33;Monster;WIND;Winged Beast;5;1800;1500
+280;Punished Eagle;39;Monster;WIND;Winged Beast;6;2100;1800
+281;Skull Red Bird;28;Monster;WIND;Winged Beast;4;1550;1200
+282;Queen Bird;32;Monster;WIND;Winged Beast;5;1200;2000
+283;Peacock;32;Monster;WIND;Winged Beast;5;1700;1500
+284;Skullbird;36;Monster;WIND;Winged Beast;6;1900;1700
+285;Monstrous Bird;39;Monster;WIND;Winged Beast;6;2000;1900
+286;Winged Dragon, Guardian of the Fortress #2;22;Monster;WIND;Winged Beast;4;1200;1000
+287;Crow Goblin;35;Monster;WIND;Winged Beast;5;1850;1600
+288;Takuhee;25;Monster;WIND;Winged Beast;4;1450;1000
+289;Fiend Reflection #1;27;Monster;WIND;Winged Beast;4;1300;1400
+290;Blue-Winged Crown;28;Monster;WIND;Winged Beast;4;1600;1200
+291;Birdface;37;Monster;WIND;Winged Beast;5;1600;1600;While this card is face-up in the defense position, all your WINGED-BEAST monsters are awarded a power-up bonus of 300 points.
+292;Ryu-Kishin;15;Monster;DARK;Fiend;3;1000;500
+293;Feral Imp;27;Monster;DARK;Fiend;4;1300;1400
+294;Summoned Skull;37;Monster;DARK;Fiend;6;2500;1200
+295;Horn Imp;28;Monster;DARK;Fiend;4;1300;1000;When this card is flipped face-up, if there's a Jigen Bakudan in any adjacent space, teleport 1 Jigen Bakudan to an opponent's summoning area.
+296;Sangan;16;Monster;DARK;Fiend;3;1000;600
+297;Kuriboh;10;Monster;DARK;Fiend;1;300;200;Whenever damage is inflicted to LP in battle, the damage amount is reduced to 0.
+298;Castle of Dark Illusions;34;Monster;DARK;Fiend;4;920;1930;While this card is face-up in the defense position, all FIEND monsters are awarded a power-up bonus of 500 points.
+299;Reaper of the Cards;39;Monster;DARK;Fiend;5;1380;1930;Able to move and attack without triggering an opponent's TRAP (LR).
+300;King of Yamimakai;36;Monster;DARK;Fiend;5;2000;1530
+301;Barox;30;Monster;DARK;Fiend;5;1380;1530
+302;Dark Chimera;31;Monster;DARK;Fiend;5;1610;1460
+303;Metal Guardian;33;Monster;DARK;Fiend;5;1150;2150
+304;Crass Clown;28;Monster;DARK;Fiend;4;1350;1400
+305;Mask of Darkness;18;Monster;DARK;Fiend;2;900;400;When this card is flipped face-up, revive 1 SPELL card from the Graveyard and set it in own Summoning Area. This can only be done during the turn of a player controlling a Mask of Darkness card.
+306;Job-Change Mirror;21;Monster;DARK;Fiend;3;800;1300
+307;That Which Feeds on Life;22;Monster;DARK;Fiend;4;1200;1000
+308;Trial of Nightmare;22;Monster;DARK;Fiend;4;1300;900
+309;Witty Phantom;27;Monster;DARK;Fiend;4;1400;1300
+310;Mystery Hand;15;Monster;DARK;Fiend;2;500;500;When this card is flipped face-up, if there's a Jigen Bakudan in any adjacent space, teleport 1 Jigen Bakudan to an opponent's summoning area.
+311;The Shadow Who Controls the Dark;20;Monster;DARK;Fiend;3;800;700;When this card is flipped face-up in battle, the engaged enemy is spellbound for 3 turns.
+312;Lord of the Lamp;26;Monster;DARK;Fiend;4;1400;1200
+313;Tainted Wisdom;26;Monster;DARK;Fiend;3;1250;800;While this card is face-up in the defense position, a card's CLASS effects during battle can be identified even if the card is face-down.
+314;Lord of Zemia;23;Monster;DARK;Fiend;4;1300;1000
+315;Dark King of the Abyss;20;Monster;DARK;Fiend;3;1200;800
+316;Big Eye;27;Monster;DARK;Fiend;4;1200;1000;When destroyed in battle, the engaged enemy is spellbound for 1 turn.
+317;Dark Prisoner;21;Monster;DARK;Fiend;3;600;1000;Whenever damage is inflicted to LP in battle, the damage amount is reduced to 0.
+318;Ancient Brain;17;Monster;DARK;Fiend;3;1000;700
+319;Claw Reacher;18;Monster;DARK;Fiend;3;1000;800
+320;Terra the Terrible;25;Monster;DARK;Fiend;4;1200;1300
+321;Mabarrel;31;Monster;DARK;Fiend;5;1700;1400
+322;Midnight Fiend;19;Monster;DARK;Fiend;2;800;600;While this card is face-up in the defense position, all damage to LP is increased by 100 points.
+323;Madjinn Gunn;14;Monster;DARK;Fiend;2;600;800
+324;Dark Titan of Terror;25;Monster;DARK;Fiend;4;1300;1100
+325;The Drdek;20;Monster;DARK;Fiend;3;700;800;When this card is flipped face-up, all cards are shifted to attack position.
+326;Candle of Fate;17;Monster;DARK;Fiend;2;600;600;While this card is face-up in the defense position, all opponent monsters are reduced by 100 points each turn.
+327;Meda Bat;12;Monster;DARK;Fiend;2;800;400
+328;Embryonic Beast;18;Monster;DARK;Fiend;2;500;750;After being turned face-up, transforms into a Ryu-Kishin after surviving 3 turns in a face-up, defense position. However, the card must be turned up by the controlling player.
+329;Wicked Mirror;13;Monster;DARK;Fiend;2;700;600
+330;Versago the Destroyer;20;Monster;DARK;Fiend;3;1100;900
+331;Megirus Light;15;Monster;DARK;Fiend;3;900;600
+332;Gorgon Egg;16;Monster;DARK;Fiend;3;300;1300;Transforms into a ZOMBIE/DARK monster when strengthened with Insect Imitation.
+333;King Fog;19;Monster;DARK;Fiend;3;1000;900
+334;Mystic Clown;25;Monster;DARK;Fiend;4;1500;1000
+335;Dark Artist;20;Monster;DARK;Fiend;3;600;1400
+336;Bio Plant;19;Monster;DARK;Fiend;3;600;1300
+337;Zera The Mant;51;Monster;DARK;Fiend;8;2800;2300
+338;Fiend's Mirror;44;Monster;DARK;Fiend;6;2100;1800;While this card is face-up in the defense position, reduce opponent's Summoning Power by 1 point.
+339;Ryu-Kishin Powered;28;Monster;DARK;Fiend;4;1600;1200
+340;La Jinn the Mystical Genie of the Lamp;28;Monster;DARK;Fiend;4;1800;1000
+341;Bickuribox;43;Monster;DARK;Fiend;7;2300;2000;Strong in TOON terrain.
+342;Zoa;45;Monster;DARK;Fiend;7;2600;1900;Transforms into Metalzoa when strengthened with Metalmorph.
+343;Ushi Oni;41;Monster;DARK;Fiend;6;2150;1950
+344;Monster Eye;11;Monster;DARK;Fiend;1;250;350;When turned face-up, flips the last card played by an opponent face-up.
+345;Soul Hunter;40;Monster;DARK;Fiend;6;2200;1800
+346;Needle Ball;20;Monster;DARK;Fiend;2;750;700;Inflicts 500 points of damage against an opponent's LP when destroyed in battle.
+347;Morinphen;29;Monster;DARK;Fiend;5;1550;1300
+348;Dragon Seeker;41;Monster;DARK;Fiend;6;2000;2100;500 bonus points added in battles against DRAGON monsters.
+349;Fungi of the Musk;12;Monster;DARK;Fiend;1;400;300;Reduces an enemy by 500 points when this card is flipped face-up in battle.
+350;The Bistro Butcher;28;Monster;DARK;Fiend;4;1800;1000
+351;Neck Hunter;37;Monster;DARK;Fiend;6;1750;1900
+352;Chakra;50;Monster;DARK;Fiend;7;2450;2000;Revives in own Summoning Area, other than current location, when destroyed in battle.
+353;Psycho-Puppet;49;Monster;DARK;Fiend;7;2000;2350;If the leader is a Mysterious Puppeteer, gains 1500 points when this card is flipped face-up.
+354;Invader from Another Dimension;24;Monster;DARK;Fiend;4;950;1400
+355;Wretched Ghost of the Attic;10;Monster;DARK;Fiend;2;550;400
+356;Key Mace #2;23;Monster;DARK;Fiend;4;1050;1200
+357;Hiro's Shadow Scout;17;Monster;DARK;Fiend;2;650;500;When this card is flipped face-up, identifies an opponent's face-down card by type (MONSTER/MAGIC/POWER-UP/TRAP).
+358;Whiptail Crow;33;Monster;DARK;Fiend;5;1650;1600
+359;Man-Eating Treasure Chest;26;Monster;DARK;Fiend;4;1600;1000
+360;Baron of the Fiend Sword;24;Monster;DARK;Fiend;4;1550;800
+361;Wall of Illusion;34;Monster;DARK;Fiend;4;1000;1850;Returns enemy monster to opponent's deck for re-shuffling when this card is flipped face-up in battle.
+362;Toon Summoned Skull;37;Monster;DARK;Fiend;6;2500;1200;Strong in TOON terrain.
+363;Three-Headed Geedo;26;Monster;DARK;Fiend;4;1200;1400
+364;Berfomet;37;Monster;DARK;Fiend;5;1400;1800;Increases Summoning Power points to maximum level when this card is flipped face-up.
+365;Kryuel;32;Monster;DARK;Fiend;4;1000;1700;While this card is face-up in the defense position, all damage to LP increased by 200 points.
+366;Dark Shade;20;Monster;WIND;Fiend;3;1000;1000
+367;Air Eater;38;Monster;WIND;Fiend;6;2100;1600
+368;Gyakutenno Megami;43;Monster;LIGHT;Fairy;6;1800;2000;When this card is flipped face-up, all your own monsters with ATK of 1000 or below are increased by 1000 points.
+369;Goddess with the Third Eye;22;Monster;LIGHT;Fairy;4;1200;1000
+370;Orion the Battle King;33;Monster;LIGHT;Fairy;5;1800;1500
+371;Weather Control;15;Monster;LIGHT;Fairy;2;600;400;When this card is flipped face-up, transforms all adjacent spaces to WASTELAND.
+372;Mystical Capture Chain;19;Monster;LIGHT;Fairy;2;700;700;While this card is face-up in the defense position, spellbinds all FIEND monsters.
+373;Spirit of the Harp;28;Monster;LIGHT;Fairy;4;800;2000
+374;Key Mace;17;Monster;LIGHT;Fairy;1;400;300;When this card is flipped face-up, shifts all cards to defense position.
+375;Happy Lover;18;Monster;LIGHT;Fairy;2;800;500;Cancels all power increases or decreases of an enemy monster in battle. Does not cancel bonus effects such as terrain or Leader ability effects.
+376;Petit Angel;20;Monster;LIGHT;Fairy;3;600;900;Revives in own Summoning Area, other than current location, when destroyed in battle.
+377;Hourglass of Life;18;Monster;LIGHT;Fairy;2;700;600;If LP is higher than 1000 at the moment this card is destroyed, a maximum of 4 monsters with the highest ATKs from own as well as opponent's Graveyard are revived under owning player's control. Following the revival, the owning player's LP is reduced by 1000.
+378;Lunar Queen Elzaim;19;Monster;LIGHT;Fairy;3;750;1100
+379;Wing Egg Elf;18;Monster;LIGHT;Fairy;3;500;1300;Randomly transforms to a monster with "Elf" in its name when strengthened with Insect Imitation.
+380;Ray & Temperature;25;Monster;LIGHT;Fairy;3;1000;1000;Cancels all power increases or decreases of an enemy monster in battle. Does not cancel bonus effects such as terrain or Leader ability effects.
+381;Ocubeam;32;Monster;LIGHT;Fairy;5;1550;1650
+382;Goddess of Whim;22;Monster;LIGHT;Fairy;3;950;700;Own ATK/DEF either increased or decreased by up to 1500 points when entering battle.
+383;Hoshiningen;17;Monster;LIGHT;Fairy;2;500;700;Own LIGHT monsters strengthened by 300 points when this card is flipped face-up.
+384;Skelengel;18;Monster;LIGHT;Fairy;2;900;400;If a card has been played from the hand in the turn when this card is destroyed in battle, the owning player can play one more card from the hand.
+385;Dark Witch;35;Monster;LIGHT;Fairy;5;1800;1700
+386;Binding Chain;26;Monster;LIGHT;Fairy;3;1000;1100;While this card is face-up in the defense position, all WARRIOR monsters are spellbound.
+387;Muse-A;23;Monster;LIGHT;Fairy;3;850;900;When this card is flipped face-up, all Musician King cards are strengthened 700 points.
+388;Tenderness;26;Monster;LIGHT;Fairy;3;700;1400;While this card is face-up in the defense position, all damage to LP are reduced by half.
+389;Shining Friendship;24;Monster;LIGHT;Fairy;4;1300;1100;Spellbinds enemy for 1 turn when this card is flipped face-up in battle.
+390;Hourglass of Courage;28;Monster;LIGHT;Fairy;4;1100;1200;If LP is over 1000 points when this card is destroyed in battle, the strength of your monsters are increased by 1000 points, and your LP is reduced by 1000.
+391;Winged Egg of New Life;31;Monster;LIGHT;Fairy;5;1400;1700
+392;Airknight Parshath;33;Monster;LIGHT;Fairy;5;1900;1400
+393;Doma The Angel of Silence;30;Monster;DARK;Fairy;5;1600;1400
+394;Dancing Elf;5;Monster;WIND;Fairy;1;300;200
+395;Spiked Snail;25;Monster;DARK;Insect;3;700;1300;Able to move 2 spaces regardless of terrain when this card is face-up.
+396;Big Insect;27;Monster;EARTH;Insect;4;1200;1500
+397;Basic Insect;12;Monster;EARTH;Insect;2;500;700
+398;Hercules Beetle;35;Monster;EARTH;Insect;5;1500;2000
+399;Gokibore;26;Monster;EARTH;Insect;4;1200;1400
+400;Giant Flea;27;Monster;EARTH;Insect;4;1500;1200
+401;Larvae Moth;9;Monster;EARTH;Insect;2;500;400;Transforms to Larva of Moth when strengthened with Cocoon of Evolution.
+402;Great Moth;56;Monster;EARTH;Insect;8;2600;2500;While this card is face-up in the defense position, all enemy monsters are reduced by 100 points each turn.
+403;Perfectly Ultimate Great Moth;70;Monster;EARTH;Insect;8;3500;3000;While this card is face-up in the defense position, all enemy monsters are reduced by 100 points each turn.
+404;Nightmare Scorpion;22;Monster;EARTH;Insect;3;900;800;Spellbinds opposing monster for 1 turn when this card is flipped face-up in battle.
+405;Winged Cleaver;14;Monster;EARTH;Insect;2;700;700
+406;Kumootoko;21;Monster;EARTH;Insect;3;700;1400
+407;Petit Moth;5;Monster;EARTH;Insect;1;300;200;Transforms to Larva of Moth when strengthened with Cocoon of Evolution.
+408;Jirai Gumo;33;Monster;EARTH;Insect;4;2200;100;Cancels all power increases or decreases of an enemy monster in battle. Does not cancel bonus effects such as terrain or Leader ability effects. Decreases LP by 100 points for each space moved.
+409;Dungeon Worm;33;Monster;EARTH;Insect;5;1800;1500;Can enter LABYRINTH terrain.
+410;Leghul;12;Monster;EARTH;Insect;1;300;350;Teleports to opponent's Summoning Area when this card is flipped face-up. When this card is flipped face-up in battle, the battle to be engaged is cancelled.
+411;Ganigumo;19;Monster;EARTH;Insect;2;600;800;Able to move and attack without triggering an opponent's TRAP (LR).
+412;Alinsection;17;Monster;EARTH;Insect;3;950;700
+413;Cockroach Knight;17;Monster;EARTH;Insect;3;800;900
+414;Kuwagata α;23;Monster;EARTH;Insect;4;1250;1000
+415;Korogashi;15;Monster;EARTH;Insect;2;550;400;Reduces all monsters located in vertical and horizontal spaces by 300 points when destroyed in battle.
+416;Kattapillar;6;Monster;EARTH;Insect;1;250;300;Transforms to Larva of Moth when strengthened with Cocoon of Evolution.
+417;Man-Eater Bug;16;Monster;EARTH;Insect;2;450;600;Destroys opposing enemy when this card is flipped face-up in battle.
+418;Gale Dogra;18;Monster;EARTH;Insect;2;650;600;While this card is face-up in the defense position, all enemy monsters are reduced 100 points each turn.
+419;Kwagar Hercules;36;Monster;EARTH;Insect;6;1900;1700
+420;Minar;17;Monster;EARTH;Insect;3;850;750
+421;Kamakiriman;26;Monster;EARTH;Insect;4;1150;1400
+422;Javelin Beetle;55;Monster;EARTH;Insect;8;2450;2550;600 bonus points added in battles against DRAGON monsters.
+423;Needle Worm;14;Monster;EARTH;Insect;2;750;600;Transforms to Larva of Moth when strengthened with Cocoon of Evolution.
+424;Giant Scorpion of the Tundra;21;Monster;EARTH;Insect;3;1100;1000
+425;Hunter Spider;30;Monster;EARTH;Insect;5;1600;1400
+426;Acid Crawler;16;Monster;EARTH;Insect;3;900;700;Transforms to Larva of Moth when strengthened with Cocoon of Evolution.
+427;Larva of Moth;25;Monster;EARTH;Insect;2;0;2000;Cannot move. Transforms into Pupa of Moth if this card survives 5 turns in face-up, defense position after being flipped face-up by the controlling player. If destroyed prior to transformation, the card is revived as Larvae Moth in own Summoning Area other than current location.
+428;Pupa of Moth;25;Monster;EARTH;Insect;2;0;2000;Cannot move. Transforms into Perfectly Ultimate Great Moth if this card survives 1 turn in face-up, defense position after being flipped face-up by the controlling player. If destroyed in battle, the card is revived as Great Moth in own Summoning Area other than current location.
+429;Arsenal Bug;50;Monster;EARTH;Insect;3;2000;2000;All spaces within an area of 2 spaces are transformed into FOREST terrain. If an INSECT monster is Leader, this card's power is strengthened by 1500 points when this card is flipped face-up.
+430;Killer Needle;22;Monster;WIND;Insect;4;1200;1000
+431;Insect Soldiers of the Sky;18;Monster;WIND;Insect;3;1000;800
+432;Bladefly;18;Monster;WIND;Insect;2;600;700;While this card is face-up in the defense position, all WIND monsters gain a 500-point power-up bonus.
+433;Sword Arm of Dragon;38;Monster;EARTH;Dinosaur;6;1750;2030
+434;Two-Headed King Rex;28;Monster;EARTH;Dinosaur;4;1600;1200
+435;Mammoth Graveyard;20;Monster;EARTH;Dinosaur;3;1200;800
+436;Megazowler;38;Monster;EARTH;Dinosaur;6;1800;2000
+437;Uraby;23;Monster;EARTH;Dinosaur;4;1500;800
+438;Crawling Dragon #2;28;Monster;EARTH;Dinosaur;4;1600;1200
+439;Tomozaurus;9;Monster;EARTH;Dinosaur;2;500;400
+440;Two-Mouth Darkruler;16;Monster;EARTH;Dinosaur;3;900;700
+441;Pragtical;34;Monster;EARTH;Dinosaur;5;1900;1500
+442;Anthrosaurus;19;Monster;EARTH;Dinosaur;3;1000;850
+443;Trakadon;21;Monster;EARTH;Dinosaur;3;1300;800
+444;Little D;18;Monster;EARTH;Dinosaur;3;1100;700
+445;Bracchio-raidus;42;Monster;WATER;Dinosaur;6;2200;2000
+446;Armored Lizard;27;Monster;EARTH;Reptile;4;1500;1200
+447;Serpent Marauder;18;Monster;EARTH;Reptile;2;700;600;While this card is face-up in the defense position, cancels any increased movement effects for all cards.
+448;Yormungarde;21;Monster;EARTH;Reptile;3;1200;900
+449;Drooling Lizard;17;Monster;EARTH;Reptile;3;900;800
+450;Beaked Snake;17;Monster;EARTH;Reptile;3;800;900
+451;Ancient Lizard Warrior;25;Monster;EARTH;Reptile;4;1400;1100
+452;Krokodilus;23;Monster;WATER;Reptile;4;1100;1200
+453;Grappler;25;Monster;WATER;Reptile;4;1300;1200
+454;Toon Alligator;24;Monster;WATER;Reptile;4;800;1600;Strong in TOON terrain.
+455;Emperor of the Land and Sea;33;Monster;WATER;Reptile;5;1800;1500
+456;Sinister Serpent;11;Monster;WATER;Reptile;1;300;250;Reduces opponent's Summoning Power to 0 when destroyed in battle.
+457;Mechaleon;19;Monster;WATER;Reptile;2;800;600;Flips all your spell cards face-down when this card is flipped face-up.
+458;Serpentine Princess;39;Monster;WATER;Reptile;5;1400;2000;Own REPTILE monsters strengthened by 900 points when this card is flipped face-up.
+459;Great White;24;Monster;WATER;Fish;4;1600;800
+460;Rare Fish;27;Monster;WATER;Fish;4;1500;1200
+461;Root Water;22;Monster;WATER;Fish;3;900;800;All spaces within a range of 1 space are transformed to Sea terrain when this card is flipped face-up.
+462;Enchanting Mermaid;21;Monster;WATER;Fish;3;1200;900
+463;White Dolphin;9;Monster;WATER;Fish;2;500;400
+464;Deepsea Shark;35;Monster;WATER;Fish;5;1900;1600
+465;Bottom Dweller;34;Monster;WATER;Fish;5;1650;1700
+466;7 Colored Fish;26;Monster;WATER;Fish;4;1800;800
+467;Rainbow Marine Mermaid;33;Monster;WATER;Fish;5;1550;1700
+468;Crazy Fish;28;Monster;WATER;Fish;4;1600;1200
+469;Misairuzame;35;Monster;WATER;Fish;5;1400;1600;Adds 500 bonus points for any battle against MACHINE monsters.
+470;Tongyo;22;Monster;WATER;Fish;4;1350;800;Decreases opposing enemy by 500 points when this card is flipped face-up in battle.
+471;Wow Warrior;27;Monster;WATER;Fish;4;1250;900
+472;Fortress Whale;50;Monster;WATER;Fish;7;2350;2150;Automatically destroys WARRIOR monsters in battle.
+473;Man-eating Black Shark;34;Monster;WATER;Fish;5;2100;1300
+474;Marine Beast;33;Monster;WATER;Fish;5;1700;1600
+475;Amazon of the Seas;27;Monster;WATER;Fish;4;1300;1400
+476;Kairyu-Shin;38;Monster;WATER;Sea Serpent;5;1800;1500;All spaces within a range of 1 space are transformed to Sea terrain when this card is flipped face-up.
+477;Takriminos;27;Monster;WATER;Sea Serpent;4;1500;1200
+478;Aqua Dragon;47;Monster;WATER;Sea Serpent;6;2250;1900;Space occupied is transformed to Sea terrain when engaged in battle.
+479;Sea King Dragon;37;Monster;WATER;Sea Serpent;6;2000;1700
+480;Spike Seadra;34;Monster;WATER;Sea Serpent;5;1600;1300;When this card is flipped face-up, this card is strengthened by 300 points for every THUNDER monster on the field.
+481;Guardian of the Throne Room;33;Monster;LIGHT;Machine;4;1650;1600
+482;Ancient Tool;31;Monster;DARK;Machine;5;1700;1400
+483;Gatekeeper;33;Monster;DARK;Machine;5;1500;1800
+484;Cyber Soldier of Darkworld;26;Monster;DARK;Machine;4;1400;1200
+485;Megasonic Eye;33;Monster;DARK;Machine;5;1500;1800
+486;Labyrinth Tank;53;Monster;DARK;Machine;7;2400;2400;Can enter LABYRINTH squares.
+487;Pendulum Machine;38;Monster;DARK;Machine;6;1750;2000
+488;Metalzoa;53;Monster;DARK;Machine;8;3000;2300
+489;Saber Slasher;30;Monster;DARK;Machine;5;1450;1500
+490;Yaiba Robo;28;Monster;DARK;Machine;4;1000;1300;Inflicts 300 points of damage to opponent's LP when destroyed in battle.
+491;Cyber Soldier;32;Monster;DARK;Machine;5;1500;700
+492;Mechanicalchaser;27;Monster;DARK;Machine;4;1850;800
+493;Blocker;32;Monster;DARK;Machine;4;850;1800;Whenever damage is inflicted to LP in battle, the damage amount is reduced to 0.
+494;Spike Clubber;35;Monster;DARK;Machine;5;1700;1800
+495;Cyber-Stein;17;Monster;DARK;Machine;2;700;500;Turns occupied space into WASTELAND when engaged in battle.
+496;Cyber Commander;20;Monster;DARK;Machine;2;750;700;While this card is face-up in the defense position, the strength of all your MACHINE monsters are increased by 300 bonus points.
+497;Jinzo #7;9;Monster;DARK;Machine;2;500;400
+498;Cannon Soldier;32;Monster;DARK;Machine;4;1400;1300;Can enter labyrinth squares, and transforms the occupied space into NORMAL terrain.
+499;Brave Scizzar;23;Monster;DARK;Machine;4;1300;1000
+500;Dharma Cannon;19;Monster;DARK;Machine;2;900;500;Can enter labyrinth squares, and transforms the occupied space into NORMAL terrain.
+501;Red-Eyes Black Metal Dragon;52;Monster;DARK;Machine;8;2800;2400
+502;Barrel Dragon;53;Monster;DARK;Machine;7;2600;2200;When this card is flipped face-up, 1 card other than own is randomly selected for destruction.
+503;Mechanical Snail;18;Monster;DARK;Machine;3;800;1000
+504;Disk Magician;24;Monster;DARK;Machine;4;1350;1000
+505;Slot Machine;43;Monster;DARK;Machine;7;2000;2300
+506;Blast Sphere;33;Monster;DARK;Machine;4;1400;1400;All cards located in the surrounding 3×3 area are automatically destroyed when this card is destroyed in battle.
+507;Space Megatron;34;Monster;DARK;Machine;4;1400;2000
+508;Launcher Spider;47;Monster;FIRE;Machine;7;2200;2500
+509;Blast Juggler;22;Monster;FIRE;Machine;3;800;900;All cards located in the surrounding 3×3 area are automatically destroyed when this card is destroyed in battle.
+510;Robotic Knight;39;Monster;FIRE;Machine;5;1600;1800;While this card is face-up in the defense position, the strength of all your MACHINE monsters are increased by 300 bonus points.
+511;Ground Attacker Bugroth;25;Monster;EARTH;Machine;4;1500;1000
+512;Holograh;18;Monster;EARTH;Machine;3;1100;700
+513;Steel Scorpion;6;Monster;EARTH;Machine;1;250;300
+514;Machine King;47;Monster;EARTH;Machine;6;2200;2000;When this card is flipped face-up, this card is strengthened by 100 points for every MACHINE monster on the field.
+515;Giant Mech-Soldier;37;Monster;EARTH;Machine;6;1750;1900
+516;Mechanical Spider;9;Monster;EARTH;Machine;2;400;500
+517;Giga-tech Wolf;26;Monster;EARTH;Machine;4;1200;1400
+518;Shovel Crusher;21;Monster;EARTH;Machine;3;900;1200
+519;Golgoil;30;Monster;EARTH;Machine;4;900;1600;Revives in own Summoning Area, other than current location, when destroyed in battle.
+520;Dice Armadillo;35;Monster;EARTH;Machine;5;1650;1800
+521;Cyber Saurus;32;Monster;EARTH;Machine;5;1800;1400
+522;Steel Ogre Grotto #1;32;Monster;EARTH;Machine;5;1400;1800
+523;Patrol Robo;25;Monster;EARTH;Machine;3;1100;900;When this card is flipped face-up, flips all opponent SPELL cards face-up.
+524;Royal Guard;41;Monster;EARTH;Machine;6;1900;2200
+525;Machine Attacker;29;Monster;EARTH;Machine;5;1600;1300
+526;Steel Ogre Grotto #2;41;Monster;EARTH;Machine;6;1900;2200
+527;Gear Golem the Moving Fortress;30;Monster;EARTH;Machine;5;800;2200
+528;Kinetic Soldier;47;Monster;EARTH;Machine;3;2350;1800;Increases 2000 bonus points in battles against WARRIOR monsters.
+529;Metal Dragon;36;Monster;WIND;Machine;6;1850;1700
+530;Bat;12;Monster;WIND;Machine;1;300;350;When this card is flipped face-up, if there's a Jigen Bakudan in any adjacent space, teleport 1 Jigen Bakudan to an opponent's summoning area.
+531;Metal Fish;35;Monster;WATER;Machine;5;1600;1900
+532;Mech Bass;33;Monster;WATER;Machine;3;1800;1500
+533;Oscillo Hero #2;20;Monster;LIGHT;Thunder;3;1000;500;Increases 800 bonus points in battles against FISH monsters.
+534;Sanga of the Thunder;53;Monster;LIGHT;Thunder;7;2600;2200;Whenever damage is inflicted to LP in battle, the damage amount is reduced to 0.
+535;Thunder Dragon;31;Monster;LIGHT;Thunder;5;1600;1500
+536;The Immortal of Thunder;33;Monster;LIGHT;Thunder;4;1500;1300;While this card is face-up in the defense position, all female monsters are reduced by 500 points.
+537;Electric Snake;22;Monster;LIGHT;Thunder;3;800;900;Increases 1000 bonus points in battles against MACHINE monsters.
+538;Twin-Headed Thunder Dragon;49;Monster;LIGHT;Thunder;7;2800;2100
+539;Thunder Nyan Nyan;32;Monster;LIGHT;Thunder;4;1900;800;While this card is face-up in the defense position, all face-up THUNDER monsters gain movement bonus.
+540;Tripwire Beast;25;Monster;EARTH;Thunder;4;1200;1300
+541;Electric Lizard;22;Monster;EARTH;Thunder;3;850;800;Spellbinds the opposing enemy for 1 turn when this card is flipped face-up in battle.
+542;LaLa Li-oon;17;Monster;WIND;Thunder;2;600;600;While this card is face-up in the defense position, all MACHINE monsters are reduced 500 points.
+543;Kaminarikozou;13;Monster;WIND;Thunder;2;700;600
+544;Kaminari Attack;33;Monster;WIND;Thunder;5;1900;1400
+545;Mega Thunderball;19;Monster;WIND;Thunder;2;750;600;Gain control of an opposing monster if it is MACHINE for one turn when this card is flipped face-up in battle.
+546;Bolt Escargot;29;Monster;WATER;Thunder;5;1400;1500
+547;Bolt Penguin;19;Monster;WATER;Thunder;3;1100;800
+548;Fire Kraken;31;Monster;FIRE;Aqua;5;1600;1500
+549;Boulder Tortoise;37;Monster;EARTH;Aqua;6;1450;2200
+550;Fiend Kraken;26;Monster;WATER;Aqua;4;1200;1400
+551;Jellyfish;32;Monster;WATER;Aqua;4;1200;1500;While this card is face-up in the defense position, all THUNDER monsters are reduced 500 points.
+552;Catapult Turtle;35;Monster;WATER;Aqua;5;1000;2000;Can enter labyrinth squares, and transforms the occupied space into NORMAL terrain.
+553;Octoberser;30;Monster;WATER;Aqua;5;1600;1400
+554;Toad Master;25;Monster;WATER;Aqua;3;1000;1000;Summons Frog The Jam in own Summon Area when this card is flipped face-up.
+555;Akihiron;31;Monster;WATER;Aqua;5;1700;1400
+556;The Melting Red Shadow;12;Monster;WATER;Aqua;2;500;700
+557;Monsturtle;18;Monster;WATER;Aqua;3;800;1000
+558;Turtle Tiger;26;Monster;WATER;Aqua;4;1000;1500
+559;Arma Knight;22;Monster;WATER;Aqua;4;1000;1200
+560;Penguin Knight;22;Monster;WATER;Aqua;3;900;800;All Penguin Soldiers increase 800 points when this card is flipped face-up.
+561;Dorover;22;Monster;WATER;Aqua;3;900;800;When destroyed, spellbinds the enemy it engaged in battle for 1 turn.
+562;Twin Long Rods #1;14;Monster;WATER;Aqua;3;900;700
+563;Roaring Ocean Snake;49;Monster;WATER;Aqua;6;2100;1800;When engaged in battle, transforms the space it occupies into Sea terrain. When this card is flipped face-up, transforms all adjacent spaces into Sea terrain.
+564;Hitodenchak;18;Monster;WATER;Aqua;2;600;700;Gains 1000 bonus points when engaged in battle with MACHINE monsters.
+565;Water Element;21;Monster;WATER;Aqua;3;900;700;When this card is flipped face-up, flips all of own SPELL cards face-down.
+566;Water Omotics;26;Monster;WATER;Aqua;4;1400;1200
+567;Beastking of the Swamps;26;Monster;WATER;Aqua;4;1000;1100;When destroyed, destroys the enemy it engaged in battle with.
+568;The Furious Sea King;20;Monster;WATER;Aqua;3;800;700;When this card is flipped face-up, transforms all adjacent spaces to Sea terrain.
+569;Wetha;19;Monster;WATER;Aqua;3;1000;900
+570;Change Slime;12;Monster;WATER;Aqua;1;400;300;Adopts opposing monster's ATK/DEF when this card is flipped face-up in battle.
+571;Psychic Kappa;19;Monster;WATER;Aqua;2;400;1000;Whenever damage is inflicted to LP in battle, the damage amount is reduced to 0.
+572;Flying Penguin;22;Monster;WATER;Aqua;2;1200;1000
+573;Suijin;54;Monster;WATER;Aqua;7;2500;2400;Whenever damage is inflicted to LP in battle, the damage amount is reduced to 0.
+574;Zone Eater;10;Monster;WATER;Aqua;1;250;200;Transforms all horizontal spaces to Sea spaces when this card is flipped face-up.
+575;Ooguchi;11;Monster;WATER;Aqua;1;300;250;Teleports to opponent's Summoning Area when this card is flipped face-up. When this card is flipped in battle, that battle is canceled.
+576;Water Magician;24;Monster;WATER;Aqua;4;1400;1000
+577;Ice Water;21;Monster;WATER;Aqua;3;1150;900
+578;Waterdragon Fairy;18;Monster;WATER;Aqua;3;1100;700
+579;Water Girl;23;Monster;WATER;Aqua;4;1250;1000
+580;Turu-Purun;15;Monster;WATER;Aqua;2;450;500;Gains 1000 bonus points when engaging in battle against FISH monsters.
+581;Guardian of the Sea;23;Monster;WATER;Aqua;4;1300;1000
+582;Aqua Snake;25;Monster;WATER;Aqua;3;1050;900;Spellbinds the opposing enemy for 1 turn when this card is flipped face-up in battle.
+583;Giant Red Seasnake;26;Monster;WATER;Aqua;4;1800;800
+584;30,000-Year White Turtle;34;Monster;WATER;Aqua;5;1250;2100
+585;Kappa Avenger;21;Monster;WATER;Aqua;3;1200;900
+586;Kanikabuto;16;Monster;WATER;Aqua;3;650;900
+587;Zarigun;13;Monster;WATER;Aqua;2;600;700
+588;Sea Kamen;24;Monster;WATER;Aqua;4;1100;1300
+589;Ameba;12;Monster;WATER;Aqua;1;300;350;Transforms all adjacent spaces into Sea spaces when destroyed in battle.
+590;Yado Karu;26;Monster;WATER;Aqua;4;900;1700
+591;Turtle Raccoon;21;Monster;WATER;Aqua;3;700;900;Teleports to own Summoning Area when this card is flipped face-up. When this card is flipped face-up in battle, that battle is canceled.
+592;Turtle Bird;36;Monster;WATER;Aqua;6;1900;1700
+593;Star Boy;16;Monster;WATER;Aqua;2;550;500;When this card is flipped face-up, all of own AQUA monsters are strengthened by 300 points.
+594;Frog The Jam;17;Monster;WATER;Aqua;2;700;500;While this card is face-up in the defense position, all LP recovery points are doubled.
+595;Behegon;24;Monster;WATER;Aqua;4;1350;1000
+596;Crab Turtle;51;Monster;WATER;Aqua;8;2550;2500
+597;Weather Report;25;Monster;WATER;Aqua;4;950;1500
+598;Giant Turtle Who Feeds on Flames;32;Monster;WATER;Aqua;5;1400;1800
+599;Violent Rain;29;Monster;WATER;Aqua;4;1550;800;When this card is flipped face-up, all adjacent spaces are transformed into Sea terrain.
+600;Penguin Soldier;18;Monster;WATER;Aqua;2;750;500;All Penguin Knights increase 800 points when this card is flipped face-up.
+601;Liquid Beast;18;Monster;WATER;Aqua;3;950;800
+602;Twin Long Rods #2;16;Monster;WATER;Aqua;3;850;700
+603;Armored Starfish;23;Monster;WATER;Aqua;4;850;1400
+604;High Tide Gyojin;30;Monster;WATER;Aqua;5;1650;1300
+605;Fairy of the Fountain;27;Monster;WATER;Aqua;4;1600;1100
+606;Night Lizard;25;Monster;WATER;Aqua;4;1150;1300
+607;Amphibious Bugroth;32;Monster;WATER;Aqua;5;1850;1300
+608;Gruesome Goo;20;Monster;WATER;Aqua;3;1300;700
+609;Hyosube;24;Monster;WATER;Aqua;4;1500;900
+610;Red Archery Girl;29;Monster;WATER;Aqua;4;1400;1500
+611;Toon Mermaid;29;Monster;WATER;Aqua;4;1400;1500;Strong in TOON terrain.
+612;Maiden of the Aqua;32;Monster;WATER;Aqua;4;700;2000;The power of all your AQUA monsters increases 500 points while this card is face-up in the defense position.
+613;Dragon Piper;20;Monster;FIRE;Pyro;3;200;1800;When this card is flipped face-up, all spellbound cards are freed and can move in the following turn.
+614;Wings of Wicked Flame;13;Monster;FIRE;Pyro;2;700;600
+615;Charubin the Fire Knight;19;Monster;FIRE;Pyro;3;1100;800
+616;Fire Eye;19;Monster;FIRE;Pyro;2;800;600;Able to move and attack without triggering an opponent's TRAP (LR).
+617;Hinotama Soul;16;Monster;FIRE;Pyro;2;600;500;When this card is destroyed in battle, all SPELL cards positioned in adjacent spaces are destroyed.
+618;Fireyarou;23;Monster;FIRE;Pyro;4;1300;1000
+619;Vermillion Sparrow;34;Monster;FIRE;Pyro;5;1900;1500
+620;Flame Cerebrus;39;Monster;FIRE;Pyro;6;2100;1800
+621;Jigen Bakudan;17;Monster;FIRE;Pyro;2;200;1000;When this card survives 2 turns face-up in the defense position, all cards located in a 3×3 area are automatically destroyed. This only applies when the controlling player intentionally flips the card face-up.
+622;Molten Behemoth;37;Monster;FIRE;Pyro;5;1000;2200;The power of all your PYRO monsters increases 500 points while this card is face-up in the defense position.
+623;Flame Snake;9;Monster;EARTH;Pyro;2;400;450
+624;Prisman;23;Monster;LIGHT;Rock;3;800;1000;When this card is flipped face-up, all your SPELL cards are flipped face-down.
+625;Rock Ogre Grotto #1;20;Monster;EARTH;Rock;3;800;1200
+626;Giant Soldier of Stone;33;Monster;EARTH;Rock;3;1300;2000
+627;Ancient Jar;11;Monster;EARTH;Rock;1;400;200;The turn count for spellbound cards is not conducted while the card is in the face-up, defense position.
+628;Haniwa;10;Monster;EARTH;Rock;2;500;500
+629;Dissolverock;24;Monster;EARTH;Rock;3;900;1000;When this card is flipped face-up, all cards located in MOUNTAIN terrain are destroyed.
+630;Stone Armadiller;20;Monster;EARTH;Rock;3;800;1200
+631;Rock Ogre Grotto #2;21;Monster;EARTH;Rock;3;700;1400
+632;Stone D.;43;Monster;EARTH;Rock;7;2000;2300
+633;Millennium Golem;42;Monster;EARTH;Rock;6;2000;2200
+634;Destroyer Golem;25;Monster;EARTH;Rock;4;1500;1000
+635;Barrel Rock;28;Monster;EARTH;Rock;4;1000;1300;Can enter labyrinth squares, and transforms the occupied space into NORMAL terrain.
+636;Minomushi Warrior;25;Monster;EARTH;Rock;4;1300;1200
+637;Stone Ghost;22;Monster;EARTH;Rock;4;1200;1000
+638;The Statue of Easter Island;25;Monster;EARTH;Rock;4;1100;1400
+639;Muka Muka;14;Monster;EARTH;Rock;2;600;300;When this card is flipped face-up, the power of this card increases by 300 points for every monster in the controlling player's graveyard.
+640;Sand Stone;29;Monster;EARTH;Rock;5;1300;1600
+641;Mystical Sand;38;Monster;EARTH;Rock;6;2100;1700
+642;Pot the Trick;13;Monster;EARTH;Rock;2;400;400;When this card is flipped face-up, your spellbound cards are freed and can move in the following turn.
+643;Morphing Jar;13;Monster;EARTH;Rock;2;700;600
+644;The Thing That Hides in the Mud;25;Monster;EARTH;Rock;4;1200;1300
+645;Stone Ogre Grotto;31;Monster;EARTH;Rock;5;1600;1500
+646;Stone Statue of the Aztecs;23;Monster;EARTH;Rock;4;300;2000
+647;Dark Plant;12;Monster;DARK;Plant;1;300;400;When this card is destroyed in battle, all adjacent spaces are transformed into CRUSH terrain.
+648;Rose Spectre of Dunn;38;Monster;DARK;Plant;6;2000;1800
+649;Mushroom Man;18;Monster;EARTH;Plant;2;800;600;When this card is flipped face-up, the power of all Mushroom Man #2 cards are increased by 500 points.
+650;Man-Eating Plant;14;Monster;EARTH;Plant;2;800;600
+651;Firegrass;13;Monster;EARTH;Plant;2;700;600
+652;Man Eater;19;Monster;EARTH;Plant;2;800;600;When this card is flipped face-up, all cards located in FOREST terrain are destroyed.
+653;Arlownay;18;Monster;EARTH;Plant;3;800;1000
+654;Yashinoki;19;Monster;EARTH;Plant;2;800;600;When this card is flipped face-up, LP increases 500 points.
+655;Ancient Tree of Enlightenment;26;Monster;EARTH;Plant;3;600;1500;While this card is face-up in the defense position, TRAP cards cannot be triggered.
+656;Green Phantom King;26;Monster;EARTH;Plant;3;500;1600;When this card is flipped face-up, all Queen of Autumn Leaves cards are strengthened by 500 points.
+657;Rainbow Flower;9;Monster;EARTH;Plant;2;400;500
+658;Barrel Lily;17;Monster;EARTH;Plant;3;1100;600
+659;Laughing Flower;19;Monster;EARTH;Plant;2;900;500;Control of opposing card is gained when this card is flipped face-up in battle.
+660;Bean Soldier;27;Monster;EARTH;Plant;4;1400;1300
+661;Griggle;7;Monster;EARTH;Plant;1;350;300
+662;Darkworld Thorns;21;Monster;EARTH;Plant;3;1200;900
+663;Abyss Flower;12;Monster;EARTH;Plant;2;750;400
+664;Living Vase;20;Monster;EARTH;Plant;3;900;1100
+665;Snakeyashi;22;Monster;EARTH;Plant;4;1000;1200
+666;Trent;33;Monster;EARTH;Plant;5;1500;1800
+667;Queen of Autumn Leaves;33;Monster;EARTH;Plant;5;1800;1500
+668;Woodland Sprite;47;Monster;EARTH;Plant;3;2100;2100;Power increases by 2500 points in battles against FIEND monsters.
+669;Tentacle Plant;11;Monster;WATER;Plant;2;500;600
+670;Fairy King Truesdale;42;Monster;WATER;Plant;6;2200;1500;While this card is face-up in the defense position, the power of all your PLANT monsters increases by 500 points.
+671;Summoned Lord Exodia;;Monster;DARK;Spellcaster
+672;Jowls of Dark Demise;18;Monster;WATER;Immortal;2;200;100;When this parasite card is flipped face-up in battle, it takes control of the opposing card. When the controlled monster is destroyed in battle, this card is revived in the controlling player's Summoning Area, other than its current location. The nature effect and destruction features of the monster that's taken over are rendered ineffective. Transforms adjacent spaces into CRUSH terrain when this card is destroyed in battle.
+673;Souleater;27;Monster;EARTH;Immortal;4;1200;0;When this card enters a turn face-up and in the defense position, all MONSTER cards are removed from the respective Graveyards, and the number of these removed cards are multiplied by 200 points. The result is added to the power of this card. Transforms adjacent spaces into CRUSH terrain when this card is destroyed in battle.
+674;Slate Warrior;38;Monster;WIND;Immortal;4;1900;400;When this card is flipped face-up, all your IMMORTAL cards are strengthened by 500 points. Transforms adjacent spaces into CRUSH terrain when this card is destroyed in battle.
+675;Shapesnatch;44;Monster;DARK;Immortal;5;1200;1700;Shapesnatch's ATK and DEF copies the enemy Leader's ATK for attacks and your own Leader's DEF when defending. Transforms adjacent spaces into CRUSH terrain when this card is destroyed in battle.
+676;Carat Idol;72;Monster;LIGHT;Immortal;9;2600;3100;(Nature Effect) When this card enters a turn face-up and in the defense position, all cards are drawn 1 space towards Carat Idol! (Destruction) Transforms adjacent spaces to CRUSH terrain when this card is destroyed in battle!
+677;Electromagnetic Bagworm;31;Monster;LIGHT;Immortal;3;200;1400;When this card is flipped face-up, a player gains control of all opposing MACHINE monsters for the turn in play. Transforms adjacent spaces into CRUSH terrain when this card is destroyed in battle.
+678;Timeater;51;Monster;DARK;Immortal;6;1900;1700;While this card is face-up in the defense position, the countdown speed for spellbound cards are doubled should a Turn Count be involved. Transforms adjacent spaces into CRUSH terrain when this card is destroyed in battle.
+679;Mucus Yolk;16;Monster;DARK;Immortal;3;0;100;Each time Mucus Yolk moves, an opponent's LP is reduced by 50 points. Transforms adjacent spaces into CRUSH terrain when this card is destroyed in battle.
+680;Servant of Catabolism;27;Monster;LIGHT;Immortal;3;700;500;While this card is face-up in the defense position, an additional point is added each turn during the recovery of the player's Summoning Power points. Transforms adjacent spaces into CRUSH terrain when this card is destroyed in battle.
+681;Rigras Leever;32;Monster;FIRE;Immortal;3;1600;100;When this card is flipped face-up, all players must discard their current hand to their respective Graveyards. Transforms adjacent spaces into CRUSH terrain when this card is destroyed in battle.
+682;Moisture Creature;72;Monster;LIGHT;Immortal;9;2800;2900;While this card is face-up in the defense position, the opposing leader's powers are rendered ineffective. Transforms adjacent spaces into CRUSH terrain when this card is destroyed in battle.
+683;Dragon Capture Jar;50;Spell;Permanently spellbinds all DRAGON monsters.
+684;Time Seal;50;Spell;Permanently spellbinds the monster with the highest ATK on the field.
+685;Monster Reborn;50;Spell;Select, revive, and control 1 MONSTER Card from either Graveyard.
+686;Copycat;50;Spell;Select, revive, and control 1 SPELL Card from an opponent's Graveyard.
+687;Mimicat;80;Spell;Select, revive, and control 1 Card from either Graveyard.
+688;Graverobber;60;Spell;Select, revive, and control 1 SPELL Card from either Graveyard.
+689;Forest;30;Spell;Transforms a surrounding 2-space area into FOREST terrain.
+690;Wasteland;30;Spell;Transforms a surrounding 2-space area into WASTELAND terrain.
+691;Mountain;30;Spell;Transforms a surrounding 2-space area into MOUNTAIN terrain.
+692;Sogen;30;Spell;Transforms a surrounding 2-space area into MEADOW terrain.
+693;Umi;30;Spell;Transforms a surrounding 2-space area into SEA terrain.
+694;Yami;30;Spell;Transforms a surrounding 2-space area into DARK terrain.
+695;Toon World;30;Spell;Transforms a surrounding 2-space area into TOON terrain.
+696;Burning Land;30;Spell;Transforms a surrounding 2-space area into NORMAL terrain.
+697;Labyrinth Wall;35;Spell;Transform the occupied space into LABYRINTH terrain.
+698;Magical Labyrinth;10;Spell;Randomly selects 1 LABYRINTH terrain space, transforms it to NORMAL, and transforms the space where this card was triggered into LABYRINTH terrain. This card is effective only if there is at least one space containing LABYRINTH terrain on the field.
+699;Dark Hole;50;Spell;Destroys all monster and spell cards on the field.
+700;Raigeki;80;Spell;Destroys all monsters located in vertical and horizontal lines from the activated space.
+701;Heavy Storm;50;Spell;Destroys all spell cards on the field.
+702;Harpie's Feather Duster;70;Spell;Destroys all spells located in vertical and horizontal lines from the activated space.
+703;Mooyan Curry;5;Spell;200-pt LP recovery for controlling player.
+704;Red Medicine;6;Spell;500-pt LP recovery for controlling player.
+705;Goblin's Secret Remedy;10;Spell;1000-pt LP recovery for controlling player.
+706;Soul of the Pure;30;Spell;2000-pt LP recovery for controlling player.
+707;Dian Keto the Cure Master;60;Spell;If LP is 4000 or below, the number of points is increased to 4000.
+708;Gift of The Mystical Elf;25;Spell;Recover controlling player's LP by 1500 points.
+709;Sparks;2;Spell;Inflicts 50 points of damage to opponent's LP.
+710;Hinotama;5;Spell;Inflicts 100 points of damage to opponent's LP.
+711;Final Flame;8;Spell;Inflicts 200 points of damage to opponent's LP.
+712;Ookazi;15;Spell;Inflicts 500 points of damage to opponent's LP.
+713;Tremendous Fire;40;Spell;Inflicts 1000 points of damage to opponent's LP.
+714;Just Desserts;80;Spell;Opponent's LP suffers damage equivalent to 300 points multiplied by the number of enemies on the field.
+715;Swords of Revealing Light;80;Spell;Flips all enemy cards on the Field face-up and spellbinds them for 3 turns.
+716;Dark-Piercing Light;15;Spell;Flips all enemy cards on the Field face-up.
+717;Darkness Approaches;20;Spell;Flips all cards on the Field face-down.
+718;The Eye of Truth;25;Spell;Displays opponent's hand face-up for 5 seconds.
+719;The Inexperienced Spy;35;Spell;Regardless of facing, Type icons of all opponent's card are displayed on the Field for 5 seconds.
+720;Warrior Elimination;50;Spell;Destroys all WARRIOR monsters on the Field.
+721;Eternal Rest;50;Spell;Destroys all ZOMBIE monsters on the Field.
+722;Stain Storm;50;Spell;Destroys all MACHINE monsters on the Field.
+723;Eradicating Aerosol;50;Spell;Destroys all INSECT monsters on the Field.
+724;Breath of Light;50;Spell;Destroys all ROCK monsters on the Field.
+725;Eternal Draught;50 Spell Destroys all FISH monsters on the Field.
+726;Fissure;50;Spell;Destroys the monster with the lowest ATK on the Field.
+727;Last Day of Witch;50;Spell;Destroys all SPELLCASTER monsters on the Field.
+728;Exile of the Wicked;50;Spell;Destroys all FIEND monsters on the Field.
+729;Dust Tornado;50;Spell;Destroys all WINGED-BEAST monsters on the Field.
+730;Cold Wave;50;Spell;Destroys all DINOSAUR monsters on the Field.
+731;Fairy Meteor Crush;50;Spell;Randomly selects 10 spaces on the Field, and destroys any card in-play on that space.
+732;Change of Heart;80;Spell;Select one of the opponent's cards on the Field and control it for 1 turn.
+733;Brain Control;80;Spell;Take control of opponent's highest ATK monster for 1 turn.
+734;Magical Neutralizing Force Field;10;Spell;Cancels all spellbind and power increase/decrease effects. In addition, destroys all face-up TRAP cards. Does not cancel any bonus effects involving terrain and leader abilities.
+735;Winged Trumpeter;10;Spell;Strengthens all FAIRY monsters on the Field by 600 pts.
+736;Shield & Sword;30;Spell;Swaps the respective ATK and DEF values of each monster on the Field.
+737;Yellow Luster Shield;10;Spell;Boosts the DEF of all your own monsters on the Field by 900 points.
+738;Limiter Removal;10;Spell;Boosts the ATK/DEF factors of all MACHINE monsters on the Field by 600 points.
+739;Rain of Mercy;10;Spell;Boosts the ATK/DEF factors of all PLANT monsters on the Field by 600 points.
+740;Windstorm of Etaqua;10;Spell;Boosts the ATK/DEF factors of all WINGED-BEAST monsters on the Field by 600 points.
+741;Sebek's Blessing;10;Spell;Boosts the ATK/DEF factors of all REPTILE monsters on the Field by 600 points.
+742;Aqua Chorus;10;Spell;Boosts the ATK/DEF factors of all WATER monsters on the Field by 600 points.
+743;Stop Defense;30;Spell;All of the enemy cards on the Field in defense position are shifted to attack position.
+744;Monster Recovery;5;Spell;All your monsters on the Field are returned to the deck.
+745;Call Of The Haunted;1;Spell;All your monsters on the field are transformed to ZOMBIE monsters.
+746;Shift;50;Spell;Your monster with the highest ATK on the Field is transported to the space where this card is activated.
+747;Solomon's Lawbook;40;Spell;If a card has already been played from your hand, you can play another card.
+748;Magic Drain;60;Spell;Absorbs all of your opponent's Summoning Power.
+749;Dimensionhole;20;Spell;Transports your Leader to the space where this card is activated.
+750;Earthshaker;70;Spell;Randomly shifts the position of cards and changes the terrain on the Field. In addition, all LABYRINTH squares are changed to NORMAL.
+751;Creature Swap;75;Spell;All cards in play on the Field with the exception of the Leaders are transported to contrasting spaces diagonal to their current positions.
+752;Legendary Sword;10;Spell;Increases the power of WARRIOR monsters of LIGHT and EARTH by 500 points.
+753;Sword of Dark Destruction;10;Spell;Increases the power of WARRIOR monsters of DARK, FIRE, WATER and WIND by 500 points.
+754;Dark Energy;10;Spell;Increases the power of DARK monsters by 300 points.
+755;Axe of Despair;10;Spell;Increases the power of BEAST-WARRIOR and FIEND monsters by 500 points.
+756;Laser Cannon Armor;10;Spell;Increases the power of INSECT monsters by 500 points.
+757;Insect Armor with Laser Cannon;10;Spell;Increases the power of INSECT monsters by 500 points.
+758;Elf's Light;10;Spell;Increases the power of any monster with "Elf" in its name by 700 points.
+759;Beast Fangs;10;Spell;Increases the power of BEAST monsters by 500 points.
+760;Steel Shell;10;Spell;Increases the power of any monster with a shell by 500 points.
+761;Vile Germs;10;Spell;Increases the power of PLANT monsters by 500 points.
+762;Black Pendant;10;Spell;Increases the power of SPELLCASTER monsters of DARK by 500 points.
+763;Silver Bow and Arrow;10;Spell;Increases the power of FAIRY monsters by 500 points.
+764;Horn of Light;10;Spell;Increases the power of horned monsters other than DARK by 500 points.
+765;Horn of the Unicorn;10;Spell;Increases the power of horned monsters of DARK by 500 points.
+766;Dragon Treasure;10;Spell;Increases the power of DRAGON and SEA SERPENT monsters by 500 points.
+767;Electro-Whip;10;Spell;Increases the power of female monsters by 500 points.
+768;Cyber Shield;10;Spell;Increases the power of female monsters by 500 points.
+769;Mystical Moon;10;Spell;Increases the power of BEAST and BEAST-WARRIOR monsters by 500 points.
+770;Malevolent Nuzzler;10;Spell;Increases the power of FIEND female monsters by 500 points.
+771;Book of Secret Arts;10;Spell;Increases the power of SPELLCASTER monsters other than DARK by 500 points.
+772;Violet Crystal;10;Spell;Increases the power of ZOMBIE monsters by 500 points.
+773;Invigoration;15;Spell;Increases the power of EARTH monsters by 300 points.
+774;Machine Conversion Factory;10;Spell;Increases the power of MACHINE monsters by 500 points.
+775;Raise Body Heat;10;Spell;Increases the power of DRAGON and REPTILE monsters by 500 points.
+776;Follow Wind;10;Spell;Increases the power of Winged-Beast monsters by 500 points.
+777;Power of Kaishin;10;Spell;Increases the power of WATER monsters by 500 points.
+778;Kunai with Chain;15;Spell;Increases the power of WARRIOR and BEAST-WARRIOR monsters by 500 points.
+779;Salamandra;15;Spell;Increases the power of FIRE monsters by 500 points.
+780;Megamorph;15;Spell;Increases the power of any monster by 300 points.
+781;Bright Castle;10;Spell;Increases the power of LIGHT monsters by 500 points.
+782;Fiend Castle;10;Spell;Increases the power of FIEND monsters by 500 points.
+783;Hightide;10;Spell;Increases the power of FISH and SEA SERPENT monsters by 500 points.
+784;Spring of Rebirth;10;Spell;Increases the power of THUNDER, AQUA, PYRO and ROCK monsters by 500 points.
+785;Gust Fan;10;Spell;Increases the power of WIND monsters by 500 points.
+786;Burning Spear;10;Spell;Increases the power of PYRO monsters by 500 points.
+787;7 Completed;5;Spell;Increases the power of Slot Machine by 700 points.
+788;Nails of Bane;10;Spell;Increases the power of DRAGON monsters of DARK by 700 points.
+789;Riryoku;99;Spell;Reduces opponent's LP by half and adds the reduced amount to the powers of all monsters.
+790;Multiply;10;Spell;Grants Kuriboh the power to resurrect on any Summoning Area other than the one it's defeated in. Also, when the monster flips face-up, another Kuriboh is generated face-down in your own Summoning Area.
+791;Sword of Dragon's Soul;40;Spell;WARRIOR monsters automatically destroy DRAGON monsters in battle. The opposing enemy's effects are rendered ineffective.
+792;Enchanted Javelin;40;Spell;FAIRY monsters automatically destroy FIEND monsters in battle. The opposing enemy's effects are rendered ineffective.
+793;Anti-Magic Fragrance;40;Spell;PLANT monsters automatically destroy SPELLCASTER monsters in battle. The opposing enemy's effects are rendered ineffective.
+794;Crush Card;80;Spell;Strengthens all monsters with ATKs of 1000 or below. When defeated in battle, the adjacent spaces are transformed into CRUSH terrain. The opposing enemy's destruction effects are rendered ineffective.
+795;Paralyzing Potion;15;Spell;Renders all monsters other than MACHINE eternally spellbound.
+796;Cursebreaker;1;Spell;Cancels all spellbind and power increase/decrease effects. Does not cancel any bonus effects involving terrain and leader abilities.
+797;Elegant Egotist;5;Spell;Changes Harpie Lady to Harpie Lady Sisters.
+798;Cocoon of Evolution;5;Spell;Changes Larvae Moth, Petit Moth, Kattapillar, Needle Worm and Acid Crawler to Larva of Moth.
+799;Metalmorph;5;Spell;Transforms Red-Eyes B. Dragon and Zoa to metal monsters.
+800;Insect Imitation;5;Spell;Randomly transforms any monster with "Egg" in its name to another monster.
+801;Spellbinding Circle;30;Trap;Disposable trap that spellbinds activated enemy card for 3 turns and reduces its strength by 600 points.
+802;Shadow Spell;40;Trap;Disposable trap that spellbinds activated enemy card for 3 turns, and reduces its strength by 1000 points.
+803;Mesmeric Control;20;Trap;Disposable trap that spellbinds activated enemy card for 1 turn, and reduces it strength by 800 points.
+804;Tears of the Mermaid;15 Trap;Disposable trap that spellbinds activated enemy card for 1 turn, and reduces it strength by 600 points.
+805;Infinite Dismissal;20;Trap;Disposable trap that spellbinds activated enemy card for 3 turns.
+806;Gravity Bind;60;Trap;Disposable trap that eternally spellbinds activated enemy card, and reduces its strength by 1500 points.
+807;House of Adhesive Tape;5;Trap;Disposable trap that triggers against a monster with ATK of 1000 or below, and destroys it.
+808;Eatgaboon;8;Trap;Disposable trap that triggers against a monster with ATK of 1500 or below, and destroys it.
+809;Bear Trap;10;Trap;Disposable trap that triggers against a monster with ATK of 2000 or below, and destroys it.
+810;Invisible Wire;20;Trap;Disposable trap that triggers against a monster with ATK of 3000 or below, and destroys it.
+811;Acid Trap Hole;30;Trap;Disposable trap that triggers against a monster with ATK of 4000 or below, and destroys it.
+812;Widespread Ruin;60;Trap;Disposable trap that triggers against any enemy card and destroys every card located within a 3×3 space area.
+813;Type Zero Magic Crusher;15;Trap;Disposable trap that triggers against an opponent's spell and destroys it.
+814;Goblin Fan;25;Trap;Permanent trap that triggers against an opponent's direct LP-attacking Riryoku and reverses the inflicted damage.
+815;Bad Reaction to Simochi;25;Trap;Permanent trap that triggers against LP recovery and reduces an opponent's LP by the same amount.
+816;Reverse Trap;25;Trap;Permanent trap that triggers against power-ups involving increases in ATK and DEF, reversing the positive effect to a negative amount.
+817;Block Attack;25;Trap;Disposable trap that triggers when an enemy card completes its move in the attack position. Cancels the card's actions and ends further movement.
+818;Shadow of Eyes;20;Trap;Permanent trap that triggers when an enemy card completes its move in the defense position. Automatically changes the card to offense position.
+819;Gorgon's Eye;50;Trap;Permanent trap that triggers when an enemy card completes its move in the defense position. Automatically cancels the enemy card's move and eternally spellbinds it.
+820;Fake Trap;5;Trap;Disposable trap that triggers when Harpie's Feather Duster is activated, and nullifies the card's effect.
+821;Anti Raigeki;5;Trap;Permanent trap that triggers when Raigeki is activated, and nullifies the card's effect.
+822;Call of the Grave;5;Trap;Permanent trap that triggers when a card is resurrected from the Graveyard, and cancels the card's effect.
+823;Magic Jammer;35;Trap;Disposable trap that triggers when an opponent's MAGIC or RITUAL Card is activated, and cancels the cards's effect.
+824;White Hole;10;Trap;Permanent trap that triggers when a Dark Hole is activated. Protects all your cards on the Field from destruction.
+825;Royal Decree;80;Trap;Permanent trap that triggers against any activated TRAP card and nullifies the card.
+826;Seal of the Ancients;5;Trap;Permanent trap that triggers against any activated RITUAL card and nullifies the effect.
+827;Mirror Force;99;Trap;Disposable trap that triggers when an enemy initiates an attack against your Leader or other cards on the field. Destroys every one of your opponent's attack-positioned cards on the field.
+828;Negate Attack;15;Trap;Disposable trap that triggers when an enemy initiates an attack against your Leader or other cards on the field and cancels the attack.
+829;Mirror Wall;80;Trap;Permanent trap that triggers when an enemy initiates an attack against your Leader or other cards on the Field and reduces the ATK of the enemy by half.
+830;Curse of Millennium Shield;5;Ritual;Sacrifice 3 monsters with DEF of 2000 or higher to summon Millennium Shield.
+831;Yamadron Ritual;5;Ritual;Sacrifice 3 monsters respectively of BEAST-WARRIOR, DRAGON and PYRO to summon Yamadron.
+832;Gate Guardian Ritual;5;Ritual;Sacrifice Kazejin, Suijin and Sanga of the Thunder to summon Gate Guardian.
+833;Black Luster Ritual;5;Ritual;Sacrifice 2 monsters with ATKs of 1500 or lower with Gaia The Fierce Knight to summon Black Luster Soldier.
+834;Zera Ritual;5;Ritual;Sacrifice 2 FIEND monsters with King of Yamimakai to summon Zera The Mant
+835;War-Lion Ritual;5;Ritual;Sacrifice 2 BEAST monsters with Leogun to summon Super War-Lion.
+836;Beastly Mirror Ritual;5;Ritual;Sacrifice 1 FIEND monster with Wicked Mirror and Fiend Reflection #1 to summon Fiend's Mirror.
+837;Ultimate Dragon;5;Ritual;Sacrifice 3 Blue-Eyes White Dragons to summon Blue-Eyes Ultimate Dragon.
+838;Commencement Dance;5;Ritual;Sacrifice 1 WINGED-BEAST monster and 1 WARRIOR monster with Water Omotics to summon Performance of Sword.
+839;Hamburger Recipe;5;Ritual;Sacrifice Battle Steer, Bio Plant and Griggle to summon Hungry Burger.
+840;Revival of Sennen Genjin;5;Ritual;Sacrifice 2 BEAST-WARRIOR monsters and Millennium Golem to summon Sengenjin.
+841;Novox's Prayer;5;Ritual;Sacrifice 2 WARRIOR monsters and Mystical Elf to summon Skull Guardian.
+842;Curse of Tri-Horned Dragon;5;Ritual;Sacrifice Curse of Dragon, Feral Imp and Koumori Dragon to summon Tri-Horned Dragon.
+843;Revived Serpent Night Dragon;5;Ritual;Sacrifice 1 WARRIOR monster, 1 WINGED-BEAST monster, and Darkfire Dragon to summon Serpent Night Dragon.
+844;Turtle Oath;5;Ritual;Sacrifice 2 AQUA monsters and 30,000-Year White Turtle to summon Crab Turtle.
+845;Contruct of Mask;5 Ritual;Sacrifice 2 SPELLCASTER monsters and Mask of Darkness to summon Mask of Shine & Dark.
+846;Resurrection of Chakra;5;Ritual;Sacrifice 2 monsters with ATKs of 1000 or less and Versago the Destroyer to summon Chakra.
+847;Puppet Ritual;5;Ritual;Sacrifice 2 MACHINE monsters and Mysterious Puppeteer to summon Psycho-Puppet.
+848;Javelin Beetle Pact;5;Ritual;Sacrifice 2 INSECT monsters and Hercules Beetle to summon Javelin Beetle.
+849;Garma Sword Oath;5;Ritual;Sacrifice 2 WARRIOR monsters and Swordstalker to summon Garma Sword.
+850;Cosmo Queen's Prayer;5;Ritual;Sacrifice Queen of Autumn Leaves, Princess of Tsurugi and Dark Elf to summon Cosmo Queen.
+851;Revival of Dokurorider;5;Ritual;Sacrifice 1 ZOMBIE monster, 1 MACHINE monster and 1 INSECT monster to summon Dokurorider.
+852;Fortress Whale's Oath;5;Ritual;Sacrifice 2 FISH monsters and Mech Bass to summon Fortress Whale.
+853;Dark Magic Ritual;5;Ritual;Sacrifice 2 monsters with ATKs of 1500 or less and Dark Magician to summon Magician of Black Chaos.
