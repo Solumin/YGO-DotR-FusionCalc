@@ -58,33 +58,24 @@ def process_entry(line, leftside)
     end
 end
 
-lno = 1
 File.open("data/fusions_raw.txt").each do |line|
-    begin
-        line.strip!
-        if state == :header
-            pindex = line.index "("
-            header = line[0..(pindex-2)]
-            state = :sep
-        elsif state == :sep
-            raise "Desyncronized while reading the file" unless line[0] == "-"
-            state = :entries
-        elsif line == "" # empty line, get ready for next block
-            state = :header
+    line.strip!
+    if state == :header
+        pindex = line.index "("
+        header = line[0..(pindex-2)]
+        state = :sep
+    elsif state == :sep
+        raise "Desyncronized while reading the file" unless line[0] == "-"
+        state = :entries
+    elsif line == "" # empty line, get ready for next block
+        state = :header
+    else
+        entry = process_entry(line, header)
+        if entry[:type] == "Equippable"
+            equips << entry
         else
-            entry = process_entry(line, header)
-            if entry[:type] == "Equippable"
-                equips << entry
-            else
-                fusions << entry
-            end
+            fusions << entry
         end
-        lno += 1
-    rescue StandardError => e
-        puts "#{lno}: #{line}"
-        puts e.message
-        puts e.backtrace
-        exit
     end
 end
 
