@@ -8,3 +8,7 @@
 .hand-input-group input {
     margin: 2px;
 }
+
+.untested-fusion {
+    color: red;
+}
