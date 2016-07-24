@@ -21,6 +21,10 @@ function fusesToHTML(fuselist) {
         } else if  (fusion.type !== "Equippable") {
             res += "<br>Output: " + fusion.output + " (" + fusion.type + ")";
         } // Equippable fusions (from equipDB) have no output, just left and right
+
+        if (fusion.untested) {
+            res += "<br><div class='untested-fusion'>UNTESTED</div>";
+        }
         return res + "<br><br></div>";
     }).join("\n");
 }
@@ -39,7 +43,7 @@ function checkCard(cardname, infoname) {
     if (!card) {
         info.html("Invalid card name");
     } else if (card.cardtype === "Monster") {
-        info.html(formatStats(card.attack, card.defense) + " [" + [card.type].concat(card.secondarytypes).join(", ") + "]");
+        info.html(formatStats(card.attack, card.defense) + " [" + card.attribute + "]");
     } else {
         info.html("(" + card.cardtype + ")");
     }
@@ -67,23 +71,12 @@ function findFusions() {
     // Assumes the data is perfect, i.e. each fusion is reciprocated.
     // This does not take into account equipment
     // (So we'll get Beast Fang + Megamorph, but not Aqua Dragon + Beast Fangs)
-    // Also finds general fusions based on types
     var monsterFuses = [];
 
-    for (i = 0; i < cards.length -1; i++) {
+    for (i = 0; i < cards.length - 1; i++) {
         var curr = cards[i].name;
-        var lterm = [curr, cards[i].type].concat(cards[i].secondarytypes);
-        for (j = i+1; j < cards.length; j++) {
-            var other = cards[j].name;
-            var rterm = [other, cards[j].type].concat(cards[j].secondarytypes);
-            monsterFuses = monsterFuses.concat(monsterfuseDB({left:{isnocase:curr}},{right:{isnocase:other}}).get());
-            var genfuses = genfuseDB({left:{isnocase:lterm}}, {right:{isnocase:rterm}}).get();
-            monsterFuses = monsterFuses.concat(genfuses.map(function(fusion) {
-                fusion.left = curr;
-                fusion.right = other;
-                return fusion;
-            }));
-        }
+        var names = cards.slice(i+1).map(c => c.name);
+        monsterFuses = monsterFuses.concat(fusionDB({left:{isnocase:curr}},{right:{isnocase:names}}).get());
     }
 
     // Get just the monsters and their equipment fusions
