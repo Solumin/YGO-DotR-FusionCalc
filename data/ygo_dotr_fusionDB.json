@@ -12943,7 +12943,7 @@
   },
   {
     "left": "Dark Chimera",
-    "right": "Job-Change",
+    "right": "Job-Change Mirror",
     "output": "Summoned Skull",
     "attack": 2500,
     "defense": 1200,
@@ -23680,7 +23680,7 @@
   },
   {
     "left": "Ganigumo",
-    "right": "Kuwagata *Alpha Sign*",
+    "right": "Kuwagata alpha",
     "output": "Kwagar Hercules",
     "attack": 1900,
     "defense": 1700,
@@ -24022,7 +24022,7 @@
   },
   {
     "left": "Giant Scorpion Of The Tundra",
-    "right": "Kuwagata *Alpha Sign*",
+    "right": "Kuwagata alpha",
     "output": "Kwagar Hercules",
     "attack": 1900,
     "defense": 1700,
@@ -31977,7 +31977,7 @@
     "untested": true
   },
   {
-    "left": "Kuwagata *Alpha Sign*",
+    "left": "Kuwagata alpha",
     "right": "Ganigumo",
     "output": "Kwagar Hercules",
     "attack": 1900,
@@ -31986,7 +31986,7 @@
     "untested": true
   },
   {
-    "left": "Kuwagata *Alpha Sign*",
+    "left": "Kuwagata alpha",
     "right": "Giant Scorpion Of The Tundra",
     "output": "Kwagar Hercules",
     "attack": 1900,
@@ -32275,7 +32275,7 @@
   },
   {
     "left": "LaLa Li-oon",
-    "right": "Arma Knight ",
+    "right": "Arma Knight",
     "output": "Bolt Escargot",
     "attack": 1400,
     "defense": 1500,

@@ -419,7 +419,7 @@ Zombie Warrior (1200/900) = Pumpking The King Of Ghosts (1800/2000)
 
 Arma Knight (1000/1200) 559
 -----------------------------------------
-LaLa Li-oon (600/600) =  Bolt Escargot (1400/1500)
+LaLa Li-oon (600/600) = Bolt Escargot (1400/1500)
 
 Armaill (700/1300) 174
 -----------------------------------------
@@ -1045,7 +1045,7 @@ Dark Rabbit (1100/1500) = Garvas (2000/1700)
 *** Firegrass (700/600) = Crimson Sunbird (2300/1800)
 *** Fireyarou (1300/1000) = Crimson Sunbird (2300/1800)
 *** Flame Swordsman (1800/1600) = Crimson Sunbird (2300/1800)
-*** Flame Viper (400/450)  = Crimson Sunbird (2300/1800)
+*** Flame Viper (400/450) = Crimson Sunbird (2300/1800)
 *** Hinotama Soul (600/500) = Crimson Sunbird (2300/1800)
 Kanan The Swordmistress (1400/1400) = Punished Eagle (2100/1800)
 
@@ -1928,7 +1928,7 @@ Djinn The Watcher Of The Wind (700/900) = Magical Ghost (1300/1400)
 
 Dark Chimera (1610/1460) 302
 -----------------------------------------
-Job-Change Mirror = Summoned Skull (2500/1200)
+Job-Change Mirror (800/1300) = Summoned Skull (2500/1200)
 
 Dark Elf (2000/800) 079
 -----------------------------------------
@@ -3501,7 +3501,7 @@ Gale Dogra (650/600) 418
 Ganigumo (600/800) 411
 -----------------------------------------
 *** Armed Ninja (300/300) = Cockroach Knight (800/900)
-*** Kuwagata *Alpha Sign* (1250/1000) = Kwagar Hercules (1900/1700)
+*** Kuwagata alpha (1250/1000) = Kwagar Hercules (1900/1700)
 *** M-Warrior #2 (500/1000) = Cockroach Knight (800/900)
 *** Masked Clown (500/700) = Cockroach Knight (800/900)
 *** Queen's Double (350/300) = Cockroach Knight (800/900)
@@ -3598,7 +3598,7 @@ Koumori Dragon (1500/1200) = Sea King Dragon (2000/1700)
 
 Giant Scorpion Of The Tundra (1100/1000) 424
 -----------------------------------------
-*** Kuwagata *Alpha Sign* (1250/1000) = Kwagar Hercules (1900/1700)
+*** Kuwagata alpha (1250/1000) = Kwagar Hercules (1900/1700)
 
 Giant Soldier Of Stone (1300/2000) 626
 -----------------------------------------
@@ -4893,7 +4893,7 @@ Mushroom Man (800/600) = Rose Spectre Of Dunn (2000/1800)
 Winged Dragon Guardian Of Fortress #1 (1400/1200) = Koumori Dragon (1500/1200)
 *** Yamatano Dragon Scroll (900/300) = Koumori Dragon (1500/1200)
 
-Kuwagata *Alpha Sign* (1250/1000) 414
+Kuwagata alpha (1250/1000) 414
 -----------------------------------------
 *** Ganigumo (600/800) = Kwagar Hercules (1900/1700)
 *** Giant Scorpion Of The Tundra (1100/1000) = Kwagar Hercules (1900/1700)
@@ -4948,7 +4948,7 @@ LaLa Li-oon (600/600) 542
 -----------------------------------------
 Air Marmot Of Nefariousness (400/600) = Tripwire Beast (1200/1300)
 *** Amoeba (300/350) = Bolt Escargot (1400/1500)
-Arma Knight  (1000/1200) =  Bolt Escargot  (1400/1500)
+Arma Knight (1000/1200) = Bolt Escargot (1400/1500)
 *** Baby Dragon (1200/700) = Thunder Dragon (1600/1500)
 *** B. Dragon Jungle King (2100/1800) = Twin Headed Thunder Dragon (2800/2100)
 *** Blackland Fire Dragon (1500/800) = Thunder Dragon (1500/800)
@@ -7553,7 +7553,7 @@ Shadow Ghoul (1600/1300) = Pumpking The King Of Ghosts (1800/2000)
 Silver Fang (1200/800) = Flower Wolf (1800/1400)
 Sinister Serpent (300/250) = Snakeyashi (1000/1200)
 *** Sleeping Lion (700/1700) = Flower Wolf (1800/1400)
-Spirit of the Harp (800/2000)  = Queen of Autumn Leaves (1800/1500)
+Spirit of the Harp (800/2000) = Queen of Autumn Leaves (1800/1500)
 *** Synchar (800/900) = Flower Wolf (1800/1400)
 Tatsunootoshigo (1350/1600) = Flower Wolf (1800/1400)
 *** The 13th Grave (1200/900) = Pumpking The King Of Ghosts (1800/2000)
@@ -8038,7 +8038,7 @@ Peacock (1700/1500) = Garvas (2000/1700)
 *** Queen Of Autmn Leaves (1800/1500) = Nekogal #2 (1900/2000)
 Rainbow Flower (400/500) = Flower Wolf (1800/1400)
 *** Skelengel (900/400) = Garvas (2000/1700)
-Spirit of the Harp (800/2000)  = Nekogal #2 (1900/2000)
+Spirit of the Harp (800/2000) = Nekogal #2 (1900/2000)
 *** Steel Scorpion (250/300) = Dice Armadillo (1650/1800)
 *** Swordsman From A Foreign Land (250/250) = Tiger Axe (1300/1100)
 Tentacle Plant (500/600) = Flower Wolf (1800/1400)
@@ -8659,7 +8659,7 @@ Bean Soldier (1400/1300) = Flower Wolf (1800/1400)
 Griggle (350/300) = Flower Wolf (1800/1400)
 Lunar Queen Elzaim (750/1100) = Nekogal #2 (1900/2000)
 Rainbow Flower (400/500) = Flower Wolf (1800/1400)
-Spirit of the Harp (800/2000)  = Nekogal #2 (1900/2000)
+Spirit of the Harp (800/2000) = Nekogal #2 (1900/2000)
 Wilmee (1000/1200) = Tatsunootoshigo (1350/1600)
 
 Tears Of The Mermaid (Trap) 804
@@ -9321,7 +9321,7 @@ Unknown Warrior Of Fiend (1000/500) 142
 *** Arlownay (800/1000) = Bean Soldier (1400/1300)
 *** Bat (300/350) = Cyber Soldier (1500/1700)
 *** Bone Mouse (400/300) = Zombie Warrior (1200/900)
-Brave Scizzar (1300/1000) =  Cyber Soldier (1500/1700)
+Brave Scizzar (1300/1000) = Cyber Soldier (1500/1700)
 *** Candle Of Fate (600/600) = Charubin Fire Knight (1100/800)
 *** Charubin Fire Knight (1100/800) = Flame Swordsman (1800/1600)
 *** Cyber Commander (750/700) = Cyber Soldier (1500/1700)
