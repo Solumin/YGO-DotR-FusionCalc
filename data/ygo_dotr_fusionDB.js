@@ -40546,6 +40546,15 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Monstrous Bird",
+    "right": "Princess of Tsurugi",
+    "output": "Punished Eagle",
+    "attack": 2100,
+    "defense": 1800,
+    "type": "Monster",
+    "untested": false
+  },
+  {
+    "left": "Monstrous Bird",
     "right": "Wings of Wicked Flame",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -47960,6 +47969,14 @@ var fusionDB = TAFFY([
     "type": "Monster",
     "untested": true
   },
+   {
+    "left": "Princess of Tsurugi",
+    "right": "Monstrous Bird",
+    "output": "Punished Eagle",
+    "attack": 2100,
+    "defense": 1800,
+    "type": "Monster",
+    "untested": false
   {
     "left": "Princess of Tsurugi",
     "right": "Mushroom Man",
