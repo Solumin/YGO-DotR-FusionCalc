@@ -361,7 +361,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Dark Witch",
-    "right": "Silver Bow & Arrow",
+    "right": "Silver Bow and Arrow",
     "type": "Equippable",
     "untested": false
   },
@@ -559,7 +559,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Gate Guardian",
-    "right": "Sword Of Destruction",
+    "right": "Sword of Dark Destruction",
     "type": "Equippable",
     "untested": true
   },
@@ -588,7 +588,7 @@ var equipDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Giltia The Dark Kinght",
+    "left": "Giltia the D. Knight",
     "right": "Kunai With Chain",
     "type": "Equippable",
     "untested": true
@@ -685,7 +685,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Harpie Lady Sisters",
-    "right": "Cyber Shiled",
+    "right": "Cyber Shield",
     "type": "Equippable",
     "untested": false
   },
@@ -1698,31 +1698,31 @@ var equipDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Twin Headed Thunder Dragon",
+    "left": "Twin-Headed Thunder Dragon",
     "right": "Beast Fangs",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Twin Headed Thunder Dragon",
+    "left": "Twin-Headed Thunder Dragon",
     "right": "Dark Energy",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Twin Headed Thunder Dragon",
+    "left": "Twin-Headed Thunder Dragon",
     "right": "Dragon Treasure",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Twin Headed Thunder Dragon",
+    "left": "Twin-Headed Thunder Dragon",
     "right": "Horn Of Light",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Twin Headed Thunder Dragon",
+    "left": "Twin-Headed Thunder Dragon",
     "right": "Invigoration",
     "type": "Equippable",
     "untested": true
@@ -1776,13 +1776,13 @@ var equipDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Winged Dragon Guardian Of Fortress #1",
+    "left": "Winged Dragon, Guardian of the Fortress #1",
     "right": "Dragon Treasure",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Winged Dragon Guardian Of Fortress #1",
+    "left": "Winged Dragon, Guardian of the Fortress #1",
     "right": "Gust Fan",
     "type": "Equippable",
     "untested": false
