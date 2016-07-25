@@ -74,7 +74,7 @@ var fusionDB = TAFFY([
   {
     "left": "Abyss Flower",
     "right": "Clown Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -83,7 +83,7 @@ var fusionDB = TAFFY([
   {
     "left": "Abyss Flower",
     "right": "Corroding Shark",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -137,7 +137,7 @@ var fusionDB = TAFFY([
   {
     "left": "Abyss Flower",
     "right": "Dragon Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -155,7 +155,7 @@ var fusionDB = TAFFY([
   {
     "left": "Abyss Flower",
     "right": "Flame Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -172,7 +172,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Abyss Flower",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -227,7 +227,7 @@ var fusionDB = TAFFY([
   {
     "left": "Abyss Flower",
     "right": "Magical Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -272,7 +272,7 @@ var fusionDB = TAFFY([
   {
     "left": "Abyss Flower",
     "right": "Monster Eye",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -298,7 +298,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Abyss Flower",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -334,7 +334,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Abyss Flower",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -344,7 +344,7 @@ var fusionDB = TAFFY([
   {
     "left": "Abyss Flower",
     "right": "The 13th Grave",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -362,7 +362,7 @@ var fusionDB = TAFFY([
   {
     "left": "Abyss Flower",
     "right": "The Snake Hair",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -398,7 +398,7 @@ var fusionDB = TAFFY([
   {
     "left": "Abyss Flower",
     "right": "Wood Remains",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -407,7 +407,7 @@ var fusionDB = TAFFY([
   {
     "left": "Abyss Flower",
     "right": "Zombie Warrior",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -423,7 +423,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Ancient Elf",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -432,16 +432,16 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Bat",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Bean Soldier",
     "output": "Flower Wolf",
     "attack": 1800,
@@ -450,7 +450,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Bolt Penguin",
     "output": "Tripwire Beast",
     "attack": 1200,
@@ -459,7 +459,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Bone Mouse",
     "output": "Shadow Specter",
     "attack": 500,
@@ -468,16 +468,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Cyber-Stein",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Cyber Commander",
     "output": "Dice Armadillo",
     "attack": 1650,
@@ -486,7 +486,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Cyber Soldier",
     "output": "Dice Armadillo",
     "attack": 1650,
@@ -495,7 +495,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Dancing Elf",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -504,7 +504,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Dark Plant",
     "output": "Flower Wolf",
     "attack": 1800,
@@ -513,7 +513,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Dark Witch",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -522,7 +522,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Darkworld Thorns",
     "output": "Flower Wolf",
     "attack": 1800,
@@ -531,7 +531,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Fairywitch",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -540,7 +540,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Greenkappa",
     "output": "Flower Wolf",
     "attack": 1800,
@@ -549,7 +549,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Griggle",
     "output": "Flower Wolf",
     "attack": 1800,
@@ -558,7 +558,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Holograh",
     "output": "Dice Armadillo",
     "attack": 1650,
@@ -567,16 +567,16 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Jinzo #7",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Kaminarikozou",
     "output": "Tripwire Beast",
     "attack": 1200,
@@ -585,7 +585,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Key Mace",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -594,8 +594,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
-    "right": "Lady Of Faith",
+    "left": "Air Marmot of Nefariousness",
+    "right": "Lady of Faith",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -603,7 +603,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "LaLa Li-oon",
     "output": "Tripwire Beast",
     "attack": 1200,
@@ -612,7 +612,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Man-Eating Plant",
     "output": "Flower Wolf",
     "attack": 1800,
@@ -621,7 +621,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Man Eater",
     "output": "Flower Wolf",
     "attack": 1800,
@@ -630,16 +630,16 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Mechanical Spider",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Mega Thunderball",
     "output": "Tripwire Beast",
     "attack": 1200,
@@ -648,7 +648,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Misairuzame",
     "output": "Rare Fish",
     "attack": 1500,
@@ -657,7 +657,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Monsturtle",
     "output": "Turtle Tiger",
     "attack": 1000,
@@ -666,7 +666,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Muse-A",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -675,7 +675,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Mushroom Man #2",
     "output": "Tiger Axe",
     "attack": 1300,
@@ -684,7 +684,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Mushroom Man",
     "output": "Flower Wolf",
     "attack": 1800,
@@ -693,7 +693,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Mystical Elf",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -702,7 +702,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Nemuriko",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -711,7 +711,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Oscillo Hero #2",
     "output": "Tripwire Beast",
     "attack": 1200,
@@ -720,7 +720,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Oscillo Hero",
     "output": "Tiger Axe",
     "attack": 1300,
@@ -729,8 +729,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Air Marmot Of Nefariousness",
-    "right": "Princess Of Tsurugi",
+    "left": "Air Marmot of Nefariousness",
+    "right": "Princess of Tsurugi",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -738,7 +738,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Queen's Double",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -747,7 +747,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Rainbow Flower",
     "output": "Flower Wolf",
     "attack": 1800,
@@ -756,7 +756,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Skull Servant",
     "output": "Shadow Specter",
     "attack": 500,
@@ -765,7 +765,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Water Element",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -774,7 +774,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Waterdragon Fairy",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -783,7 +783,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Air Marmot Of Nefariousness",
+    "left": "Air Marmot of Nefariousness",
     "right": "Yashinoki",
     "output": "Flower Wolf",
     "attack": 1800,
@@ -839,7 +839,7 @@ var fusionDB = TAFFY([
   {
     "left": "Akakieisu",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -900,7 +900,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Amazon Of The Seas",
+    "left": "Amazon of the Seas",
     "right": "Firegrass",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -909,7 +909,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Amazon Of The Seas",
+    "left": "Amazon of the Seas",
     "right": "Muka Muka",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -918,7 +918,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Amazon Of The Seas",
+    "left": "Amazon of the Seas",
     "right": "Stone Armadiller",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -1054,7 +1054,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Brain",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Garvas",
     "attack": 2000,
     "defense": 1700,
@@ -1063,7 +1063,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Brain",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -1072,7 +1072,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Elf",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -1099,7 +1099,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Elf",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -1243,7 +1243,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Jar",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "Ushi Oni",
     "attack": 2150,
     "defense": 1950,
@@ -1387,7 +1387,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Jar",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -1432,7 +1432,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Jar",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -1477,7 +1477,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Jar",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -1639,7 +1639,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Jar",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -1666,7 +1666,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Jar",
-    "right": "Left Arm Of The Forbidden One",
+    "right": "Left Arm of the Forbidden One",
     "output": "Ushi Oni",
     "attack": 2150,
     "defense": 1950,
@@ -1675,7 +1675,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Jar",
-    "right": "Right Arm Of The Forbidden One",
+    "right": "Right Arm of the Forbidden One",
     "output": "Ushi Oni",
     "attack": 2150,
     "defense": 1950,
@@ -1684,7 +1684,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Jar",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Ushi Oni",
     "attack": 2150,
     "defense": 1950,
@@ -1729,7 +1729,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Jar",
-    "right": "Supporter In The Shadows",
+    "right": "Supporter in the Shadows",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -1738,7 +1738,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Jar",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -1783,7 +1783,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Jar",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -1819,7 +1819,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Jar",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -1845,7 +1845,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Ancient One Of The Deep Forest",
+    "left": "Ancient One of the Deep Forest",
     "right": "Feral Imp",
     "output": "Chimera the Flying Mythical Beast",
     "attack": 2100,
@@ -1854,7 +1854,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Ancient One Of The Deep Forest",
+    "left": "Ancient One of the Deep Forest",
     "right": "Fusionist",
     "output": "Garvas",
     "attack": 2000,
@@ -1863,7 +1863,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Ancient One Of The Deep Forest",
+    "left": "Ancient One of the Deep Forest",
     "right": "Neck Hunter",
     "output": "Chimera the Flying Mythical Beast",
     "attack": 2100,
@@ -1910,7 +1910,7 @@ var fusionDB = TAFFY([
   {
     "left": "Ancient Sorcerer",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -1918,7 +1918,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ancient Sorcerer",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Ushi Oni",
     "attack": 2150,
     "defense": 1950,
@@ -1944,7 +1944,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Ancient Tree Of Enlightenment",
+    "left": "Ancient Tree of Enlightenment",
     "right": "Candle of Fate",
     "output": "Rose Spectre of Dunn",
     "attack": 2000,
@@ -1953,7 +1953,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Ancient Tree Of Enlightenment",
+    "left": "Ancient Tree of Enlightenment",
     "right": "Dancing Elf",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -1962,8 +1962,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Ancient Tree Of Enlightenment",
-    "right": "Goddess Of Whim",
+    "left": "Ancient Tree of Enlightenment",
+    "right": "Goddess of Whim",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -1971,7 +1971,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Ancient Tree Of Enlightenment",
+    "left": "Ancient Tree of Enlightenment",
     "right": "Harpie Lady",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -1980,7 +1980,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Ancient Tree Of Enlightenment",
+    "left": "Ancient Tree of Enlightenment",
     "right": "Harpie's Pet Dragon",
     "output": "B. Dragon Jungle King",
     "attack": 2100,
@@ -1989,7 +1989,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Ancient Tree Of Enlightenment",
+    "left": "Ancient Tree of Enlightenment",
     "right": "Kageningen",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -1998,7 +1998,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Ancient Tree Of Enlightenment",
+    "left": "Ancient Tree of Enlightenment",
     "right": "Kairyu-Shin",
     "output": "B. Dragon Jungle King",
     "attack": 2100,
@@ -2007,7 +2007,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Ancient Tree Of Enlightenment",
+    "left": "Ancient Tree of Enlightenment",
     "right": "M-Warrior #1",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -2016,7 +2016,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Ancient Tree Of Enlightenment",
+    "left": "Ancient Tree of Enlightenment",
     "right": "M-Warrior #2",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -2025,7 +2025,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Ancient Tree Of Enlightenment",
+    "left": "Ancient Tree of Enlightenment",
     "right": "Oscillo Hero",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -2034,7 +2034,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Ancient Tree Of Enlightenment",
+    "left": "Ancient Tree of Enlightenment",
     "right": "Shadow Specter",
     "output": "Wood Remains",
     "attack": 1000,
@@ -2043,17 +2043,17 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Ancient Tree Of Enlightenment",
-    "right": "The Shadow Who Controls The Dark",
-    "output": "Rose Spectre Of Dunn",
+    "left": "Ancient Tree of Enlightenment",
+    "right": "The Shadow Who Controls the Dark",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Ancient Tree Of Enlightenment",
-    "right": "Swordsman From A Foreign Land",
+    "left": "Ancient Tree of Enlightenment",
+    "right": "Swordsman from a Foreign Land",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -2061,7 +2061,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Ancient Tree Of Enlightenment",
+    "left": "Ancient Tree of Enlightenment",
     "right": "The Unhappy Maiden",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -2080,7 +2080,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ansatsu",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -2135,7 +2135,7 @@ var fusionDB = TAFFY([
   {
     "left": "Ansatsu",
     "right": "LaMoon",
-    "output": "Cocoon Of Evolution",
+    "output": "Cocoon of Evolution",
     "attack": 0,
     "defense": 2000,
     "type": "Monster",
@@ -2207,7 +2207,7 @@ var fusionDB = TAFFY([
   {
     "left": "Anthrosaurus",
     "right": "Larvae Moth",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -2323,8 +2323,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Arlownay",
-    "right": "Candle Of Fate",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Candle of Fate",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -2333,7 +2333,7 @@ var fusionDB = TAFFY([
   {
     "left": "Arlownay",
     "right": "Corroding Shark",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -2378,7 +2378,7 @@ var fusionDB = TAFFY([
   {
     "left": "Arlownay",
     "right": "Dark Prisoner",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -2387,7 +2387,7 @@ var fusionDB = TAFFY([
   {
     "left": "Arlownay",
     "right": "Dragon Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -2396,7 +2396,7 @@ var fusionDB = TAFFY([
   {
     "left": "Arlownay",
     "right": "Embryonic Beast",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -2423,7 +2423,7 @@ var fusionDB = TAFFY([
   {
     "left": "Arlownay",
     "right": "Flame Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -2431,8 +2431,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Arlownay",
-    "right": "Fungi Of The Musk",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Fungi of the Musk",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -2440,8 +2440,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Arlownay",
-    "right": "Ghoul With An Appetite",
-    "output": "Pumpking The King Of Ghosts",
+    "right": "Ghoul with an Appetite",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -2449,7 +2449,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Arlownay",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -2476,7 +2476,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Arlownay",
-    "right": "Guardian Of The Labyrinth",
+    "right": "Guardian of the Labyrinth",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -2495,7 +2495,7 @@ var fusionDB = TAFFY([
   {
     "left": "Arlownay",
     "right": "Horn Imp",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -2539,8 +2539,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Arlownay",
-    "right": "Lord Of The Lamp",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Lord of the Lamp",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -2576,7 +2576,7 @@ var fusionDB = TAFFY([
   {
     "left": "Arlownay",
     "right": "Magical Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -2602,8 +2602,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Arlownay",
-    "right": "Mask Of Darkness",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Mask of Darkness",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -2648,7 +2648,7 @@ var fusionDB = TAFFY([
   {
     "left": "Arlownay",
     "right": "Mystery Hand",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -2657,7 +2657,7 @@ var fusionDB = TAFFY([
   {
     "left": "Arlownay",
     "right": "Needle Ball",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -2711,7 +2711,7 @@ var fusionDB = TAFFY([
   {
     "left": "Arlownay",
     "right": "Skelgon",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -2728,7 +2728,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Arlownay",
-    "right": "Supporter In The Shadows",
+    "right": "Supporter in the Shadows",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -2756,7 +2756,7 @@ var fusionDB = TAFFY([
   {
     "left": "Arlownay",
     "right": "The 13th Grave",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -2764,8 +2764,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Arlownay",
-    "right": "The Shadow Who Controls The Dark",
-    "output": "Rose Spectre Of Dunn",
+    "right": "The Shadow Who Controls the Dark",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -2782,7 +2782,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Arlownay",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -2791,8 +2791,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Arlownay",
-    "right": "Versago The Destroyer",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Versago the Destroyer",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -2828,7 +2828,7 @@ var fusionDB = TAFFY([
   {
     "left": "Arlownay",
     "right": "Witty Phantom",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -2836,8 +2836,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Arlownay",
-    "right": "Wretched Ghost Of The Attic",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Wretched Ghost of the Attic",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -2864,7 +2864,7 @@ var fusionDB = TAFFY([
   {
     "left": "Arlownay",
     "right": "Zombie Warrior",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -2927,7 +2927,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armaill",
     "right": "Blackland Fire Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -2944,7 +2944,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Armaill",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -2972,7 +2972,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armaill",
     "right": "Crawling Dragon #2",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -2981,7 +2981,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armaill",
     "right": "Crawling Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -3044,7 +3044,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armaill",
     "right": "Dragon Zombie",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -3115,7 +3115,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Armaill",
-    "right": "Graveyard And The Hand Of Invitation",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -3125,7 +3125,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armaill",
     "right": "Koumori Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -3232,7 +3232,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Armaill",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -3241,7 +3241,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Armaill",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -3286,7 +3286,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Armaill",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -3350,7 +3350,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armed Ninja",
     "right": "Blackland Fire Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -3431,7 +3431,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armed Ninja",
     "right": "Crawling Dragon #2",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -3440,7 +3440,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armed Ninja",
     "right": "Crawling Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -3521,7 +3521,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armed Ninja",
     "right": "Dragon Zombie",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -3629,7 +3629,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armed Ninja",
     "right": "Koumori Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -3763,7 +3763,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Armed Ninja",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragon Statue",
     "attack": 1100,
     "defense": 900,
@@ -3772,7 +3772,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Armed Ninja",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -3808,7 +3808,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Armored Rat",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -3835,7 +3835,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Armored Rat",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -3926,7 +3926,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armored Zombie",
     "right": "Dark Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -3944,7 +3944,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armored Zombie",
     "right": "Darkworld Thorns",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -3980,7 +3980,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armored Zombie",
     "right": "Living Vase",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -3989,7 +3989,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armored Zombie",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -3998,7 +3998,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armored Zombie",
     "right": "Man Eater",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -4007,7 +4007,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armored Zombie",
     "right": "Mushroom Man",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -4034,7 +4034,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armored Zombie",
     "right": "Rainbow Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -4043,7 +4043,7 @@ var fusionDB = TAFFY([
   {
     "left": "Armored Zombie",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -4051,8 +4051,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Armored Zombie",
-    "right": "Sword Arm Of Dragon",
-    "output": "Curse Of Dragon",
+    "right": "Sword Arm of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -4060,7 +4060,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Armored Zombie",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragon Zombie",
     "attack": 1600,
     "defense": 0,
@@ -4088,7 +4088,7 @@ var fusionDB = TAFFY([
   {
     "left": "Axe Raider",
     "right": "Baby Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -4097,7 +4097,7 @@ var fusionDB = TAFFY([
   {
     "left": "Axe Raider",
     "right": "Blackland Fire Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -4105,7 +4105,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Axe Raider",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -4115,7 +4115,7 @@ var fusionDB = TAFFY([
   {
     "left": "Axe Raider",
     "right": "Crawling Dragon #2",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -4124,7 +4124,7 @@ var fusionDB = TAFFY([
   {
     "left": "Axe Raider",
     "right": "Crawling Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -4187,7 +4187,7 @@ var fusionDB = TAFFY([
   {
     "left": "Axe Raider",
     "right": "Koumori Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -4196,7 +4196,7 @@ var fusionDB = TAFFY([
   {
     "left": "Axe Raider",
     "right": "Lesser Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -4205,7 +4205,7 @@ var fusionDB = TAFFY([
   {
     "left": "Axe Raider",
     "right": "One-Eyed Shield Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -4214,7 +4214,7 @@ var fusionDB = TAFFY([
   {
     "left": "Axe Raider",
     "right": "Petit Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -4223,7 +4223,7 @@ var fusionDB = TAFFY([
   {
     "left": "Axe Raider",
     "right": "Spike Seadra",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -4241,7 +4241,7 @@ var fusionDB = TAFFY([
   {
     "left": "Axe Raider",
     "right": "Yamatano Dragon Scroll",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -4294,7 +4294,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "B. Dragon Jungle King",
-    "right": "Sanga Of The Thunder",
+    "right": "Sanga of the Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -4376,7 +4376,7 @@ var fusionDB = TAFFY([
   {
     "left": "Baby Dragon",
     "right": "Axe Raider",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -4672,7 +4672,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Baby Dragon",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -4690,7 +4690,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Baby Dragon",
-    "right": "Left Arm Of The Forbidden One",
+    "right": "Left Arm of the Forbidden One",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -4699,7 +4699,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Baby Dragon",
-    "right": "Left Leg Of The Forbidden One",
+    "right": "Left Leg of the Forbidden One",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -4708,7 +4708,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Baby Dragon",
-    "right": "Right Arm Of The Forbidden One",
+    "right": "Right Arm of the Forbidden One",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -4717,7 +4717,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Baby Dragon",
-    "right": "Right Leg Of The Forbidden One",
+    "right": "Right Leg of the Forbidden One",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -4727,7 +4727,7 @@ var fusionDB = TAFFY([
   {
     "left": "Baby Dragon",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -4798,7 +4798,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Baby Dragon",
-    "right": "Wall Of Illusion",
+    "right": "Wall of Illusion",
     "output": "Koumori Dragon",
     "attack": 1500,
     "defense": 1200,
@@ -4825,7 +4825,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Baby Dragon",
-    "right": "Wretched Ghost Of The Attic",
+    "right": "Wretched Ghost of the Attic",
     "output": "Koumori Dragon",
     "attack": 1500,
     "defense": 1200,
@@ -4862,7 +4862,7 @@ var fusionDB = TAFFY([
   {
     "left": "Barrel Lily",
     "right": "Fire Reaper",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -4889,7 +4889,7 @@ var fusionDB = TAFFY([
   {
     "left": "Barrel Lily",
     "right": "King Fog",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -4897,8 +4897,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Barrel Lily",
-    "right": "Mask Of Darkness",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Mask of Darkness",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -4907,7 +4907,7 @@ var fusionDB = TAFFY([
   {
     "left": "Barrel Lily",
     "right": "Meda Bat",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -4916,7 +4916,7 @@ var fusionDB = TAFFY([
   {
     "left": "Barrel Lily",
     "right": "Zombie Warrior",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -4951,7 +4951,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Basic Insect",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Cockroach Knight",
     "attack": 800,
     "defense": 900,
@@ -4960,8 +4960,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bat",
-    "right": "Air Marmot Of Nefariousness",
-    "output": "Giga-Tech Wolf",
+    "right": "Air Marmot of Nefariousness",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -4988,7 +4988,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bat",
     "right": "Burglar",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -5096,7 +5096,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bat",
     "right": "Little Chimera",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -5123,7 +5123,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bat",
     "right": "Milus Radiant",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -5150,7 +5150,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bat",
     "right": "Mystical Sheep #1",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -5159,7 +5159,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bat",
     "right": "Mystical Sheep #2",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -5203,7 +5203,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bat",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Disk Magician",
     "attack": 1350,
     "defense": 1000,
@@ -5230,7 +5230,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bat",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -5266,7 +5266,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bat",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -5293,7 +5293,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bat",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Metal Dragon",
     "attack": 1850,
     "defense": 1700,
@@ -5420,7 +5420,7 @@ var fusionDB = TAFFY([
   {
     "left": "Battle Warrior",
     "right": "Dragon Zombie",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -5482,7 +5482,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bean Soldier",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Flower Wolf",
     "attack": 1800,
     "defense": 1400,
@@ -5510,7 +5510,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bean Soldier",
     "right": "Blue-Eyed Silver Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -5519,7 +5519,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bean Soldier",
     "right": "Bone Mouse",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -5537,7 +5537,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bean Soldier",
     "right": "Clown Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -5555,7 +5555,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bean Soldier",
     "right": "Fiend's Hand",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -5563,8 +5563,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bean Soldier",
-    "right": "Graveyard And The Hand Of Invitation",
-    "output": "Pumpking The King Of Ghosts",
+    "right": "Graveyard and the Hand of Invitation",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -5590,7 +5590,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bean Soldier",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -5609,7 +5609,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bean Soldier",
     "right": "Magical Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -5617,7 +5617,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bean Soldier",
-    "right": "Magician Of Faith",
+    "right": "Magician of Faith",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -5672,7 +5672,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bean Soldier",
     "right": "Shadow Specter",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -5690,7 +5690,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bean Soldier",
     "right": "Skull Servant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -5716,8 +5716,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bean Soldier",
-    "right": "The Shadow Who Controls The Dark",
-    "output": "Rose Spectre Of Dunn",
+    "right": "The Shadow Who Controls the Dark",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -5726,7 +5726,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bean Soldier",
     "right": "The Snake Hair",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -5761,7 +5761,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Beautiful Beast Trainer",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -5834,7 +5834,7 @@ var fusionDB = TAFFY([
   {
     "left": "Beautiful Headhuntress",
     "right": "Koumori Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -5851,7 +5851,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Beaver Warrior",
-    "right": "Magician Of Faith",
+    "right": "Magician of Faith",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -5861,7 +5861,7 @@ var fusionDB = TAFFY([
   {
     "left": "Behegon",
     "right": "Megazowler",
-    "output": "Bracchio-Raidus",
+    "output": "Bracchio-raidus",
     "attack": 2200,
     "defense": 2000,
     "type": "Monster",
@@ -5914,7 +5914,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bio Plant",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -5942,7 +5942,7 @@ var fusionDB = TAFFY([
   {
     "left": "Blackland Fire Dragon",
     "right": "Ansatsu",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -5951,7 +5951,7 @@ var fusionDB = TAFFY([
   {
     "left": "Blackland Fire Dragon",
     "right": "Armaill",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -5960,7 +5960,7 @@ var fusionDB = TAFFY([
   {
     "left": "Blackland Fire Dragon",
     "right": "Armed Ninja",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -5978,7 +5978,7 @@ var fusionDB = TAFFY([
   {
     "left": "Blackland Fire Dragon",
     "right": "Axe Raider",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -6050,7 +6050,7 @@ var fusionDB = TAFFY([
   {
     "left": "Blackland Fire Dragon",
     "right": "Dragon Statue",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -6068,7 +6068,7 @@ var fusionDB = TAFFY([
   {
     "left": "Blackland Fire Dragon",
     "right": "Dragoness the Wicked Knight",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -6103,7 +6103,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Blackland Fire Dragon",
-    "right": "Giant Soldier Of Stone",
+    "right": "Giant Soldier of Stone",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -6149,7 +6149,7 @@ var fusionDB = TAFFY([
   {
     "left": "Blackland Fire Dragon",
     "right": "M-Warrior #1",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -6203,7 +6203,7 @@ var fusionDB = TAFFY([
   {
     "left": "Blackland Fire Dragon",
     "right": "Oscillo Hero",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -6220,7 +6220,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Blackland Fire Dragon",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -6230,7 +6230,7 @@ var fusionDB = TAFFY([
   {
     "left": "Blackland Fire Dragon",
     "right": "Queen's Double",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -6248,7 +6248,7 @@ var fusionDB = TAFFY([
   {
     "left": "Blackland Fire Dragon",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -6320,7 +6320,7 @@ var fusionDB = TAFFY([
   {
     "left": "Blackland Fire Dragon",
     "right": "Vishwar Randi",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -6373,7 +6373,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bladefly",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Cockroach Knight",
     "attack": 800,
     "defense": 900,
@@ -6517,7 +6517,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Blocker",
-    "right": "Left Arm Of The Forbidden One",
+    "right": "Left Arm of the Forbidden One",
     "output": "Disk Magician",
     "attack": 1350,
     "defense": 1000,
@@ -6572,7 +6572,7 @@ var fusionDB = TAFFY([
   {
     "left": "Blue-Eyed Silver Zombie",
     "right": "Bean Soldier",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -6617,7 +6617,7 @@ var fusionDB = TAFFY([
   {
     "left": "Blue-Eyed Silver Zombie",
     "right": "Darkworld Thorns",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -6652,7 +6652,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Blue-Eyed Silver Zombie",
-    "right": "Graveyard And The Hand Of Invitation",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "The Snake Hair",
     "attack": 1500,
     "defense": 1200,
@@ -6751,7 +6751,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Blue-Eyed Silver Zombie",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -6760,7 +6760,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Blue-Eyed Silver Zombie",
-    "right": "Left Arm Of The Forbidden One",
+    "right": "Left Arm of the Forbidden One",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -6770,7 +6770,7 @@ var fusionDB = TAFFY([
   {
     "left": "Blue-Eyed Silver Zombie",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -6778,7 +6778,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Blue-Eyed Silver Zombie",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -6796,7 +6796,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Blue-Eyed Silver Zombie",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragon Zombie",
     "attack": 1600,
     "defense": 0,
@@ -6823,7 +6823,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Blue-Winged Crown",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Crimson Sunbird",
     "attack": 2300,
     "defense": 1800,
@@ -6913,7 +6913,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Blue-Winged Crown",
-    "right": "Kanan The Swordmistress",
+    "right": "Kanan the Swordmistress",
     "output": "Punished Eagle",
     "attack": 2100,
     "defense": 1800,
@@ -6949,7 +6949,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bolt Escargot",
-    "right": "Curse Of Dragon",
+    "right": "Curse of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -6967,7 +6967,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bolt Escargot",
-    "right": "Gaia The Dragon Champion",
+    "right": "Gaia the Dragon Champion",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -7039,7 +7039,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bolt Escargot",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "The Immortal of Thunder",
     "attack": 1500,
     "defense": 1300,
@@ -7102,7 +7102,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bolt Penguin",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Tripwire Beast",
     "attack": 1200,
     "defense": 1300,
@@ -7174,7 +7174,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bolt Penguin",
-    "right": "Curse Of Dragon",
+    "right": "Curse of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -7210,7 +7210,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bolt Penguin",
-    "right": "Gaia The Dragon Champion",
+    "right": "Gaia the Dragon Champion",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -7237,7 +7237,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bolt Penguin",
-    "right": "Guardian Of The Sea",
+    "right": "Guardian of the Sea",
     "output": "Bolt Escargot",
     "attack": 1400,
     "defense": 1500,
@@ -7345,7 +7345,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bolt Penguin",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Tripwire Beast",
     "attack": 1200,
     "defense": 1300,
@@ -7453,7 +7453,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bolt Penguin",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -7507,7 +7507,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bolt Penguin",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Thunder Dragon",
     "attack": 1600,
     "defense": 1500,
@@ -7543,7 +7543,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bone Mouse",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Shadow Specter",
     "attack": 500,
     "defense": 200,
@@ -7571,7 +7571,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bone Mouse",
     "right": "Bean Soldier",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -7606,7 +7606,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bone Mouse",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -7616,7 +7616,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bone Mouse",
     "right": "Darkworld Thorns",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -7624,7 +7624,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bone Mouse",
-    "right": "Djinn The Watcher Of The Wind",
+    "right": "Djinn the Watcher of the Wind",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -7651,7 +7651,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bone Mouse",
-    "right": "Guardian Of The Labyrinth",
+    "right": "Guardian of the Labyrinth",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -7660,7 +7660,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bone Mouse",
-    "right": "Hero Of The East",
+    "right": "Hero of the East",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -7688,7 +7688,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bone Mouse",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -7724,7 +7724,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bone Mouse",
     "right": "Metal Dragon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -7805,7 +7805,7 @@ var fusionDB = TAFFY([
   {
     "left": "Bone Mouse",
     "right": "Snakeyashi",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -7813,7 +7813,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bone Mouse",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -7840,7 +7840,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Bone Mouse",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -7904,7 +7904,7 @@ var fusionDB = TAFFY([
   {
     "left": "Boo Koo",
     "right": "Droll Bird",
-    "output": "Spirit Of The Books",
+    "output": "Spirit of the Books",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -7939,7 +7939,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Boo Koo",
-    "right": "Graveyard And The Hand Of Invitation",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -8137,7 +8137,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Brave Scizzar",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Dice Armadillo",
     "attack": 1650,
     "defense": 1800,
@@ -8173,7 +8173,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Brave Scizzar",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "Cyber Saurus",
     "attack": 1800,
     "defense": 1400,
@@ -8191,7 +8191,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Brave Scizzar",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Metal Dragon",
     "attack": 1850,
     "defense": 1700,
@@ -8219,7 +8219,7 @@ var fusionDB = TAFFY([
   {
     "left": "Burglar",
     "right": "Bat",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -8289,7 +8289,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Ancient Tree of Enlightenment",
     "output": "Rose Spectre of Dunn",
     "attack": 2000,
@@ -8298,7 +8298,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Ansatsu",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -8307,16 +8307,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Arlownay",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Armaill",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -8325,7 +8325,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Armored Rat",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -8334,7 +8334,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Axe Raider",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -8343,7 +8343,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Bean Soldier",
     "output": "Rose Spectre of Dunn",
     "attack": 2000,
@@ -8352,7 +8352,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Blue-Winged Crown",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -8361,7 +8361,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Celtic Guardian",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -8370,7 +8370,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Dark Plant",
     "output": "Firegrass",
     "attack": 700,
@@ -8379,7 +8379,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Doron",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -8388,7 +8388,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Faith Bird",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -8397,7 +8397,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Fiend's Hand",
     "output": "Fire Reaper",
     "attack": 700,
@@ -8406,7 +8406,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Fiend Reflection #1",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -8415,7 +8415,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Fire Reaper",
     "output": "Flame Ghost",
     "attack": 1000,
@@ -8424,7 +8424,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -8433,7 +8433,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Fusionist",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -8442,7 +8442,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Haniwa",
     "output": "Dissolverock",
     "attack": 900,
@@ -8451,7 +8451,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Job-Change Mirror",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
@@ -8460,8 +8460,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Candle Of Fate",
-    "right": "Kagemusha Of The Blue Flame",
+    "left": "Candle of Fate",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -8469,7 +8469,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Karbonala Warrior",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -8478,7 +8478,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Milus Radiant",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -8487,7 +8487,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Mystic Horseman",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -8496,7 +8496,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Queen's Double",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -8505,7 +8505,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Shadow Specter",
     "output": "Fire Reaper",
     "attack": 700,
@@ -8514,7 +8514,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Silver Fang",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -8523,7 +8523,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Skull Red Bird",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -8532,8 +8532,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
-    "right": "Swordsman From A Foreign Land",
+    "left": "Candle of Fate",
+    "right": "Swordsman from a Foreign Land",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -8541,7 +8541,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
+    "left": "Candle of Fate",
     "right": "Tentacle Plant",
     "output": "Firegrass",
     "attack": 700,
@@ -8550,8 +8550,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Candle Of Fate",
-    "right": "Unknown Warrior Of Fiend",
+    "left": "Candle of Fate",
+    "right": "Unknown Warrior of Fiend",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -8632,7 +8632,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Cannon Soldier",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Dice Armadillo",
     "attack": 1650,
     "defense": 1800,
@@ -8658,7 +8658,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Castle Of Dark Illusions",
+    "left": "Castle of Dark Illusions",
     "right": "Celtic Guardian",
     "output": "Dark Elf",
     "attack": 2000,
@@ -8667,7 +8667,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Castle Of Dark Illusions",
+    "left": "Castle of Dark Illusions",
     "right": "Gemini Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -8676,7 +8676,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Castle Of Dark Illusions",
+    "left": "Castle of Dark Illusions",
     "right": "Job-Change Mirror",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
@@ -8687,7 +8687,7 @@ var fusionDB = TAFFY([
   {
     "left": "Catapult Turtle",
     "right": "Fireyarou",
-    "output": "Giant Turtle Who Feeds On Flames",
+    "output": "Giant Turtle Who Feeds on Flames",
     "attack": 1400,
     "defense": 1800,
     "type": "Monster",
@@ -8758,7 +8758,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Celtic Guardian",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -8767,7 +8767,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Celtic Guardian",
-    "right": "Castle Of Dark Illusions",
+    "right": "Castle of Dark Illusions",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -8795,7 +8795,7 @@ var fusionDB = TAFFY([
   {
     "left": "Celtic Guardian",
     "right": "Crawling Dragon #2",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -8803,7 +8803,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Celtic Guardian",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -8831,7 +8831,7 @@ var fusionDB = TAFFY([
   {
     "left": "Celtic Guardian",
     "right": "Dragon Statue",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -8840,7 +8840,7 @@ var fusionDB = TAFFY([
   {
     "left": "Celtic Guardian",
     "right": "Dragon Zombie",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -8848,7 +8848,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Celtic Guardian",
-    "right": "Exodia The Forbidden One",
+    "right": "Exodia the Forbidden One",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -8902,7 +8902,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Celtic Guardian",
-    "right": "Left Arm Of The Forbidden One",
+    "right": "Left Arm of the Forbidden One",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -8911,7 +8911,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Celtic Guardian",
-    "right": "Left Leg Of The Forbidden One",
+    "right": "Left Leg of the Forbidden One",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -8930,7 +8930,7 @@ var fusionDB = TAFFY([
   {
     "left": "Celtic Guardian",
     "right": "Lesser Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -8938,7 +8938,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Celtic Guardian",
-    "right": "Lord Of Zemia",
+    "right": "Lord of Zemia",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -8956,7 +8956,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Celtic Guardian",
-    "right": "Mask Of Darkness",
+    "right": "Mask of Darkness",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -8984,7 +8984,7 @@ var fusionDB = TAFFY([
   {
     "left": "Celtic Guardian",
     "right": "One-Eyed Shield Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -9001,7 +9001,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Celtic Guardian",
-    "right": "Right Arm Of The Forbidden One",
+    "right": "Right Arm of the Forbidden One",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -9010,7 +9010,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Celtic Guardian",
-    "right": "Right Leg Of The Forbidden One",
+    "right": "Right Leg of the Forbidden One",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -9038,7 +9038,7 @@ var fusionDB = TAFFY([
   {
     "left": "Celtic Guardian",
     "right": "Spike Seadra",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -9064,7 +9064,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Celtic Guardian",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -9082,7 +9082,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Celtic Guardian",
-    "right": "Witch Of The Black Forest",
+    "right": "Witch of the Black Forest",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -9092,7 +9092,7 @@ var fusionDB = TAFFY([
   {
     "left": "Celtic Guardian",
     "right": "Yamatano Dragon Scroll",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -9334,7 +9334,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Charubin the Fire Knight",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -9415,7 +9415,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Charubin the Fire Knight",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -9424,7 +9424,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Charubin the Fire Knight",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -9433,7 +9433,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Charubin the Fire Knight",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -9460,7 +9460,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Charubin the Fire Knight",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -9506,7 +9506,7 @@ var fusionDB = TAFFY([
   {
     "left": "Claw Reacher",
     "right": "Firegrass",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -9514,7 +9514,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Claw Reacher",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -9524,7 +9524,7 @@ var fusionDB = TAFFY([
   {
     "left": "Claw Reacher",
     "right": "Tentacle Plant",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -9542,7 +9542,7 @@ var fusionDB = TAFFY([
   {
     "left": "Clown Zombie",
     "right": "Abyss Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -9569,7 +9569,7 @@ var fusionDB = TAFFY([
   {
     "left": "Clown Zombie",
     "right": "Bean Soldier",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -9623,7 +9623,7 @@ var fusionDB = TAFFY([
   {
     "left": "Clown Zombie",
     "right": "Darkworld Thorns",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -9632,7 +9632,7 @@ var fusionDB = TAFFY([
   {
     "left": "Clown Zombie",
     "right": "Dark Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -9659,7 +9659,7 @@ var fusionDB = TAFFY([
   {
     "left": "Clown Zombie",
     "right": "Firegrass",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -9685,7 +9685,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Clown Zombie",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Armored Zombie",
     "attack": 1500,
     "defense": 0,
@@ -9713,7 +9713,7 @@ var fusionDB = TAFFY([
   {
     "left": "Clown Zombie",
     "right": "Laughing Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -9749,7 +9749,7 @@ var fusionDB = TAFFY([
   {
     "left": "Clown Zombie",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -9767,7 +9767,7 @@ var fusionDB = TAFFY([
   {
     "left": "Clown Zombie",
     "right": "Metal Dragon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -9794,7 +9794,7 @@ var fusionDB = TAFFY([
   {
     "left": "Clown Zombie",
     "right": "Mushroom Man",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -9829,7 +9829,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Clown Zombie",
-    "right": "Rhaimundos Of The Red Sword",
+    "right": "Rhaimundos of the Red Sword",
     "output": "Armored Zombie",
     "attack": 1500,
     "defense": 0,
@@ -9848,7 +9848,7 @@ var fusionDB = TAFFY([
   {
     "left": "Clown Zombie",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -9865,8 +9865,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Clown Zombie",
-    "right": "Sword Arm Of Dragon",
-    "output": "Curse Of Dragon",
+    "right": "Sword Arm of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -9875,7 +9875,7 @@ var fusionDB = TAFFY([
   {
     "left": "Clown Zombie",
     "right": "Tentacle Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -9883,7 +9883,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Clown Zombie",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragon Zombie",
     "attack": 1600,
     "defense": 0,
@@ -9945,7 +9945,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Cocoon Of Evolution",
+    "left": "Cocoon of Evolution",
     "right": "Larvae Moth",
     "output": "Great Moth",
     "attack": 2500,
@@ -9956,7 +9956,7 @@ var fusionDB = TAFFY([
   {
     "left": "Corroding Shark",
     "right": "Abyss Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -9974,7 +9974,7 @@ var fusionDB = TAFFY([
   {
     "left": "Corroding Shark",
     "right": "Arlownay",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -10001,7 +10001,7 @@ var fusionDB = TAFFY([
   {
     "left": "Corroding Shark",
     "right": "Dark Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -10036,7 +10036,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Corroding Shark",
-    "right": "Graveyard And The Hand Of Invitation",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "The Snake Hair",
     "attack": 1500,
     "defense": 1200,
@@ -10046,7 +10046,7 @@ var fusionDB = TAFFY([
   {
     "left": "Corroding Shark",
     "right": "Griggle",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -10072,7 +10072,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Corroding Shark",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -10082,7 +10082,7 @@ var fusionDB = TAFFY([
   {
     "left": "Corroding Shark",
     "right": "Laughing Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -10109,7 +10109,7 @@ var fusionDB = TAFFY([
   {
     "left": "Corroding Shark",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -10118,7 +10118,7 @@ var fusionDB = TAFFY([
   {
     "left": "Corroding Shark",
     "right": "Man Eater",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -10154,7 +10154,7 @@ var fusionDB = TAFFY([
   {
     "left": "Corroding Shark",
     "right": "Rainbow Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -10253,7 +10253,7 @@ var fusionDB = TAFFY([
   {
     "left": "Crawling Dragon",
     "right": "Armaill",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -10262,7 +10262,7 @@ var fusionDB = TAFFY([
   {
     "left": "Crawling Dragon",
     "right": "Armed Ninja",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -10280,7 +10280,7 @@ var fusionDB = TAFFY([
   {
     "left": "Crawling Dragon",
     "right": "Axe Raider",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -10415,7 +10415,7 @@ var fusionDB = TAFFY([
   {
     "left": "Crawling Dragon",
     "right": "Dragon Zombie",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -10424,7 +10424,7 @@ var fusionDB = TAFFY([
   {
     "left": "Crawling Dragon",
     "right": "Dragoness the Wicked Knight",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -10541,7 +10541,7 @@ var fusionDB = TAFFY([
   {
     "left": "Crawling Dragon",
     "right": "Queen's Double",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -10558,7 +10558,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Crawling Dragon",
-    "right": "Sanga Of The Thunder",
+    "right": "Sanga of the Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -10649,7 +10649,7 @@ var fusionDB = TAFFY([
   {
     "left": "Crawling Dragon #2",
     "right": "Armaill",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -10658,7 +10658,7 @@ var fusionDB = TAFFY([
   {
     "left": "Crawling Dragon #2",
     "right": "Armed Ninja",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -10676,7 +10676,7 @@ var fusionDB = TAFFY([
   {
     "left": "Crawling Dragon #2",
     "right": "Axe Raider",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -10721,7 +10721,7 @@ var fusionDB = TAFFY([
   {
     "left": "Crawling Dragon #2",
     "right": "Celtic Guardian",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -10784,7 +10784,7 @@ var fusionDB = TAFFY([
   {
     "left": "Crawling Dragon #2",
     "right": "Dragoness the Wicked Knight",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -10811,7 +10811,7 @@ var fusionDB = TAFFY([
   {
     "left": "Crawling Dragon #2",
     "right": "Fiend Sword",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -10883,7 +10883,7 @@ var fusionDB = TAFFY([
   {
     "left": "Crawling Dragon #2",
     "right": "M-Warrior #1",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -10936,8 +10936,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Crawling Dragon #2",
-    "right": "Princess Of Tsurugi",
-    "output": "Sword Arm Of Dragon",
+    "right": "Princess of Tsurugi",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -10946,7 +10946,7 @@ var fusionDB = TAFFY([
   {
     "left": "Crawling Dragon #2",
     "right": "Queen's Double",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -11017,7 +11017,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Crow Goblin",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Crimson Sunbird",
     "attack": 2300,
     "defense": 1800,
@@ -11025,7 +11025,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "Bolt Escargot",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -11034,7 +11034,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "Bolt Penguin",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -11043,7 +11043,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "Electric Lizard",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -11052,7 +11052,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "Electric Snake",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -11061,16 +11061,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "Gaia The Fierce Knight",
-    "output": "Gaia The Dragon Champion",
+    "output": "Gaia the Dragon Champion",
     "attack": 2600,
     "defense": 2100,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "Kaminari Attack",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -11079,7 +11079,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "Kaminarikozou",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -11088,7 +11088,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "LaLa Li-oon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -11097,7 +11097,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "Mega Thunderball",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -11106,7 +11106,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "Oscillo Hero #2",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -11115,7 +11115,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "Queen of Autumn Leaves",
     "output": "B. Dragon Jungle King",
     "attack": 2100,
@@ -11124,8 +11124,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Curse Of Dragon",
-    "right": "Sanga Of The Thunder",
+    "left": "Curse of Dragon",
+    "right": "Sanga of the Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -11133,7 +11133,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "The Immortal of Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -11142,7 +11142,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "Thunder Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -11151,7 +11151,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "Tripwire Beast",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -11160,7 +11160,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Ancient Jar",
     "output": "Ushi Oni",
     "attack": 2150,
@@ -11169,7 +11169,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Bone Mouse",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -11178,7 +11178,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Celtic Guardian",
     "output": "Dark Elf",
     "attack": 2000,
@@ -11187,7 +11187,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Dancing Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -11196,7 +11196,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Dragon Statue",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -11205,7 +11205,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Fiend's Hand",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -11214,7 +11214,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Fire Reaper",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -11223,7 +11223,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Kaminarikozou",
     "output": "The Immortal of Thunder",
     "attack": 1500,
@@ -11232,7 +11232,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Mech Mole Zombie",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -11241,7 +11241,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Mega Thunderball",
     "output": "The Immortal of Thunder",
     "attack": 1500,
@@ -11250,7 +11250,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Morphing Jar",
     "output": "Ushi Oni",
     "attack": 2150,
@@ -11259,16 +11259,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "One-Eyed Shield Dragon",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -11277,7 +11277,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Petit Dragon",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -11286,8 +11286,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
-    "right": "Pot The Trick",
+    "left": "Curtain of the Dark Ones",
+    "right": "Pot the Trick",
     "output": "Ushi Oni",
     "attack": 2150,
     "defense": 1950,
@@ -11295,7 +11295,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Skull Servant",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -11304,7 +11304,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "The Wandering Doomed",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -11313,8 +11313,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "left": "Curtain of the Dark Ones",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -11322,7 +11322,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Curtain Of The Dark Ones",
+    "left": "Curtain of the Dark Ones",
     "right": "Yamatano Dragon Scroll",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -11332,7 +11332,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Cyber Commander",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Dice Armadillo",
     "attack": 1650,
     "defense": 1800,
@@ -11377,7 +11377,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Cyber Commander",
-    "right": "Hero Of The East",
+    "right": "Hero of the East",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -11414,7 +11414,7 @@ var fusionDB = TAFFY([
   {
     "left": "Cyber Commander",
     "right": "Mystical Sheep #2",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -11440,7 +11440,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Cyber Commander",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -11476,7 +11476,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Cyber Commander",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -11530,7 +11530,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Cyber Soldier",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Dice Armadillo",
     "attack": 1650,
     "defense": 1800,
@@ -11593,7 +11593,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Cyber Soldier",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Metal Dragon",
     "attack": 1850,
     "defense": 1700,
@@ -11602,8 +11602,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Cyber-Stein",
-    "right": "Air Marmot Of Nefariousness",
-    "output": "Giga-Tech Wolf",
+    "right": "Air Marmot of Nefariousness",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -11683,7 +11683,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Cyber-Stein",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -11702,7 +11702,7 @@ var fusionDB = TAFFY([
   {
     "left": "Cyber-Stein",
     "right": "Milus Radiant",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -11711,7 +11711,7 @@ var fusionDB = TAFFY([
   {
     "left": "Cyber-Stein",
     "right": "Mystical Sheep #2",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -11737,7 +11737,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Cyber-Stein",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Disk Magician",
     "attack": 1350,
     "defense": 1000,
@@ -11746,7 +11746,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Cyber-Stein",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -11810,7 +11810,7 @@ var fusionDB = TAFFY([
   {
     "left": "D. Human",
     "right": "Dragon Zombie",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -11845,8 +11845,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "D. Human",
-    "right": "Wicked Dragon With The Ersatz Head",
-    "output": "Sword Arm Of Dragon",
+    "right": "Wicked Dragon with the Ersatz Head",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -11863,7 +11863,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -11890,7 +11890,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Ancient Tree Of Enlightenment",
+    "right": "Ancient Tree of Enlightenment",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -11989,7 +11989,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -12043,7 +12043,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Dark Titan Of Terror",
+    "right": "Dark Titan of Terror",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -12151,7 +12151,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Goddess Of Whim",
+    "right": "Goddess of Whim",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -12160,7 +12160,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -12187,7 +12187,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Guardian Of The Labyrinth",
+    "right": "Guardian of the Labyrinth",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -12241,7 +12241,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Hourglass Of Courage",
+    "right": "Hourglass of Courage",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -12250,7 +12250,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Hourglass Of Life",
+    "right": "Hourglass of Life",
     "output": "Mystical Elf",
     "attack": 800,
     "defense": 2000,
@@ -12268,7 +12268,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Celtic Guardian",
     "attack": 1400,
     "defense": 1200,
@@ -12313,7 +12313,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -12331,7 +12331,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Left Arm Of The Forbidden One",
+    "right": "Left Arm of the Forbidden One",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -12340,7 +12340,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Lord Of D.",
+    "right": "Lord of D.",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -12367,7 +12367,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Lord Of The Lamp",
+    "right": "Lord of the Lamp",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -12376,7 +12376,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Lord Of Zemia",
+    "right": "Lord of Zemia",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -12412,7 +12412,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Magician Of Faith",
+    "right": "Magician of Faith",
     "output": "Mystical Elf",
     "attack": 800,
     "defense": 2000,
@@ -12448,7 +12448,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Mask Of Darkness",
+    "right": "Mask of Darkness",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -12592,7 +12592,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -12601,7 +12601,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Celtic Guardian",
     "attack": 1400,
     "defense": 1200,
@@ -12637,7 +12637,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -12691,7 +12691,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Celtic Guardian",
     "attack": 1400,
     "defense": 1200,
@@ -12727,7 +12727,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "That Which Feeds On Life",
+    "right": "That Which Feeds on Life",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -12772,7 +12772,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -12871,7 +12871,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Wretched Ghost Of The Attic",
+    "right": "Wretched Ghost of the Attic",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -12889,7 +12889,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Assailant",
-    "right": "Djinn The Watcher Of The Wind",
+    "right": "Djinn the Watcher of the Wind",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -13016,7 +13016,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Gray",
     "right": "Dharma Cannon",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -13042,7 +13042,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Gray",
-    "right": "Hourglass Of Life",
+    "right": "Hourglass of Life",
     "output": "Garvas",
     "attack": 2000,
     "defense": 1700,
@@ -13122,7 +13122,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Dark King Of The Abyss",
+    "left": "Dark King of the Abyss",
     "right": "Job-Change Mirror",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
@@ -13131,16 +13131,16 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Dark King Of The Abyss",
+    "left": "Dark King of the Abyss",
     "right": "Living Vase",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Dark King Of The Abyss",
+    "left": "Dark King of the Abyss",
     "right": "Petit Dragon",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -13149,17 +13149,17 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Dark King Of The Abyss",
+    "left": "Dark King of the Abyss",
     "right": "Queen of Autumn Leaves",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Dark King Of The Abyss",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "left": "Dark King of the Abyss",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Koumori Dragon",
     "attack": 1500,
     "defense": 1200,
@@ -13167,7 +13167,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Dark King Of The Abyss",
+    "left": "Dark King of the Abyss",
     "right": "Yamatano Dragon Scroll",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -13186,7 +13186,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Magician Girl",
-    "right": "Giant Soldier Of Stone",
+    "right": "Giant Soldier of Stone",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -13204,7 +13204,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Plant",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Flower Wolf",
     "attack": 1800,
     "defense": 1400,
@@ -13241,7 +13241,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "Armored Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -13267,7 +13267,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Plant",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Firegrass",
     "attack": 700,
     "defense": 600,
@@ -13277,7 +13277,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "Clown Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -13286,7 +13286,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "Corroding Shark",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -13322,7 +13322,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "Dark Prisoner",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -13340,7 +13340,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "Dragon Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -13367,7 +13367,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "Flame Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -13384,7 +13384,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Plant",
-    "right": "Goddess Of Whim",
+    "right": "Goddess of Whim",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -13457,7 +13457,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "Kuriboh",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -13502,7 +13502,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "Magical Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -13510,7 +13510,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Plant",
-    "right": "Magician Of Faith",
+    "right": "Magician of Faith",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -13528,8 +13528,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Plant",
-    "right": "Mask Of Darkness",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Mask of Darkness",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -13556,7 +13556,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "Midnight Fiend",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -13574,7 +13574,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "Monster Eye",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -13601,7 +13601,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "Mystery Hand",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -13627,7 +13627,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Plant",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Flower Wolf",
     "attack": 1800,
     "defense": 1400,
@@ -13645,7 +13645,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Plant",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -13691,7 +13691,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "Skelgon",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -13717,7 +13717,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Plant",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -13735,7 +13735,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Plant",
-    "right": "Temple Of Skulls",
+    "right": "Temple of Skulls",
     "output": "Wood Remains",
     "attack": 1000,
     "defense": 900,
@@ -13745,7 +13745,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "The 13th Grave",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -13762,8 +13762,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Plant",
-    "right": "The Shadow Who Controls The Dark",
-    "output": "Rose Spectre Of Dunn",
+    "right": "The Shadow Who Controls the Dark",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -13808,7 +13808,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "Wood Remains",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -13816,8 +13816,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Plant",
-    "right": "Wretched Ghost Of The Attic",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Wretched Ghost of the Attic",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -13835,7 +13835,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Plant",
     "right": "Zombie Warrior",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -13844,7 +13844,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Prisoner",
     "right": "Arlownay",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -13862,7 +13862,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dark Prisoner",
     "right": "Dark Plant",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -13879,7 +13879,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Prisoner",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -13969,7 +13969,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Rabbit",
-    "right": "Wall Of Illusion",
+    "right": "Wall of Illusion",
     "output": "Chimera the Flying Mythical Beast",
     "attack": 2100,
     "defense": 1800,
@@ -13987,7 +13987,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Shade",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -14004,7 +14004,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Dark Titan Of Terror",
+    "left": "Dark Titan of Terror",
     "right": "Dancing Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -14014,7 +14014,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dark Witch",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -14302,7 +14302,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Darkfire Dragon",
-    "right": "Giant Soldier Of Stone",
+    "right": "Giant Soldier of Stone",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -14428,7 +14428,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Darkfire Dragon",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -14474,7 +14474,7 @@ var fusionDB = TAFFY([
   {
     "left": "Darkfire Dragon",
     "right": "Tiger Axe",
-    "output": "Cocoon Of Evolution",
+    "output": "Cocoon of Evolution",
     "attack": 0,
     "defense": 2000,
     "type": "Monster",
@@ -14500,7 +14500,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Darkworld Thorns",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Flower Wolf",
     "attack": 1800,
     "defense": 1400,
@@ -14519,7 +14519,7 @@ var fusionDB = TAFFY([
   {
     "left": "Darkworld Thorns",
     "right": "Armored Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -14528,7 +14528,7 @@ var fusionDB = TAFFY([
   {
     "left": "Darkworld Thorns",
     "right": "Blue-Eyed Silver Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -14537,7 +14537,7 @@ var fusionDB = TAFFY([
   {
     "left": "Darkworld Thorns",
     "right": "Bone Mouse",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -14546,7 +14546,7 @@ var fusionDB = TAFFY([
   {
     "left": "Darkworld Thorns",
     "right": "Clown Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -14600,7 +14600,7 @@ var fusionDB = TAFFY([
   {
     "left": "Darkworld Thorns",
     "right": "Dragon Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -14609,7 +14609,7 @@ var fusionDB = TAFFY([
   {
     "left": "Darkworld Thorns",
     "right": "Fiend's Hand",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -14618,7 +14618,7 @@ var fusionDB = TAFFY([
   {
     "left": "Darkworld Thorns",
     "right": "Fire Reaper",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -14653,7 +14653,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Darkworld Thorns",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -14698,7 +14698,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Darkworld Thorns",
-    "right": "Magician Of Faith",
+    "right": "Magician of Faith",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -14708,7 +14708,7 @@ var fusionDB = TAFFY([
   {
     "left": "Darkworld Thorns",
     "right": "Mech Mole Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -14761,7 +14761,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Darkworld Thorns",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -14780,7 +14780,7 @@ var fusionDB = TAFFY([
   {
     "left": "Darkworld Thorns",
     "right": "Shadow Specter",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -14798,7 +14798,7 @@ var fusionDB = TAFFY([
   {
     "left": "Darkworld Thorns",
     "right": "Skull Servant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -14815,7 +14815,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Darkworld Thorns",
-    "right": "Supporter In The Shadows",
+    "right": "Supporter in the Shadows",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -14824,7 +14824,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Darkworld Thorns",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -14834,7 +14834,7 @@ var fusionDB = TAFFY([
   {
     "left": "Darkworld Thorns",
     "right": "The 13th Grave",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -14851,7 +14851,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Darkworld Thorns",
-    "right": "The Shadow Who Controls The Dark",
+    "right": "The Shadow Who Controls the Dark",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -14878,7 +14878,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Darkworld Thorns",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "B. Dragon Jungle King",
     "attack": 2100,
     "defense": 1800,
@@ -14888,7 +14888,7 @@ var fusionDB = TAFFY([
   {
     "left": "Darkworld Thorns",
     "right": "Wood Remains",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -14896,7 +14896,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Destroyer Golem",
-    "right": "Warrior Of Tradition",
+    "right": "Warrior of Tradition",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -14942,7 +14942,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dharma Cannon",
     "right": "Dark Gray",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -14959,7 +14959,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dharma Cannon",
-    "right": "Guardian Of The Labyrinth",
+    "right": "Guardian of the Labyrinth",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -14977,7 +14977,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dharma Cannon",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -15023,7 +15023,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dharma Cannon",
     "right": "Milus Radiant",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -15040,7 +15040,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dharma Cannon",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -15184,7 +15184,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dig Beak",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -15247,7 +15247,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dimensional Warrior",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "D. Human",
     "attack": 1300,
     "defense": 1100,
@@ -15274,7 +15274,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Disk Magician",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Dice Armadillo",
     "attack": 1650,
     "defense": 1800,
@@ -15301,7 +15301,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Disk Magician",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Metal Dragon",
     "attack": 1850,
     "defense": 1700,
@@ -15445,7 +15445,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dissolverock",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -15481,7 +15481,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dissolverock",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -15489,7 +15489,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Djinn The Watcher Of The Wind",
+    "left": "Djinn the Watcher of the Wind",
     "right": "Bone Mouse",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -15498,7 +15498,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Djinn The Watcher Of The Wind",
+    "left": "Djinn the Watcher of the Wind",
     "right": "Dark Assailant",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -15507,7 +15507,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Djinn The Watcher Of The Wind",
+    "left": "Djinn the Watcher of the Wind",
     "right": "Fiend's Hand",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -15516,7 +15516,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Djinn The Watcher Of The Wind",
+    "left": "Djinn the Watcher of the Wind",
     "right": "Mech Mole Zombie",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -15525,16 +15525,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Djinn The Watcher Of The Wind",
+    "left": "Djinn the Watcher of the Wind",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Djinn The Watcher Of The Wind",
+    "left": "Djinn the Watcher of the Wind",
     "right": "Skull Servant",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -15545,15 +15545,15 @@ var fusionDB = TAFFY([
   {
     "left": "Dokurorider",
     "right": "Sword Arm of Dragon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Doma the Angel of Silence",
-    "right": "Goddess With The Third Eye",
+    "left": "Doma The Angel of Silence",
+    "right": "Goddess with the Third Eye",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -15561,7 +15561,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Doma the Angel of Silence",
+    "left": "Doma The Angel of Silence",
     "right": "Spirit of the Harp",
     "output": "Dark Witch",
     "attack": 1800,
@@ -15580,7 +15580,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Doron",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -15958,7 +15958,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dragon Piper",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -15976,7 +15976,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dragon Piper",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -16031,7 +16031,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Statue",
     "right": "Blackland Fire Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -16040,7 +16040,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Statue",
     "right": "Celtic Guardian",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -16048,7 +16048,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dragon Statue",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -16138,7 +16138,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dragon Statue",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -16219,7 +16219,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dragon Statue",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -16292,7 +16292,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Abyss Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -16319,7 +16319,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Ansatsu",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -16328,7 +16328,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Arlownay",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -16337,7 +16337,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Armaill",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -16346,7 +16346,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Armed Ninja",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -16382,7 +16382,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Battle Warrior",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -16445,7 +16445,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Celtic Guardian",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -16481,7 +16481,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Crawling Dragon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -16508,7 +16508,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "D. Human",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -16517,7 +16517,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Dark Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -16535,7 +16535,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Darkworld Thorns",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -16607,7 +16607,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Firegrass",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -16624,7 +16624,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dragon Zombie",
-    "right": "Ghoul With An Appetite",
+    "right": "Ghoul with an Appetite",
     "output": "Skelgon",
     "attack": 1700,
     "defense": 1900,
@@ -16633,7 +16633,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dragon Zombie",
-    "right": "Graveyard And The Hand Of Invitation",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "Skelgon",
     "attack": 1700,
     "defense": 1900,
@@ -16643,7 +16643,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Griggle",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -16651,7 +16651,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dragon Zombie",
-    "right": "Hero Of The East",
+    "right": "Hero of the East",
     "output": "Skelgon",
     "attack": 1700,
     "defense": 1900,
@@ -16715,7 +16715,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Laughing Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -16733,7 +16733,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "M-Warrior #1",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -16742,7 +16742,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "M-Warrior #2",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -16751,7 +16751,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -16760,7 +16760,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Man Eater",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -16769,7 +16769,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Masked Clown",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -16805,7 +16805,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Metal Dragon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -16814,7 +16814,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Meteor Dragon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -16832,7 +16832,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Mushroom Man",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -16876,7 +16876,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dragon Zombie",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -16913,7 +16913,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 2500,
     "type": "Monster",
@@ -16930,8 +16930,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dragon Zombie",
-    "right": "Sword Arm Of Dragon",
-    "output": "Curse Of Dragon",
+    "right": "Sword Arm of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -16939,8 +16939,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dragon Zombie",
-    "right": "Swordsman From A Foreign Land",
-    "output": "Sword Arm Of Dragon",
+    "right": "Swordsman from a Foreign Land",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -16976,7 +16976,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragon Zombie",
     "right": "Vishwar Randi",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -17021,7 +17021,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragoness the Wicked Knight",
     "right": "Blackland Fire Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -17039,7 +17039,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragoness the Wicked Knight",
     "right": "Crawling Dragon #2",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -17048,7 +17048,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragoness the Wicked Knight",
     "right": "Crawling Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -17102,7 +17102,7 @@ var fusionDB = TAFFY([
   {
     "left": "Dragoness the Wicked Knight",
     "right": "Koumori Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -17173,7 +17173,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Dragoness the Wicked Knight",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "D. Human",
     "attack": 1300,
     "defense": 1100,
@@ -17210,7 +17210,7 @@ var fusionDB = TAFFY([
   {
     "left": "Droll Bird",
     "right": "Boo Koo",
-    "output": "Spirit Of The Books",
+    "output": "Spirit of the Books",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -17380,7 +17380,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Droll Bird",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Crimson Sunbird",
     "attack": 2300,
     "defense": 1800,
@@ -17542,7 +17542,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Eldeen",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -17560,7 +17560,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Eldeen",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -17623,7 +17623,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Electric Lizard",
-    "right": "Curse Of Dragon",
+    "right": "Curse of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -17677,7 +17677,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Electric Lizard",
-    "right": "Gaia The Dragon Champion",
+    "right": "Gaia the Dragon Champion",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -17776,7 +17776,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Electric Lizard",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "The Immortal of Thunder",
     "attack": 1500,
     "defense": 1400,
@@ -17830,7 +17830,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Electric Lizard",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -17875,7 +17875,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Electric Lizard",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Thunder Dragon",
     "attack": 1600,
     "defense": 1500,
@@ -17938,7 +17938,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Electric Snake",
-    "right": "Curse Of Dragon",
+    "right": "Curse of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -17983,7 +17983,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Electric Snake",
-    "right": "Gaia The Dragon Champion",
+    "right": "Gaia the Dragon Champion",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -18163,7 +18163,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Electric Snake",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -18208,7 +18208,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Electric Snake",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Thunder Dragon",
     "attack": 1600,
     "defense": 1500,
@@ -18227,7 +18227,7 @@ var fusionDB = TAFFY([
   {
     "left": "Embryonic Beast",
     "right": "Arlownay",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -18244,7 +18244,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Embryonic Beast",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -18280,7 +18280,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Embryonic Beast",
-    "right": "Supporter In The Shadows",
+    "right": "Supporter in the Shadows",
     "output": "Tiger Axe",
     "attack": 1300,
     "defense": 1100,
@@ -18298,7 +18298,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Embryonic Beast",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Koumori Dragon",
     "attack": 1500,
     "defense": 1200,
@@ -18406,7 +18406,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Enchanting Mermaid",
-    "right": "Hourglass Of Life",
+    "right": "Hourglass of Life",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -18415,8 +18415,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Enchanting Mermaid",
-    "right": "Lady Of Faith",
-    "output": "Amazon Of The Seas",
+    "right": "Lady of Faith",
+    "output": "Amazon of the Seas",
     "attack": 1300,
     "defense": 1400,
     "type": "Monster",
@@ -18461,7 +18461,7 @@ var fusionDB = TAFFY([
   {
     "left": "Enchanting Mermaid",
     "right": "Root Water",
-    "output": "Amazon Of The Seas",
+    "output": "Amazon of the Seas",
     "attack": 1300,
     "defense": 1400,
     "type": "Monster",
@@ -18470,7 +18470,7 @@ var fusionDB = TAFFY([
   {
     "left": "Enchanting Mermaid",
     "right": "Waterdragon Fairy",
-    "output": "Amazon Of The Seas",
+    "output": "Amazon of the Seas",
     "attack": 1300,
     "defense": 1400,
     "type": "Monster",
@@ -18479,14 +18479,14 @@ var fusionDB = TAFFY([
   {
     "left": "Enchanting Mermaid",
     "right": "White Dolphin",
-    "output": "Amazon Of The Seas",
+    "output": "Amazon of the Seas",
     "attack": 1300,
     "defense": 1400,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Exodia The Forbidden One",
+    "left": "Exodia the Forbidden One",
     "right": "Celtic Guardian",
     "output": "Dark Elf",
     "attack": 2000,
@@ -18495,7 +18495,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Exodia The Forbidden One",
+    "left": "Exodia the Forbidden One",
     "right": "The 13th Grave",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -18676,7 +18676,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Eyearmor",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Crimson Sunbird",
     "attack": 2300,
     "defense": 1800,
@@ -18721,7 +18721,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fairy Dragon",
-    "right": "Guardian Of The Labyrinth",
+    "right": "Guardian of the Labyrinth",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
     "defense": 900,
@@ -18784,7 +18784,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fairy Dragon",
-    "right": "Wretched Ghost Of The Attic",
+    "right": "Wretched Ghost of the Attic",
     "output": "Koumori Dragon",
     "attack": 1500,
     "defense": 1200,
@@ -18793,7 +18793,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fairywitch",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -18829,8 +18829,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fairywitch",
-    "right": "Goddess With The Third Eye",
-    "output": "Queen Of Autumn Leaves",
+    "right": "Goddess with the Third Eye",
+    "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
     "type": "Monster",
@@ -18911,7 +18911,7 @@ var fusionDB = TAFFY([
   {
     "left": "Fairywitch",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -18928,7 +18928,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fairywitch",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -19009,7 +19009,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fairy's Gift",
-    "right": "Goddess Of Whim",
+    "right": "Goddess of Whim",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -19018,7 +19018,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fairy's Gift",
-    "right": "Hourglass Of Courage",
+    "right": "Hourglass of Courage",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -19081,7 +19081,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Faith Bird",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Crimson Sunbird",
     "attack": 2300,
     "defense": 1800,
@@ -19189,7 +19189,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Feral Imp",
-    "right": "Ancient One Of The Deep Forest",
+    "right": "Ancient One of the Deep Forest",
     "output": "Chimera the Flying Mythical Beast",
     "attack": 2100,
     "defense": 1800,
@@ -19199,7 +19199,7 @@ var fusionDB = TAFFY([
   {
     "left": "Feral Imp",
     "right": "Queen of Autumn Leaves",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -19207,7 +19207,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fiend Reflection #1",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Crimson Sunbird",
     "attack": 2300,
     "defense": 1800,
@@ -19243,7 +19243,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fiend Reflection #1",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Winged Egg of New Life",
     "attack": 1400,
     "defense": 1700,
@@ -19270,7 +19270,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fiend Reflection #1",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Crimson Sunbird",
     "attack": 2300,
     "defense": 1800,
@@ -19325,7 +19325,7 @@ var fusionDB = TAFFY([
   {
     "left": "Fiend Sword",
     "right": "Crawling Dragon #2",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -19369,7 +19369,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fiend Sword",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -19424,7 +19424,7 @@ var fusionDB = TAFFY([
   {
     "left": "Fiend's Hand",
     "right": "Bean Soldier",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -19450,7 +19450,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fiend's Hand",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Fire Reaper",
     "attack": 700,
     "defense": 500,
@@ -19468,7 +19468,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fiend's Hand",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -19496,7 +19496,7 @@ var fusionDB = TAFFY([
   {
     "left": "Fiend's Hand",
     "right": "Darkworld Thorns",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -19504,7 +19504,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fiend's Hand",
-    "right": "Djinn The Watcher Of The Wind",
+    "right": "Djinn the Watcher of the Wind",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -19622,7 +19622,7 @@ var fusionDB = TAFFY([
   {
     "left": "Fiend's Hand",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -19702,7 +19702,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fiend's Hand",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone Ghost",
     "attack": 1200,
     "defense": 1000,
@@ -19738,7 +19738,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fiend's Hand",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -19748,7 +19748,7 @@ var fusionDB = TAFFY([
   {
     "left": "Fiend's Hand",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -19792,7 +19792,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fiend's Hand",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragon Zombie",
     "attack": 1600,
     "defense": 0,
@@ -19801,7 +19801,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fiend's Hand",
-    "right": "Witch Of The Black Forest",
+    "right": "Witch of the Black Forest",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -20098,7 +20098,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Eye",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Dissolverock",
     "attack": 900,
     "defense": 1000,
@@ -20107,7 +20107,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Eye",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -20170,7 +20170,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Eye",
-    "right": "Supporter In The Shadows",
+    "right": "Supporter in the Shadows",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -20179,7 +20179,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Eye",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -20360,7 +20360,7 @@ var fusionDB = TAFFY([
   {
     "left": "Fire Reaper",
     "right": "Barrel Lily",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -20377,7 +20377,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Reaper",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Flame Ghost",
     "attack": 1000,
     "defense": 800,
@@ -20395,7 +20395,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Reaper",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -20405,7 +20405,7 @@ var fusionDB = TAFFY([
   {
     "left": "Fire Reaper",
     "right": "Darkworld Thorns",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -20512,7 +20512,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Reaper",
-    "right": "Graveyard And The Hand Of Invitation",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "The Snake Hair",
     "attack": 1500,
     "defense": 1200,
@@ -20530,7 +20530,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Reaper",
-    "right": "Guardian Of The Labyrinth",
+    "right": "Guardian of the Labyrinth",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -20575,7 +20575,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Reaper",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -20593,7 +20593,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Reaper",
-    "right": "Left Arm Of The Forbidden One",
+    "right": "Left Arm of the Forbidden One",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -20630,7 +20630,7 @@ var fusionDB = TAFFY([
   {
     "left": "Fire Reaper",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -20693,7 +20693,7 @@ var fusionDB = TAFFY([
   {
     "left": "Fire Reaper",
     "right": "Monsturtle",
-    "output": "Giant Turtle Who Feeds On Flames",
+    "output": "Giant Turtle Who Feeds on Flames",
     "attack": 1400,
     "defense": 1800,
     "type": "Monster",
@@ -20746,7 +20746,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Reaper",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -20764,7 +20764,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Reaper",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone Ghost",
     "attack": 1200,
     "defense": 1000,
@@ -20773,7 +20773,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Reaper",
-    "right": "Protector Of The Throne",
+    "right": "Protector of the Throne",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -20791,7 +20791,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Reaper",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -20819,7 +20819,7 @@ var fusionDB = TAFFY([
   {
     "left": "Fire Reaper",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -20846,7 +20846,7 @@ var fusionDB = TAFFY([
   {
     "left": "Fire Reaper",
     "right": "Snakeyashi",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -20854,8 +20854,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Reaper",
-    "right": "Sword Arm Of Dragon",
-    "output": "Curse Of Dragon",
+    "right": "Sword Arm of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -20863,7 +20863,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Reaper",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -20926,7 +20926,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fire Reaper",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragon Zombie",
     "attack": 1600,
     "defense": 0,
@@ -20944,7 +20944,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Firegrass",
-    "right": "Amazon Of The Seas",
+    "right": "Amazon of the Seas",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1600,
@@ -21008,7 +21008,7 @@ var fusionDB = TAFFY([
   {
     "left": "Firegrass",
     "right": "Claw Reacher",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -21017,7 +21017,7 @@ var fusionDB = TAFFY([
   {
     "left": "Firegrass",
     "right": "Clown Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -21044,7 +21044,7 @@ var fusionDB = TAFFY([
   {
     "left": "Firegrass",
     "right": "Dragon Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -21098,7 +21098,7 @@ var fusionDB = TAFFY([
   {
     "left": "Firegrass",
     "right": "Flame Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -21142,8 +21142,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Firegrass",
-    "right": "Ghoul With An Appetite",
-    "output": "Pumpking The King Of Ghosts",
+    "right": "Ghoul with an Appetite",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -21151,7 +21151,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Firegrass",
-    "right": "Graveyard And The Hand Of Invitation",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "Wood Remains",
     "attack": 1000,
     "defense": 900,
@@ -21196,7 +21196,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Firegrass",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -21251,7 +21251,7 @@ var fusionDB = TAFFY([
   {
     "left": "Firegrass",
     "right": "Magical Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -21367,7 +21367,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Firegrass",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Dissolverock",
     "attack": 900,
     "defense": 1000,
@@ -21376,7 +21376,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Firegrass",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -21430,7 +21430,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Firegrass",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "B. Dragon Jungle King",
     "attack": 2100,
     "defense": 1800,
@@ -21439,7 +21439,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Firegrass",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -21503,7 +21503,7 @@ var fusionDB = TAFFY([
   {
     "left": "Fireyarou",
     "right": "Catapult Turtle",
-    "output": "Giant Turtle Who Feeds On Flames",
+    "output": "Giant Turtle Who Feeds on Flames",
     "attack": 1400,
     "defense": 1800,
     "type": "Monster",
@@ -21556,7 +21556,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fireyarou",
-    "right": "Spirit Of The Books",
+    "right": "Spirit of the Books",
     "output": "Crimson Sunbird",
     "attack": 2300,
     "defense": 1800,
@@ -21565,7 +21565,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fireyarou",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -21583,7 +21583,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Cerebrus",
-    "right": "Spirit Of The Books",
+    "right": "Spirit of the Books",
     "output": "Crimson Sunbird",
     "attack": 2300,
     "defense": 1800,
@@ -21593,7 +21593,7 @@ var fusionDB = TAFFY([
   {
     "left": "Flame Ghost",
     "right": "Abyss Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -21611,7 +21611,7 @@ var fusionDB = TAFFY([
   {
     "left": "Flame Ghost",
     "right": "Arlownay",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -21683,7 +21683,7 @@ var fusionDB = TAFFY([
   {
     "left": "Flame Ghost",
     "right": "Dark Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -21728,7 +21728,7 @@ var fusionDB = TAFFY([
   {
     "left": "Flame Ghost",
     "right": "Firegrass",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -21772,7 +21772,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Ghost",
-    "right": "Hero Of The East",
+    "right": "Hero of the East",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -21790,7 +21790,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Ghost",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -21809,7 +21809,7 @@ var fusionDB = TAFFY([
   {
     "left": "Flame Ghost",
     "right": "Laughing Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -21863,7 +21863,7 @@ var fusionDB = TAFFY([
   {
     "left": "Flame Ghost",
     "right": "Man Eater",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -21908,7 +21908,7 @@ var fusionDB = TAFFY([
   {
     "left": "Flame Ghost",
     "right": "Mushroom Man",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -21916,7 +21916,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Ghost",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -21943,7 +21943,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Ghost",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone Ghost",
     "attack": 1200,
     "defense": 1000,
@@ -21962,7 +21962,7 @@ var fusionDB = TAFFY([
   {
     "left": "Flame Ghost",
     "right": "Rainbow Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -21970,7 +21970,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Ghost",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -21980,7 +21980,7 @@ var fusionDB = TAFFY([
   {
     "left": "Flame Ghost",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -22006,8 +22006,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Ghost",
-    "right": "Sword Arm Of Dragon",
-    "output": "Curse Of Dragon",
+    "right": "Sword Arm of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -22015,7 +22015,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Ghost",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -22025,7 +22025,7 @@ var fusionDB = TAFFY([
   {
     "left": "Flame Ghost",
     "right": "Tentacle Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -22052,7 +22052,7 @@ var fusionDB = TAFFY([
   {
     "left": "Flame Ghost",
     "right": "Yashinoki",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -22177,7 +22177,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Snake",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -22339,7 +22339,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Snake",
-    "right": "Hero Of The East",
+    "right": "Hero of the East",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -22348,7 +22348,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Snake",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -22421,7 +22421,7 @@ var fusionDB = TAFFY([
   {
     "left": "Flame Snake",
     "right": "Monsturtle",
-    "output": "Giant Turtle Who Feeds On Flames",
+    "output": "Giant Turtle Who Feeds on Flames",
     "attack": 1400,
     "defense": 1800,
     "type": "Monster",
@@ -22438,7 +22438,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Snake",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -22447,7 +22447,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Snake",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Dissolverock",
     "attack": 900,
     "defense": 1000,
@@ -22474,7 +22474,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Snake",
-    "right": "Rhaimundos Of The Red Sword",
+    "right": "Rhaimundos of the Red Sword",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -22510,7 +22510,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Snake",
-    "right": "Spirit Of The Books",
+    "right": "Spirit of the Books",
     "output": "Crimson Sunbird",
     "attack": 2300,
     "defense": 1800,
@@ -22519,7 +22519,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Snake",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -22717,7 +22717,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Swordsman",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Vermillion Sparrow",
     "attack": 1900,
     "defense": 1500,
@@ -22726,7 +22726,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flame Swordsman",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Vermillion Sparrow",
     "attack": 1900,
     "defense": 1500,
@@ -22825,7 +22825,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flower Wolf",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -22861,7 +22861,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flower Wolf",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -22870,7 +22870,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Flower Wolf",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -22960,7 +22960,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Frog The Jam",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Spike Seadra",
     "attack": 1600,
     "defense": 1300,
@@ -22968,16 +22968,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Arlownay",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Bio Plant",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -22986,8 +22986,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
-    "right": "Candle Of Fate",
+    "left": "Fungi of the Musk",
+    "right": "Candle of Fate",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -22995,7 +22995,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Claw Reacher",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -23004,7 +23004,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Dark Plant",
     "output": "Rose Spectre of Dunn",
     "attack": 2000,
@@ -23013,7 +23013,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Dark Shade",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -23022,7 +23022,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Embryonic Beast",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -23031,8 +23031,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
-    "right": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -23040,7 +23040,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Greenkappa",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -23049,7 +23049,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Hiro's Shadow Scout",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -23058,7 +23058,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "King Fog",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -23067,7 +23067,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Kuriboh",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -23076,7 +23076,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Madjinn Gunn",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -23085,7 +23085,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Meda Bat",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -23094,7 +23094,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Megirus Light",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -23103,7 +23103,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Midnight Fiend",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -23112,7 +23112,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Monster Eye",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -23121,7 +23121,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Mystery Hand",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -23130,7 +23130,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Mystical Sheep #2",
     "output": "Mystical Sheep #1",
     "attack": 1150,
@@ -23139,7 +23139,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Needle Ball",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -23148,17 +23148,17 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Queen of Autumn Leaves",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Fungi Of The Musk",
-    "right": "The Shadow Who Controls The Dark",
+    "left": "Fungi of the Musk",
+    "right": "The Shadow Who Controls the Dark",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -23166,7 +23166,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "The Drdek",
     "output": "Darkworld Thorns",
     "attack": 1200,
@@ -23175,8 +23175,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
-    "right": "Wretched Ghost Of The Attic",
+    "left": "Fungi of the Musk",
+    "right": "Wretched Ghost of the Attic",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -23184,7 +23184,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Fungi Of The Musk",
+    "left": "Fungi of the Musk",
     "right": "Yamatano Dragon Scroll",
     "output": "Koumori Dragon",
     "attack": 1500,
@@ -23203,7 +23203,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fusionist",
-    "right": "Ancient One Of The Deep Forest",
+    "right": "Ancient One of the Deep Forest",
     "output": "Garvas",
     "attack": 2000,
     "defense": 1700,
@@ -23239,7 +23239,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fusionist",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -23303,7 +23303,7 @@ var fusionDB = TAFFY([
   {
     "left": "Fusionist",
     "right": "Holograh",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -23311,7 +23311,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Fusionist",
-    "right": "Hourglass Of Life",
+    "right": "Hourglass of Life",
     "output": "Garvas",
     "attack": 2000,
     "defense": 1700,
@@ -23409,7 +23409,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Gaia The Dragon Champion",
+    "left": "Gaia the Dragon Champion",
     "right": "Bolt Escargot",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -23418,7 +23418,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Gaia The Dragon Champion",
+    "left": "Gaia the Dragon Champion",
     "right": "Bolt Penguin",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -23427,7 +23427,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Gaia The Dragon Champion",
+    "left": "Gaia the Dragon Champion",
     "right": "Electric Lizard",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -23436,7 +23436,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Gaia The Dragon Champion",
+    "left": "Gaia the Dragon Champion",
     "right": "Electric Snake",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -23445,7 +23445,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Gaia The Dragon Champion",
+    "left": "Gaia the Dragon Champion",
     "right": "Kaminari Attack",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -23454,7 +23454,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Gaia The Dragon Champion",
+    "left": "Gaia the Dragon Champion",
     "right": "Kaminarikozou",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -23463,7 +23463,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Gaia The Dragon Champion",
+    "left": "Gaia the Dragon Champion",
     "right": "LaLa Li-oon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -23472,8 +23472,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Gaia The Dragon Champion",
-    "right": "Sanga Of The Thunder",
+    "left": "Gaia the Dragon Champion",
+    "right": "Sanga of the Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -23481,7 +23481,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Gaia The Dragon Champion",
+    "left": "Gaia the Dragon Champion",
     "right": "The Immortal of Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -23490,7 +23490,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Gaia The Dragon Champion",
+    "left": "Gaia the Dragon Champion",
     "right": "Thunder Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -23499,7 +23499,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Gaia The Dragon Champion",
+    "left": "Gaia the Dragon Champion",
     "right": "Tripwire Beast",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -23509,8 +23509,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Gaia The Fierce Knight",
-    "right": "Curse Of Dragon",
-    "output": "Gaia The Dragon Champion",
+    "right": "Curse of Dragon",
+    "output": "Gaia the Dragon Champion",
     "attack": 2600,
     "defense": 2100,
     "type": "Monster",
@@ -23527,7 +23527,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Gale Dogra",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Cockroach Knight",
     "attack": 800,
     "defense": 900,
@@ -23590,7 +23590,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Garoozis",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -23626,7 +23626,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Garvas",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -23689,7 +23689,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Gate Deeg",
-    "right": "Hourglass Of Life",
+    "right": "Hourglass of Life",
     "output": "Garvas",
     "attack": 2000,
     "defense": 1700,
@@ -23707,7 +23707,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Gate Deeg",
-    "right": "Magician Of Faith",
+    "right": "Magician of Faith",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -23742,7 +23742,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Gazelle The King Of Mythical Beasts",
+    "left": "Gazelle the King of Mythical Beasts",
     "right": "Mechanical Spider",
     "output": "Dice Armadillo",
     "attack": 1650,
@@ -23751,8 +23751,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Gear Golem The Moving Fortress",
-    "right": "Swordsman From A Foreign Land",
+    "left": "Gear Golem the Moving Fortress",
+    "right": "Swordsman from a Foreign Land",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -23770,7 +23770,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Gemini Elf",
-    "right": "Castle Of Dark Illusions",
+    "right": "Castle of Dark Illusions",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -23797,7 +23797,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Gemini Elf",
-    "right": "Giant Soldier Of Stone",
+    "right": "Giant Soldier of Stone",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -23825,23 +23825,23 @@ var fusionDB = TAFFY([
   {
     "left": "Genin",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Ghoul With An Appetite",
+    "left": "Ghoul with an Appetite",
     "right": "Arlownay",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Ghoul With An Appetite",
+    "left": "Ghoul with an Appetite",
     "right": "Dragon Zombie",
     "output": "Skelgon",
     "attack": 1700,
@@ -23850,9 +23850,9 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Ghoul With An Appetite",
+    "left": "Ghoul with an Appetite",
     "right": "Firegrass",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -23877,7 +23877,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Giant Scorpion Of The Tundra",
+    "left": "Giant Scorpion of the Tundra",
     "right": "Kuwagata alpha",
     "output": "Kwagar Hercules",
     "attack": 1900,
@@ -23886,7 +23886,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Giant Soldier Of Stone",
+    "left": "Giant Soldier of Stone",
     "right": "Blackland Fire Dragon",
     "output": "Stone D.",
     "attack": 2000,
@@ -23895,7 +23895,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Giant Soldier Of Stone",
+    "left": "Giant Soldier of Stone",
     "right": "Dark Magician Girl",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -23904,7 +23904,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Giant Soldier Of Stone",
+    "left": "Giant Soldier of Stone",
     "right": "Darkfire Dragon",
     "output": "Stone D.",
     "attack": 2000,
@@ -23913,7 +23913,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Giant Soldier Of Stone",
+    "left": "Giant Soldier of Stone",
     "right": "Gemini Elf",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -23922,7 +23922,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Giant Soldier Of Stone",
+    "left": "Giant Soldier of Stone",
     "right": "Koumori Dragon",
     "output": "Stone D.",
     "attack": 2000,
@@ -23931,7 +23931,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Giant Soldier Of Stone",
+    "left": "Giant Soldier of Stone",
     "right": "Meteor Dragon",
     "output": "Stone D.",
     "attack": 2000,
@@ -23940,7 +23940,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Giant Soldier Of Stone",
+    "left": "Giant Soldier of Stone",
     "right": "Thunder Nyan Nyan",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -23949,7 +23949,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Giant Turtle Who Feeds On Flames",
+    "left": "Giant Turtle Who Feeds on Flames",
     "right": "Kairyu-Shin",
     "output": "Sea King Dragon",
     "attack": 2000,
@@ -23958,7 +23958,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Giga-Tech Wolf",
+    "left": "Giga-tech Wolf",
     "right": "Mystical Sheep #1",
     "output": "Dice Armadillo",
     "attack": 1650,
@@ -23967,7 +23967,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Giga-Tech Wolf",
+    "left": "Giga-tech Wolf",
     "right": "Mystical Sheep #2",
     "output": "Dice Armadillo",
     "attack": 1650,
@@ -23976,7 +23976,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Giga-Tech Wolf",
+    "left": "Giga-tech Wolf",
     "right": "Trakadon",
     "output": "Cyber Saurus",
     "attack": 1800,
@@ -23985,8 +23985,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Giga-Tech Wolf",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "left": "Giga-tech Wolf",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Metal Dragon",
     "attack": 1850,
     "defense": 1700,
@@ -24012,8 +24012,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
-    "right": "Ancient Tree Of Enlightenment",
+    "left": "Goddess of Whim",
+    "right": "Ancient Tree of Enlightenment",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -24021,7 +24021,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
+    "left": "Goddess of Whim",
     "right": "Dancing Elf",
     "output": "Dark Witch",
     "attack": 1800,
@@ -24030,7 +24030,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
+    "left": "Goddess of Whim",
     "right": "Dark Plant",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -24039,7 +24039,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
+    "left": "Goddess of Whim",
     "right": "Fairy's Gift",
     "output": "Dark Witch",
     "attack": 1800,
@@ -24048,8 +24048,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
-    "right": "Magician Of Faith",
+    "left": "Goddess of Whim",
+    "right": "Magician of Faith",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -24057,8 +24057,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
-    "right": "Hourglass Of Courage",
+    "left": "Goddess of Whim",
+    "right": "Hourglass of Courage",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -24066,7 +24066,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
+    "left": "Goddess of Whim",
     "right": "Injection Fairy Lily",
     "output": "Dark Witch",
     "attack": 1800,
@@ -24075,8 +24075,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
-    "right": "Goddess Of Whim",
+    "left": "Goddess of Whim",
+    "right": "Goddess of Whim",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -24084,7 +24084,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
+    "left": "Goddess of Whim",
     "right": "Muka Muka",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -24093,7 +24093,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
+    "left": "Goddess of Whim",
     "right": "Succubus Knight",
     "output": "Dark Witch",
     "attack": 1800,
@@ -24102,8 +24102,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
-    "right": "The Thing That Hides In The Mud",
+    "left": "Goddess of Whim",
+    "right": "The Thing That Hides in the Mud",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -24111,7 +24111,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
+    "left": "Goddess of Whim",
     "right": "The Unhappy Maiden",
     "output": "Dark Witch",
     "attack": 1800,
@@ -24120,7 +24120,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
+    "left": "Goddess of Whim",
     "right": "Wing Egg Elf",
     "output": "Dark Witch",
     "attack": 1800,
@@ -24129,7 +24129,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Ancient Jar",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -24138,7 +24138,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Arlownay",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -24147,7 +24147,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Armored Rat",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -24156,7 +24156,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Dancing Elf",
     "output": "Dark Witch",
     "attack": 1800,
@@ -24165,8 +24165,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess With The Third Eye",
-    "right": "Doma the Angel of Silence",
+    "left": "Goddess with the Third Eye",
+    "right": "Doma The Angel of Silence",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -24174,7 +24174,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Fiend Reflection #1",
     "output": "Winged Egg of New Life",
     "attack": 1400,
@@ -24183,7 +24183,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Griffore",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -24192,7 +24192,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Kurama",
     "output": "Winged Egg of New Life",
     "attack": 1400,
@@ -24201,8 +24201,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess With The Third Eye",
-    "right": "Lady Of Faith",
+    "left": "Goddess with the Third Eye",
+    "right": "Lady of Faith",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -24210,7 +24210,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Laughing Flower",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -24219,7 +24219,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Man Eater",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -24228,7 +24228,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Milus Radiant",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -24237,8 +24237,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Goddess With The Third Eye",
-    "right": "Pot The Trick",
+    "left": "Goddess with the Third Eye",
+    "right": "Pot the Trick",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -24246,8 +24246,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Goddess With The Third Eye",
-    "right": "Princess Of Tsurugi",
+    "left": "Goddess with the Third Eye",
+    "right": "Princess of Tsurugi",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -24255,7 +24255,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Ray & Temperature",
     "output": "Dark Witch",
     "attack": 1800,
@@ -24264,7 +24264,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Silver Fang",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -24273,7 +24273,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Skelengel",
     "output": "Dark Witch",
     "attack": 1800,
@@ -24282,7 +24282,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Tenderness",
     "output": "Dark Witch",
     "attack": 1800,
@@ -24291,7 +24291,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Vishwar Randi",
     "output": "Dark Witch",
     "attack": 1800,
@@ -24300,7 +24300,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Wing Egg Elf",
     "output": "Dark Witch",
     "attack": 1800,
@@ -24309,7 +24309,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Winged Egg of New Life",
     "output": "Dark Witch",
     "attack": 1800,
@@ -24318,7 +24318,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Goddess With The Third Eye",
+    "left": "Goddess with the Third Eye",
     "right": "Wolf",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -24329,7 +24329,7 @@ var fusionDB = TAFFY([
   {
     "left": "Gorgon Egg",
     "right": "Man-Eating Plant",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -24372,7 +24372,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "Armaill",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -24381,16 +24381,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "Bean Soldier",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "Blue-Eyed Silver Zombie",
     "output": "The Snake Hair",
     "attack": 1500,
@@ -24399,7 +24399,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "Boo Koo",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -24408,7 +24408,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "Corroding Shark",
     "output": "The Snake Hair",
     "attack": 1500,
@@ -24417,7 +24417,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "Dragon Zombie",
     "output": "Skelgon",
     "attack": 1700,
@@ -24426,7 +24426,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "Fire Reaper",
     "output": "The Snake Hair",
     "attack": 1500,
@@ -24435,7 +24435,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "Firegrass",
     "output": "Wood Remains",
     "attack": 1000,
@@ -24444,7 +24444,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "M-Warrior #2",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -24453,8 +24453,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
-    "right": "Magician Of Faith",
+    "left": "Graveyard and the Hand of Invitation",
+    "right": "Magician of Faith",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -24462,7 +24462,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "Man Eater",
     "output": "Wood Remains",
     "attack": 1000,
@@ -24471,7 +24471,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "Mushroom Man",
     "output": "Wood Remains",
     "attack": 1000,
@@ -24480,8 +24480,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
-    "right": "Princess Of Tsurugi",
+    "left": "Graveyard and the Hand of Invitation",
+    "right": "Princess of Tsurugi",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -24489,7 +24489,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "Shadow Specter",
     "output": "The Snake Hair",
     "attack": 1500,
@@ -24498,7 +24498,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "Skull Servant",
     "output": "The Snake Hair",
     "attack": 1500,
@@ -24507,7 +24507,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "The Wandering Doomed",
     "output": "The Snake Hair",
     "attack": 1500,
@@ -24516,7 +24516,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Graveyard And The Hand Of Invitation",
+    "left": "Graveyard and the Hand of Invitation",
     "right": "Yashinoki",
     "output": "Wood Remains",
     "attack": 1000,
@@ -24589,7 +24589,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Greenkappa",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Flower Wolf",
     "attack": 1800,
     "defense": 1400,
@@ -24670,7 +24670,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Greenkappa",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -24859,7 +24859,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Griffore",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -24913,7 +24913,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Griffore",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -24922,7 +24922,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Griggle",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Flower Wolf",
     "attack": 1800,
     "defense": 1400,
@@ -24977,7 +24977,7 @@ var fusionDB = TAFFY([
   {
     "left": "Griggle",
     "right": "Corroding Shark",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -24995,7 +24995,7 @@ var fusionDB = TAFFY([
   {
     "left": "Griggle",
     "right": "Dragon Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -25075,7 +25075,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Griggle",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -25112,7 +25112,7 @@ var fusionDB = TAFFY([
   {
     "left": "Griggle",
     "right": "Magical Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -25120,8 +25120,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Griggle",
-    "right": "Mask Of Darkness",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Mask of Darkness",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -25219,7 +25219,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Griggle",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Flower Wolf",
     "attack": 1800,
     "defense": 1400,
@@ -25255,7 +25255,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Griggle",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -25345,7 +25345,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Griggle",
-    "right": "Supporter In The Shadows",
+    "right": "Supporter in the Shadows",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -25354,7 +25354,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Griggle",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "B. Dragon Jungle King",
     "attack": 2100,
     "defense": 1800,
@@ -25363,7 +25363,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Griggle",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -25408,7 +25408,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Griggle",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -25454,7 +25454,7 @@ var fusionDB = TAFFY([
   {
     "left": "Griggle",
     "right": "Wood Remains",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -25470,7 +25470,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Guardian Of The Labyrinth",
+    "left": "Guardian of the Labyrinth",
     "right": "Arlownay",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -25479,7 +25479,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Guardian Of The Labyrinth",
+    "left": "Guardian of the Labyrinth",
     "right": "Bone Mouse",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -25488,7 +25488,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Guardian Of The Labyrinth",
+    "left": "Guardian of the Labyrinth",
     "right": "Dancing Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -25497,7 +25497,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Guardian Of The Labyrinth",
+    "left": "Guardian of the Labyrinth",
     "right": "Dharma Cannon",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -25506,7 +25506,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Guardian Of The Labyrinth",
+    "left": "Guardian of the Labyrinth",
     "right": "Fairy Dragon",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
@@ -25515,7 +25515,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Guardian Of The Labyrinth",
+    "left": "Guardian of the Labyrinth",
     "right": "Fiend Reflection #1",
     "output": "Punished Eagle",
     "attack": 2100,
@@ -25524,7 +25524,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Guardian Of The Labyrinth",
+    "left": "Guardian of the Labyrinth",
     "right": "Fire Reaper",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -25533,7 +25533,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Guardian Of The Labyrinth",
+    "left": "Guardian of the Labyrinth",
     "right": "Flame Ghost",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -25542,7 +25542,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Guardian Of The Labyrinth",
+    "left": "Guardian of the Labyrinth",
     "right": "Mechanical Snail",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -25551,7 +25551,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Guardian Of The Labyrinth",
+    "left": "Guardian of the Labyrinth",
     "right": "Mushroom Man",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -25560,7 +25560,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Guardian Of The Labyrinth",
+    "left": "Guardian of the Labyrinth",
     "right": "The Judgement Hand",
     "output": "Judge Man",
     "attack": 2200,
@@ -25569,7 +25569,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Guardian Of The Labyrinth",
+    "left": "Guardian of the Labyrinth",
     "right": "White Dolphin",
     "output": "Wow Warrior",
     "attack": 1250,
@@ -25578,7 +25578,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Guardian Of The Sea",
+    "left": "Guardian of the Sea",
     "right": "Bolt Penguin",
     "output": "Bolt Escargot",
     "attack": 1400,
@@ -25587,7 +25587,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Guardian Of The Sea",
+    "left": "Guardian of the Sea",
     "right": "Yamatano Dragon Scroll",
     "output": "Spike Seadra",
     "attack": 1600,
@@ -25687,7 +25687,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hane-Hane",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -25741,7 +25741,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Haniwa",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Dissolverock",
     "attack": 900,
     "defense": 1000,
@@ -25822,7 +25822,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Haniwa",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -25849,7 +25849,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Haniwa",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -25939,7 +25939,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Haniwa",
-    "right": "Protector Of The Throne",
+    "right": "Protector of the Throne",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -25966,7 +25966,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Haniwa",
-    "right": "Rose Spectre Of Dunn",
+    "right": "Rose Spectre of Dunn",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -25975,7 +25975,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Haniwa",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -26020,7 +26020,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Haniwa",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -26128,7 +26128,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Happy Lover",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -26164,7 +26164,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Happy Lover",
-    "right": "Magician Of Faith",
+    "right": "Magician of Faith",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -26200,7 +26200,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Happy Lover",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Garvas",
     "attack": 2000,
     "defense": 1700,
@@ -26209,7 +26209,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Happy Lover",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -26371,7 +26371,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hard Armor",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -26416,7 +26416,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Harpie Lady",
-    "right": "Ancient Tree Of Enlightenment",
+    "right": "Ancient Tree of Enlightenment",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -26524,7 +26524,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Harpie Lady",
-    "right": "Hourglass Of Courage",
+    "right": "Hourglass of Courage",
     "output": "Winged Egg of New Life",
     "attack": 1400,
     "defense": 1700,
@@ -26533,7 +26533,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Harpie Lady",
-    "right": "Kanan The Swordmistress",
+    "right": "Kanan the Swordmistress",
     "output": "Punished Eagle",
     "attack": 2100,
     "defense": 1800,
@@ -26569,7 +26569,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Harpie Lady",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Punished Eagle",
     "attack": 2100,
     "defense": 1800,
@@ -26623,7 +26623,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Harpie's Pet Dragon",
-    "right": "Ancient Tree Of Enlightenment",
+    "right": "Ancient Tree of Enlightenment",
     "output": "B. Dragon Jungle King",
     "attack": 2100,
     "defense": 1800,
@@ -26677,7 +26677,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Harpie's Pet Dragon",
-    "right": "Sanga Of The Thunder",
+    "right": "Sanga of the Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -26703,7 +26703,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hero Of The East",
+    "left": "Hero of the East",
     "right": "Bone Mouse",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -26712,7 +26712,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hero Of The East",
+    "left": "Hero of the East",
     "right": "Cyber Commander",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -26721,7 +26721,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hero Of The East",
+    "left": "Hero of the East",
     "right": "Dragon Zombie",
     "output": "Skelgon",
     "attack": 1700,
@@ -26730,7 +26730,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hero Of The East",
+    "left": "Hero of the East",
     "right": "Flame Ghost",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -26739,7 +26739,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hero Of The East",
+    "left": "Hero of the East",
     "right": "Laughing Flower",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -26748,7 +26748,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hero Of The East",
+    "left": "Hero of the East",
     "right": "Petit Dragon",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
@@ -26757,7 +26757,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hero Of The East",
+    "left": "Hero of the East",
     "right": "Synchar",
     "output": "Tiger Axe",
     "attack": 1300,
@@ -26857,7 +26857,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hibikime",
-    "right": "Hourglass Of Life",
+    "right": "Hourglass of Life",
     "output": "Musician King",
     "attack": 1750,
     "defense": 1500,
@@ -26929,7 +26929,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hibikime",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -27100,7 +27100,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hinotama Soul",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -27172,7 +27172,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hinotama Soul",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -27190,7 +27190,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hinotama Soul",
-    "right": "Rhaimundos Of The Red Sword",
+    "right": "Rhaimundos of the Red Sword",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -27226,7 +27226,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hinotama Soul",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -27253,7 +27253,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hiro's Shadow Scout",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -27298,7 +27298,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Holograh",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Dice Armadillo",
     "attack": 1650,
     "defense": 1800,
@@ -27335,7 +27335,7 @@ var fusionDB = TAFFY([
   {
     "left": "Holograh",
     "right": "Fusionist",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -27379,7 +27379,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Holograh",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Disk Magician",
     "attack": 1350,
     "defense": 1000,
@@ -27406,7 +27406,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Holograh",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -27415,7 +27415,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Holograh",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Metal Dragon",
     "attack": 1850,
     "defense": 1700,
@@ -27434,7 +27434,7 @@ var fusionDB = TAFFY([
   {
     "left": "Horn Imp",
     "right": "Arlownay",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -27487,7 +27487,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hoshiningen",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -27523,7 +27523,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hoshiningen",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -27613,7 +27613,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hoshiningen",
-    "right": "Witch Of The Black Forest",
+    "right": "Witch of the Black Forest",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -27621,7 +27621,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hourglass Of Courage",
+    "left": "Hourglass of Courage",
     "right": "Dancing Elf",
     "output": "Dark Witch",
     "attack": 1800,
@@ -27630,7 +27630,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hourglass Of Courage",
+    "left": "Hourglass of Courage",
     "right": "Fairy's Gift",
     "output": "Dark Witch",
     "attack": 1800,
@@ -27639,8 +27639,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hourglass Of Courage",
-    "right": "Goddess Of Whim",
+    "left": "Hourglass of Courage",
+    "right": "Goddess of Whim",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -27648,7 +27648,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hourglass Of Courage",
+    "left": "Hourglass of Courage",
     "right": "Harpie Lady",
     "output": "Winged Egg of New Life",
     "attack": 1400,
@@ -27657,7 +27657,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hourglass Of Courage",
+    "left": "Hourglass of Courage",
     "right": "Ill Witch",
     "output": "Dark Witch",
     "attack": 1800,
@@ -27666,7 +27666,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hourglass Of Courage",
+    "left": "Hourglass of Courage",
     "right": "Injection Fairy Lily",
     "output": "Dark Witch",
     "attack": 1800,
@@ -27675,7 +27675,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hourglass Of Courage",
+    "left": "Hourglass of Courage",
     "right": "LaMoon",
     "output": "Dark Witch",
     "attack": 1800,
@@ -27684,7 +27684,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hourglass Of Courage",
+    "left": "Hourglass of Courage",
     "right": "Lunar Queen Elzaim",
     "output": "Dark Witch",
     "attack": 1800,
@@ -27693,8 +27693,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hourglass Of Courage",
-    "right": "Magician Of Faith",
+    "left": "Hourglass of Courage",
+    "right": "Magician of Faith",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -27702,7 +27702,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hourglass Of Courage",
+    "left": "Hourglass of Courage",
     "right": "Mystical Elf",
     "output": "Dark Witch",
     "attack": 1800,
@@ -27711,7 +27711,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hourglass Of Courage",
+    "left": "Hourglass of Courage",
     "right": "The Unhappy Maiden",
     "output": "Dark Witch",
     "attack": 1800,
@@ -27720,7 +27720,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hourglass Of Life",
+    "left": "Hourglass of Life",
     "right": "Dancing Elf",
     "output": "Mystical Elf",
     "attack": 800,
@@ -27729,7 +27729,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hourglass Of Life",
+    "left": "Hourglass of Life",
     "right": "Dark Gray",
     "output": "Garvas",
     "attack": 2000,
@@ -27738,7 +27738,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hourglass Of Life",
+    "left": "Hourglass of Life",
     "right": "Enchanting Mermaid",
     "output": "Dark Witch",
     "attack": 1800,
@@ -27747,7 +27747,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hourglass Of Life",
+    "left": "Hourglass of Life",
     "right": "Fusionist",
     "output": "Garvas",
     "attack": 2000,
@@ -27756,7 +27756,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hourglass Of Life",
+    "left": "Hourglass of Life",
     "right": "Gate Deeg",
     "output": "Garvas",
     "attack": 2000,
@@ -27765,7 +27765,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hourglass Of Life",
+    "left": "Hourglass of Life",
     "right": "Hibikime",
     "output": "Musician King",
     "attack": 1750,
@@ -27774,7 +27774,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hourglass Of Life",
+    "left": "Hourglass of Life",
     "right": "Milus Radiant",
     "output": "Garvas",
     "attack": 2000,
@@ -27783,7 +27783,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hourglass Of Life",
+    "left": "Hourglass of Life",
     "right": "Key Mace",
     "output": "Dark Witch",
     "attack": 1800,
@@ -27792,8 +27792,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Hourglass Of Life",
-    "right": "Obese Marmot Of Nefariousness",
+    "left": "Hourglass of Life",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Garvas",
     "attack": 2000,
     "defense": 1700,
@@ -27801,8 +27801,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hourglass Of Life",
-    "right": "Princess Of Tsurugi",
+    "left": "Hourglass of Life",
+    "right": "Princess of Tsurugi",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -27810,7 +27810,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hourglass Of Life",
+    "left": "Hourglass of Life",
     "right": "Vishwar Randi",
     "output": "Dark Witch",
     "attack": 1800,
@@ -27819,7 +27819,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hourglass Of Life",
+    "left": "Hourglass of Life",
     "right": "Water Magician",
     "output": "Dark Witch",
     "attack": 1800,
@@ -27828,7 +27828,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Hourglass Of Life",
+    "left": "Hourglass of Life",
     "right": "Wing Egg Elf",
     "output": "Mystical Elf",
     "attack": 800,
@@ -27893,7 +27893,7 @@ var fusionDB = TAFFY([
   {
     "left": "Hurricail",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -28036,7 +28036,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hyo",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Tiger Axe",
     "attack": 1300,
     "defense": 1100,
@@ -28081,7 +28081,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hyo",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -28117,7 +28117,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Hyosube",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Spike Seadra",
     "attack": 1600,
     "defense": 1300,
@@ -28243,7 +28243,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ill Witch",
-    "right": "Hourglass Of Courage",
+    "right": "Hourglass of Courage",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -28279,7 +28279,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Injection Fairy Lily",
-    "right": "Goddess Of Whim",
+    "right": "Goddess of Whim",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -28288,7 +28288,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Injection Fairy Lily",
-    "right": "Hourglass Of Courage",
+    "right": "Hourglass of Courage",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -28396,7 +28396,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Jellyfish",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "Kairyu-Shin",
     "attack": 1800,
     "defense": 1500,
@@ -28405,7 +28405,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Jellyfish",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Spike Seadra",
     "attack": 1600,
     "defense": 1300,
@@ -28423,8 +28423,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Jinzo #7",
-    "right": "Air Marmot Of Nefariousness",
-    "output": "Giga-Tech Wolf",
+    "right": "Air Marmot of Nefariousness",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -28495,7 +28495,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Jinzo #7",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -28523,7 +28523,7 @@ var fusionDB = TAFFY([
   {
     "left": "Jinzo #7",
     "right": "Little Chimera",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -28568,7 +28568,7 @@ var fusionDB = TAFFY([
   {
     "left": "Jinzo #7",
     "right": "Milus Radiant",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -28577,7 +28577,7 @@ var fusionDB = TAFFY([
   {
     "left": "Jinzo #7",
     "right": "Mystical Sheep #2",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -28585,8 +28585,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Jinzo #7",
-    "right": "Obese Marmot Of Nefariousness",
-    "output": "Giga-Tech Wolf",
+    "right": "Obese Marmot of Nefariousness",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -28603,7 +28603,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Jinzo #7",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -28621,7 +28621,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Jinzo #7",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Disk Magician",
     "attack": 1350,
     "defense": 1000,
@@ -28639,7 +28639,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Jinzo #7",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -28649,7 +28649,7 @@ var fusionDB = TAFFY([
   {
     "left": "Jinzo #7",
     "right": "Synchar",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -28675,7 +28675,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Jinzo #7",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -28765,7 +28765,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Job-Change Mirror",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
     "defense": 1200,
@@ -28774,7 +28774,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Job-Change Mirror",
-    "right": "Castle Of Dark Illusions",
+    "right": "Castle of Dark Illusions",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
     "defense": 1200,
@@ -28801,7 +28801,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Job-Change Mirror",
-    "right": "Dark King Of The Abyss",
+    "right": "Dark King of the Abyss",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
     "defense": 1200,
@@ -28837,7 +28837,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Job-Change Mirror",
-    "right": "King Of Yamimakai",
+    "right": "King of Yamimakai",
     "output": "Summoned Skull",
     "attack": 2500,
     "defense": 1200,
@@ -28846,7 +28846,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Job-Change Mirror",
-    "right": "La Jinn The Mystical Genie of the Lamp",
+    "right": "La Jinn the Mystical Genie of the Lamp",
     "output": "Summoned Skull",
     "attack": 2500,
     "defense": 1200,
@@ -28864,7 +28864,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Job-Change Mirror",
-    "right": "Mask Of Darkness",
+    "right": "Mask of Darkness",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
     "defense": 1200,
@@ -28900,7 +28900,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Job-Change Mirror",
-    "right": "Reaper Of The Cards",
+    "right": "Reaper of the Cards",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
     "defense": 1200,
@@ -28918,7 +28918,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Job-Change Mirror",
-    "right": "Terra The Terrible",
+    "right": "Terra the Terrible",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
     "defense": 1200,
@@ -28927,7 +28927,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Job-Change Mirror",
-    "right": "The Shadow Who Controls The Dark",
+    "right": "The Shadow Who Controls the Dark",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
     "defense": 1200,
@@ -28953,7 +28953,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Abyss Flower",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -28962,7 +28962,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Ancient Jar",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -28971,8 +28971,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
-    "right": "Candle Of Fate",
+    "left": "Kagemusha of the Blue Flame",
+    "right": "Candle of Fate",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -28980,7 +28980,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Charubin the Fire Knight",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -28989,7 +28989,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Clown Zombie",
     "output": "Armored Zombie",
     "attack": 1500,
@@ -28998,7 +28998,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Cyber-Stein",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -29007,7 +29007,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Dancing Elf",
     "output": "Celtic Guardian",
     "attack": 1400,
@@ -29016,7 +29016,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Dark Prisoner",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -29025,7 +29025,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Darkworld Thorns",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -29034,7 +29034,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Dharma Cannon",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -29043,7 +29043,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Dragon Statue",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -29052,7 +29052,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Dragon Zombie",
     "output": "Sword Arm of Dragon",
     "attack": 1750,
@@ -29061,7 +29061,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Fiend's Hand",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -29070,7 +29070,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Fiend Reflection #1",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -29079,7 +29079,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Fiend Sword",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -29088,7 +29088,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Fire Reaper",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -29097,7 +29097,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Fire Reaper",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -29106,7 +29106,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Firegrass",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -29115,7 +29115,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Flame Ghost",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -29124,7 +29124,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Haniwa",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -29133,7 +29133,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Hinotama Soul",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -29142,7 +29142,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Jinzo #7",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -29151,7 +29151,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Kageningen",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -29160,7 +29160,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Laughing Flower",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -29169,7 +29169,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Lesser Dragon",
     "output": "D. Human",
     "attack": 1300,
@@ -29178,7 +29178,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Little Chimera",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -29187,7 +29187,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Man-Eating Plant",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -29196,7 +29196,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Masaki the Legendary Swordsman",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -29205,7 +29205,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Mech Mole Zombie",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -29214,7 +29214,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Mechanical Spider",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -29223,7 +29223,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Milus Radiant",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -29232,16 +29232,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Monsturtle",
-    "output": "Giant Turtle Who Feeds On Flames",
+    "output": "Giant Turtle Who Feeds on Flames",
     "attack": 1400,
     "defense": 1800,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Muka Muka",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -29250,7 +29250,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Mushroom Man #2",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -29259,7 +29259,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Mushroom Man",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -29268,7 +29268,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Phantom Ghost",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -29277,8 +29277,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
-    "right": "Pot The Trick",
+    "left": "Kagemusha of the Blue Flame",
+    "right": "Pot the Trick",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -29286,7 +29286,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Queen's Double",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -29295,7 +29295,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Shadow Specter",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -29304,7 +29304,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Silver Fang",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -29313,7 +29313,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Skull Servant",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -29322,7 +29322,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Steel Scorpion",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -29331,7 +29331,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Torike",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -29340,7 +29340,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "White Dolphin",
     "output": "Wow Warrior",
     "attack": 1250,
@@ -29349,8 +29349,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "left": "Kagemusha of the Blue Flame",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
     "defense": 900,
@@ -29358,8 +29358,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
-    "right": "Wings Of Wicked Flame",
+    "left": "Kagemusha of the Blue Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -29367,7 +29367,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Kagemusha Of The Blue Flame",
+    "left": "Kagemusha of the Blue Flame",
     "right": "Yamatano Dragon Scroll",
     "output": "Dragon Statue",
     "attack": 1100,
@@ -29386,7 +29386,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kageningen",
-    "right": "Ancient Tree Of Enlightenment",
+    "right": "Ancient Tree of Enlightenment",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -29449,7 +29449,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kageningen",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -29494,7 +29494,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kageningen",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Tiger Axe",
     "attack": 1300,
     "defense": 1100,
@@ -29503,7 +29503,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kageningen",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -29557,7 +29557,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kageningen",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
     "defense": 900,
@@ -29575,7 +29575,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kairyu-Shin",
-    "right": "Ancient Tree Of Enlightenment",
+    "right": "Ancient Tree of Enlightenment",
     "output": "B. Dragon Jungle King",
     "attack": 2100,
     "defense": 1800,
@@ -29647,7 +29647,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kairyu-Shin",
-    "right": "Giant Turtle Who Feeds On Flames",
+    "right": "Giant Turtle Who Feeds on Flames",
     "output": "Sea King Dragon",
     "attack": 2000,
     "defense": 1700,
@@ -29737,7 +29737,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kairyu-Shin",
-    "right": "Sanga Of The Thunder",
+    "right": "Sanga of the Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -29845,7 +29845,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kaiser Dragon",
-    "right": "Sanga Of The Thunder",
+    "right": "Sanga of the Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -29890,7 +29890,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kaminari Attack",
-    "right": "Curse Of Dragon",
+    "right": "Curse of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -29908,7 +29908,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kaminari Attack",
-    "right": "Gaia The Dragon Champion",
+    "right": "Gaia the Dragon Champion",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -30007,7 +30007,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kaminari Attack",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -30025,7 +30025,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kaminarikozou",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Tripwire Beast",
     "attack": 1200,
     "defense": 1300,
@@ -30106,7 +30106,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kaminarikozou",
-    "right": "Curse Of Dragon",
+    "right": "Curse of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -30115,7 +30115,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kaminarikozou",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "The Immortal of Thunder",
     "attack": 1500,
     "defense": 1300,
@@ -30160,7 +30160,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kaminarikozou",
-    "right": "Gaia The Dragon Champion",
+    "right": "Gaia the Dragon Champion",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -30349,7 +30349,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kaminarikozou",
-    "right": "Sorcerer Of The Doomed",
+    "right": "Sorcerer of the Doomed",
     "output": "The Immortal of Thunder",
     "attack": 1500,
     "defense": 1300,
@@ -30385,7 +30385,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kaminarikozou",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -30458,7 +30458,7 @@ var fusionDB = TAFFY([
   {
     "left": "Kamionwizard",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -30474,7 +30474,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Kanan The Swordmistress",
+    "left": "Kanan the Swordmistress",
     "right": "Blue-Winged Crown",
     "output": "Punished Eagle",
     "attack": 2100,
@@ -30483,7 +30483,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Kanan The Swordmistress",
+    "left": "Kanan the Swordmistress",
     "right": "Harpie Lady",
     "output": "Punished Eagle",
     "attack": 2100,
@@ -30492,7 +30492,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Kanan The Swordmistress",
+    "left": "Kanan the Swordmistress",
     "right": "Monstrous Bird",
     "output": "Punished Eagle",
     "attack": 2100,
@@ -30565,7 +30565,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kanikabuto",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "Kairyu-Shin",
     "attack": 1800,
     "defense": 1500,
@@ -30610,7 +30610,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Karbonala Warrior",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -30629,7 +30629,7 @@ var fusionDB = TAFFY([
   {
     "left": "Karbonala Warrior",
     "right": "Lesser Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -30638,7 +30638,7 @@ var fusionDB = TAFFY([
   {
     "left": "Karbonala Warrior",
     "right": "Yamatano Dragon Scroll",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -30655,7 +30655,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kattapillar",
-    "right": "Cocoon Of Evolution",
+    "right": "Cocoon of Evolution",
     "output": "Larva of Moth",
     "attack": 0,
     "defense": 2000,
@@ -30673,7 +30673,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Key Mace",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -30844,7 +30844,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Key Mace",
-    "right": "Hourglass Of Life",
+    "right": "Hourglass of Life",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -30961,7 +30961,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Key Mace",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -30979,7 +30979,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Key Mace",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -30988,7 +30988,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Key Mace",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -31160,7 +31160,7 @@ var fusionDB = TAFFY([
   {
     "left": "King Fog",
     "right": "Barrel Lily",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -31168,7 +31168,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "King Fog",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -31187,14 +31187,14 @@ var fusionDB = TAFFY([
   {
     "left": "King Fog",
     "right": "Trent",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "King Of Yamimakai",
+    "left": "King of Yamimakai",
     "right": "Job-Change Mirror",
     "output": "Summoned Skull",
     "attack": 2500,
@@ -31222,7 +31222,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Korogashi",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Cockroach Knight",
     "attack": 800,
     "defense": 900,
@@ -31241,7 +31241,7 @@ var fusionDB = TAFFY([
   {
     "left": "Koumori Dragon",
     "right": "Armaill",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -31250,7 +31250,7 @@ var fusionDB = TAFFY([
   {
     "left": "Koumori Dragon",
     "right": "Armed Ninja",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -31268,7 +31268,7 @@ var fusionDB = TAFFY([
   {
     "left": "Koumori Dragon",
     "right": "Axe Raider",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -31295,7 +31295,7 @@ var fusionDB = TAFFY([
   {
     "left": "Koumori Dragon",
     "right": "Beautiful Headhuntress",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -31358,7 +31358,7 @@ var fusionDB = TAFFY([
   {
     "left": "Koumori Dragon",
     "right": "Dragoness the Wicked Knight",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -31384,7 +31384,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Koumori Dragon",
-    "right": "Giant Soldier Of Stone",
+    "right": "Giant Soldier of Stone",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -31439,7 +31439,7 @@ var fusionDB = TAFFY([
   {
     "left": "Koumori Dragon",
     "right": "M-Warrior #1",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -31448,7 +31448,7 @@ var fusionDB = TAFFY([
   {
     "left": "Koumori Dragon",
     "right": "Masked Clown",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -31484,7 +31484,7 @@ var fusionDB = TAFFY([
   {
     "left": "Koumori Dragon",
     "right": "Oscillo Hero",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -31492,7 +31492,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Koumori Dragon",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -31519,8 +31519,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Koumori Dragon",
-    "right": "Swordsman From A Foreign Land",
-    "output": "Sword Arm Of Dragon",
+    "right": "Swordsman from a Foreign Land",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -31529,7 +31529,7 @@ var fusionDB = TAFFY([
   {
     "left": "Koumori Dragon",
     "right": "The Little Swordsman of Aile",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -31654,7 +31654,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kurama",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Winged Egg of New Life",
     "attack": 1400,
     "defense": 1700,
@@ -31699,7 +31699,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kurama",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Mavelus",
     "attack": 1300,
     "defense": 900,
@@ -31718,7 +31718,7 @@ var fusionDB = TAFFY([
   {
     "left": "Kuriboh",
     "right": "Dark Plant",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -31726,7 +31726,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kuriboh",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -31736,7 +31736,7 @@ var fusionDB = TAFFY([
   {
     "left": "Kuriboh",
     "right": "Mushroom Man",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -31780,7 +31780,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Kuwagata alpha",
-    "right": "Giant Scorpion Of The Tundra",
+    "right": "Giant Scorpion of the Tundra",
     "output": "Kwagar Hercules",
     "attack": 1900,
     "defense": 1700,
@@ -31788,7 +31788,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "La Jinn The Mystical Genie of the Lamp",
+    "left": "La Jinn the Mystical Genie of the Lamp",
     "right": "Job-Change Mirror",
     "output": "Summoned Skull",
     "attack": 2500,
@@ -31824,8 +31824,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
-    "right": "Air Marmot Of Nefariousness",
+    "left": "Lady of Faith",
+    "right": "Air Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -31833,7 +31833,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Ancient Jar",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -31842,7 +31842,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Bean Soldier",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -31851,7 +31851,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Corroding Shark",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -31860,7 +31860,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Dancing Elf",
     "output": "Dark Witch",
     "attack": 1800,
@@ -31869,7 +31869,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Darkworld Thorns",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -31878,16 +31878,16 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Enchanting Mermaid",
-    "output": "Amazon Of The Seas",
+    "output": "Amazon of the Seas",
     "attack": 1300,
     "defense": 1400,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Flower Wolf",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -31896,7 +31896,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Goddess with the Third Eye",
     "output": "Dark Witch",
     "attack": 1800,
@@ -31905,7 +31905,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Griggle",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -31914,7 +31914,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Haniwa",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -31923,7 +31923,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Happy Lover",
     "output": "Dark Witch",
     "attack": 1800,
@@ -31932,7 +31932,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Hoshiningen",
     "output": "Dark Witch",
     "attack": 1800,
@@ -31941,7 +31941,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "LaLa Li-oon",
     "output": "The Immortal of Thunder",
     "attack": 1500,
@@ -31950,7 +31950,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Laughing Flower",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -31959,7 +31959,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Little Chimera",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -31968,7 +31968,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Milus Radiant",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -31977,7 +31977,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Morphing Jar",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -31986,16 +31986,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Mystical Sheep #1",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -32004,7 +32004,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Petit Angel",
     "output": "Dark Witch",
     "attack": 1800,
@@ -32013,7 +32013,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Ray & Temperature",
     "output": "Dark Witch",
     "attack": 1800,
@@ -32022,7 +32022,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Shadow Specter",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -32031,7 +32031,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Stone Armadiller",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -32040,7 +32040,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lady Of Faith",
+    "left": "Lady of Faith",
     "right": "Weather Control",
     "output": "Dark Witch",
     "attack": 1800,
@@ -32050,7 +32050,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "LaLa Li-oon",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Tripwire Beast",
     "attack": 1200,
     "defense": 1300,
@@ -32131,7 +32131,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "LaLa Li-oon",
-    "right": "Curse Of Dragon",
+    "right": "Curse of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -32176,7 +32176,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "LaLa Li-oon",
-    "right": "Gaia The Dragon Champion",
+    "right": "Gaia the Dragon Champion",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -32230,7 +32230,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "LaLa Li-oon",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "The Immortal of Thunder",
     "attack": 1500,
     "defense": 1300,
@@ -32392,7 +32392,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "LaLa Li-oon",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -32429,7 +32429,7 @@ var fusionDB = TAFFY([
   {
     "left": "LaLa Li-oon",
     "right": "Time Wizard",
-    "output": "The Immortal Of Thunder",
+    "output": "The Immortal of Thunder",
     "attack": 1500,
     "defense": 1300,
     "type": "Monster",
@@ -32473,7 +32473,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "LaLa Li-oon",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Thunder Dragon",
     "attack": 1600,
     "defense": 1500,
@@ -32501,7 +32501,7 @@ var fusionDB = TAFFY([
   {
     "left": "LaMoon",
     "right": "Ansatsu",
-    "output": "Cocoon Of Evolution",
+    "output": "Cocoon of Evolution",
     "attack": 0,
     "defense": 2000,
     "type": "Monster",
@@ -32554,7 +32554,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "LaMoon",
-    "right": "Hourglass Of Courage",
+    "right": "Hourglass of Courage",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -32636,7 +32636,7 @@ var fusionDB = TAFFY([
   {
     "left": "Larvae Moth",
     "right": "Anthrosaurus",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -32644,7 +32644,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Larvae Moth",
-    "right": "Cocoon Of Evolution",
+    "right": "Cocoon of Evolution",
     "output": "Larva of Moth",
     "attack": 0,
     "defense": 2000,
@@ -32654,7 +32654,7 @@ var fusionDB = TAFFY([
   {
     "left": "Larvae Moth",
     "right": "Two-Mouth Darkruler",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -32698,7 +32698,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Larvas",
-    "right": "Spirit Of The Winds",
+    "right": "Spirit of the Winds",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -32717,7 +32717,7 @@ var fusionDB = TAFFY([
   {
     "left": "Laughing Flower",
     "right": "Clown Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -32726,7 +32726,7 @@ var fusionDB = TAFFY([
   {
     "left": "Laughing Flower",
     "right": "Corroding Shark",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -32744,7 +32744,7 @@ var fusionDB = TAFFY([
   {
     "left": "Laughing Flower",
     "right": "Dragon Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -32753,7 +32753,7 @@ var fusionDB = TAFFY([
   {
     "left": "Laughing Flower",
     "right": "Flame Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -32761,7 +32761,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Laughing Flower",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -32797,7 +32797,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Laughing Flower",
-    "right": "Hero Of The East",
+    "right": "Hero of the East",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -32806,7 +32806,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Laughing Flower",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -32824,7 +32824,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Laughing Flower",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -32834,7 +32834,7 @@ var fusionDB = TAFFY([
   {
     "left": "Laughing Flower",
     "right": "Magical Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -32842,7 +32842,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Laughing Flower",
-    "right": "Magician Of Faith",
+    "right": "Magician of Faith",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -32933,7 +32933,7 @@ var fusionDB = TAFFY([
   {
     "left": "Laughing Flower",
     "right": "The 13th Grave",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -32941,8 +32941,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Laughing Flower",
-    "right": "The Shadow Who Controls The Dark",
-    "output": "Rose Spectre Of Dunn",
+    "right": "The Shadow Who Controls the Dark",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -32951,7 +32951,7 @@ var fusionDB = TAFFY([
   {
     "left": "Laughing Flower",
     "right": "The Snake Hair",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -32978,7 +32978,7 @@ var fusionDB = TAFFY([
   {
     "left": "Laughing Flower",
     "right": "Wood Remains",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -33005,7 +33005,7 @@ var fusionDB = TAFFY([
   {
     "left": "Laughing Flower",
     "right": "Zombie Warrior",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -33021,7 +33021,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Left Arm Of The Forbidden One",
+    "left": "Left Arm of the Forbidden One",
     "right": "Ancient Jar",
     "output": "Ushi Oni",
     "attack": 2150,
@@ -33030,7 +33030,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Left Arm Of The Forbidden One",
+    "left": "Left Arm of the Forbidden One",
     "right": "Baby Dragon",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -33039,7 +33039,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Left Arm Of The Forbidden One",
+    "left": "Left Arm of the Forbidden One",
     "right": "Blocker",
     "output": "Disk Magician",
     "attack": 1350,
@@ -33048,7 +33048,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Left Arm Of The Forbidden One",
+    "left": "Left Arm of the Forbidden One",
     "right": "Blue-Eyed Silver Zombie",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -33057,7 +33057,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Left Arm Of The Forbidden One",
+    "left": "Left Arm of the Forbidden One",
     "right": "Celtic Guardian",
     "output": "Dark Elf",
     "attack": 2000,
@@ -33066,7 +33066,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Left Arm Of The Forbidden One",
+    "left": "Left Arm of the Forbidden One",
     "right": "Dancing Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -33075,7 +33075,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Left Arm Of The Forbidden One",
+    "left": "Left Arm of the Forbidden One",
     "right": "Fire Reaper",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -33084,7 +33084,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Left Arm Of The Forbidden One",
+    "left": "Left Arm of the Forbidden One",
     "right": "Mech Mole Zombie",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -33093,7 +33093,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Left Arm Of The Forbidden One",
+    "left": "Left Arm of the Forbidden One",
     "right": "Skull Servant",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -33102,7 +33102,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Left Arm Of The Forbidden One",
+    "left": "Left Arm of the Forbidden One",
     "right": "The 13th Grave",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -33111,7 +33111,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Left Leg Of The Forbidden One",
+    "left": "Left Leg of the Forbidden One",
     "right": "Baby Dragon",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -33120,7 +33120,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Left Leg Of The Forbidden One",
+    "left": "Left Leg of the Forbidden One",
     "right": "Celtic Guardian",
     "output": "Dark Elf",
     "attack": 2000,
@@ -33129,7 +33129,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Left Leg Of The Forbidden One",
+    "left": "Left Leg of the Forbidden One",
     "right": "The 13th Grave",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -33157,7 +33157,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Leghul",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Cockroach Knight",
     "attack": 800,
     "defense": 900,
@@ -33194,7 +33194,7 @@ var fusionDB = TAFFY([
   {
     "left": "Lesser Dragon",
     "right": "Axe Raider",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -33239,7 +33239,7 @@ var fusionDB = TAFFY([
   {
     "left": "Lesser Dragon",
     "right": "Celtic Guardian",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -33499,7 +33499,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Lesser Dragon",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -33508,8 +33508,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Lesser Dragon",
-    "right": "Pumpking The King Of Ghosts",
-    "output": "Curse Of Dragon",
+    "right": "Pumpking the King of Ghosts",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -33526,7 +33526,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Lesser Dragon",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -33562,7 +33562,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Lesser Dragon",
-    "right": "Sorcerer Of The Doomed",
+    "right": "Sorcerer of the Doomed",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -33607,7 +33607,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Lesser Dragon",
-    "right": "Wretched Ghost Of The Attic",
+    "right": "Wretched Ghost of the Attic",
     "output": "Koumori Dragon",
     "attack": 1500,
     "defense": 1200,
@@ -33671,7 +33671,7 @@ var fusionDB = TAFFY([
   {
     "left": "Little Chimera",
     "right": "Bat",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -33833,7 +33833,7 @@ var fusionDB = TAFFY([
   {
     "left": "Little Chimera",
     "right": "Jinzo #7",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -33841,7 +33841,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Little Chimera",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -33877,7 +33877,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Little Chimera",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -33958,7 +33958,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Little Chimera",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -33967,7 +33967,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Little Chimera",
-    "right": "Protector Of The Throne",
+    "right": "Protector of the Throne",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -34022,7 +34022,7 @@ var fusionDB = TAFFY([
   {
     "left": "Little Chimera",
     "right": "Steel Scorpion",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -34112,7 +34112,7 @@ var fusionDB = TAFFY([
   {
     "left": "Living Vase",
     "right": "Armored Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -34138,8 +34138,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Living Vase",
-    "right": "Dark King Of The Abyss",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Dark King of the Abyss",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -34193,7 +34193,7 @@ var fusionDB = TAFFY([
   {
     "left": "Living Vase",
     "right": "Meda Bat",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -34210,7 +34210,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Living Vase",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -34219,7 +34219,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Living Vase",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -34245,7 +34245,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lord Of D.",
+    "left": "Lord of D.",
     "right": "Dancing Elf",
     "output": "Dark Witch",
     "attack": 1800,
@@ -34254,16 +34254,16 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Lord Of The Lamp",
+    "left": "Lord of the Lamp",
     "right": "Arlownay",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Lord Of The Lamp",
+    "left": "Lord of the Lamp",
     "right": "Dancing Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -34272,16 +34272,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lord Of The Lamp",
-    "right": "Versago The Destroyer",
-    "output": "La Jinn The Mystical Genie of the Lamp",
+    "left": "Lord of the Lamp",
+    "right": "Versago the Destroyer",
+    "output": "La Jinn the Mystical Genie of the Lamp",
     "attack": 1800,
     "defense": 1000,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Lord Of Zemia",
+    "left": "Lord of Zemia",
     "right": "Celtic Guardian",
     "output": "Dark Elf",
     "attack": 2000,
@@ -34290,7 +34290,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lord Of Zemia",
+    "left": "Lord of Zemia",
     "right": "Dancing Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -34299,7 +34299,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Lord Of Zemia",
+    "left": "Lord of Zemia",
     "right": "Yamatano Dragon Scroll",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -34346,7 +34346,7 @@ var fusionDB = TAFFY([
   {
     "left": "Lucky Trinket",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -34507,7 +34507,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Lunar Queen Elzaim",
-    "right": "Hourglass Of Courage",
+    "right": "Hourglass of Courage",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -34633,7 +34633,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Lunar Queen Elzaim",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -34642,7 +34642,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Lunar Queen Elzaim",
-    "right": "Ogre Of The Black Shadow",
+    "right": "Ogre of the Black Shadow",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -34651,7 +34651,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Lunar Queen Elzaim",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -34660,7 +34660,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Lunar Queen Elzaim",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -34813,7 +34813,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "M-Warrior #1",
-    "right": "Ancient Tree Of Enlightenment",
+    "right": "Ancient Tree of Enlightenment",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -34832,7 +34832,7 @@ var fusionDB = TAFFY([
   {
     "left": "M-Warrior #1",
     "right": "Blackland Fire Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -34895,7 +34895,7 @@ var fusionDB = TAFFY([
   {
     "left": "M-Warrior #1",
     "right": "Crawling Dragon #2",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -34958,7 +34958,7 @@ var fusionDB = TAFFY([
   {
     "left": "M-Warrior #1",
     "right": "Dragon Zombie",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -35048,7 +35048,7 @@ var fusionDB = TAFFY([
   {
     "left": "M-Warrior #1",
     "right": "Koumori Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -35137,7 +35137,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "M-Warrior #1",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Tiger Axe",
     "attack": 1300,
     "defense": 1100,
@@ -35173,7 +35173,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "M-Warrior #1",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -35227,7 +35227,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "M-Warrior #1",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -35281,7 +35281,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "M-Warrior #2",
-    "right": "Ancient Tree Of Enlightenment",
+    "right": "Ancient Tree of Enlightenment",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -35417,7 +35417,7 @@ var fusionDB = TAFFY([
   {
     "left": "M-Warrior #2",
     "right": "Dragon Zombie",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -35461,7 +35461,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "M-Warrior #2",
-    "right": "Graveyard And The Hand Of Invitation",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -35686,7 +35686,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "M-Warrior #2",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
     "defense": 900,
@@ -35704,7 +35704,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "M-Warrior #2",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -35740,7 +35740,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Madjinn Gunn",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -35750,7 +35750,7 @@ var fusionDB = TAFFY([
   {
     "left": "Magical Ghost",
     "right": "Abyss Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -35759,7 +35759,7 @@ var fusionDB = TAFFY([
   {
     "left": "Magical Ghost",
     "right": "Arlownay",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -35768,7 +35768,7 @@ var fusionDB = TAFFY([
   {
     "left": "Magical Ghost",
     "right": "Bean Soldier",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -35777,7 +35777,7 @@ var fusionDB = TAFFY([
   {
     "left": "Magical Ghost",
     "right": "Dark Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -35795,7 +35795,7 @@ var fusionDB = TAFFY([
   {
     "left": "Magical Ghost",
     "right": "Firegrass",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -35804,7 +35804,7 @@ var fusionDB = TAFFY([
   {
     "left": "Magical Ghost",
     "right": "Griggle",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -35813,7 +35813,7 @@ var fusionDB = TAFFY([
   {
     "left": "Magical Ghost",
     "right": "Laughing Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -35831,7 +35831,7 @@ var fusionDB = TAFFY([
   {
     "left": "Magical Ghost",
     "right": "Rainbow Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -35839,7 +35839,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Magical Ghost",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Armored Zombie",
     "attack": 1500,
     "defense": 0,
@@ -35849,14 +35849,14 @@ var fusionDB = TAFFY([
   {
     "left": "Magical Ghost",
     "right": "Tentacle Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Bean Soldier",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -35865,7 +35865,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Beaver Warrior",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -35874,7 +35874,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Dancing Elf",
     "output": "Mystical Elf",
     "attack": 800,
@@ -35883,7 +35883,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Dark Plant",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -35892,7 +35892,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Darkworld Thorns",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -35901,7 +35901,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Gate Deeg",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -35910,8 +35910,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
-    "right": "Goddess Of Whim",
+    "left": "Magician of Faith",
+    "right": "Goddess of Whim",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -35919,8 +35919,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
-    "right": "Graveyard And The Hand Of Invitation",
+    "left": "Magician of Faith",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -35928,7 +35928,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Happy Lover",
     "output": "Dark Witch",
     "attack": 1800,
@@ -35937,8 +35937,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
-    "right": "Hourglass Of Courage",
+    "left": "Magician of Faith",
+    "right": "Hourglass of Courage",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -35946,7 +35946,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Kaminarikozou",
     "output": "The Immortal of Thunder",
     "attack": 1500,
@@ -35955,7 +35955,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Laughing Flower",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -35964,7 +35964,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Morphing Jar",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -35973,7 +35973,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Rainbow Flower",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -35982,7 +35982,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Silver Fang",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -35991,7 +35991,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Torike",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -36000,7 +36000,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Yamatano Dragon Scroll",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -36027,9 +36027,9 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Maiden Of The Aqua",
+    "left": "Maiden of the Aqua",
     "right": "Root Water",
-    "output": "Amazon Of The Seas",
+    "output": "Amazon of the Seas",
     "attack": 1300,
     "defense": 1400,
     "type": "Monster",
@@ -36074,7 +36074,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "Armored Zombie",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -36092,7 +36092,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "Bone Mouse",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -36101,7 +36101,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "Clown Zombie",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -36110,7 +36110,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "Corroding Shark",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -36137,7 +36137,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "Dragon Zombie",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -36146,7 +36146,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "Fiend's Hand",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -36155,7 +36155,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "Fire Reaper",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -36164,7 +36164,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "Mech Mole Zombie",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -36182,7 +36182,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "Shadow Ghoul",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -36191,7 +36191,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "Shadow Specter",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2300,
     "defense": 1800,
     "type": "Monster",
@@ -36200,7 +36200,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "Skull Servant",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -36209,7 +36209,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "The 13th Grave",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -36218,7 +36218,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "The Snake Hair",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -36226,7 +36226,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mammoth Graveyard",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Koumori Dragon",
     "attack": 1500,
     "defense": 1200,
@@ -36236,7 +36236,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "Wood Remains",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -36254,7 +36254,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mammoth Graveyard",
     "right": "Zombie Warrior",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -36262,7 +36262,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Man Eater",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Flower Wolf",
     "attack": 1800,
     "defense": 1400,
@@ -36299,7 +36299,7 @@ var fusionDB = TAFFY([
   {
     "left": "Man Eater",
     "right": "Armored Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -36317,7 +36317,7 @@ var fusionDB = TAFFY([
   {
     "left": "Man Eater",
     "right": "Corroding Shark",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -36344,7 +36344,7 @@ var fusionDB = TAFFY([
   {
     "left": "Man Eater",
     "right": "Dragon Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -36380,7 +36380,7 @@ var fusionDB = TAFFY([
   {
     "left": "Man Eater",
     "right": "Flame Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -36388,7 +36388,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Man Eater",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -36397,7 +36397,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Man Eater",
-    "right": "Graveyard And The Hand Of Invitation",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "Wood Remains",
     "attack": 1000,
     "defense": 900,
@@ -36541,7 +36541,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Man Eater",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -36578,7 +36578,7 @@ var fusionDB = TAFFY([
   {
     "left": "Man Eater",
     "right": "Wood Remains",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -36596,7 +36596,7 @@ var fusionDB = TAFFY([
   {
     "left": "Man Eater",
     "right": "Zombie Warrior",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -36649,7 +36649,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Man-Eating Plant",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Flower Wolf",
     "attack": 1800,
     "defense": 1400,
@@ -36722,7 +36722,7 @@ var fusionDB = TAFFY([
   {
     "left": "Man-Eating Plant",
     "right": "Gorgon Egg",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -36739,7 +36739,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Man-Eating Plant",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -36829,7 +36829,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Man-Eating Plant",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -36866,7 +36866,7 @@ var fusionDB = TAFFY([
   {
     "left": "Man-Eating Plant",
     "right": "Zombie Warrior",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -36955,7 +36955,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Masaki the Legendary Swordsman",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -37008,25 +37008,25 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Mask Of Darkness",
+    "left": "Mask of Darkness",
     "right": "Arlownay",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Mask Of Darkness",
+    "left": "Mask of Darkness",
     "right": "Barrel Lily",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Mask Of Darkness",
+    "left": "Mask of Darkness",
     "right": "Celtic Guardian",
     "output": "Dark Elf",
     "attack": 2000,
@@ -37035,7 +37035,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Mask Of Darkness",
+    "left": "Mask of Darkness",
     "right": "Dancing Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -37044,25 +37044,25 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Mask Of Darkness",
+    "left": "Mask of Darkness",
     "right": "Dark Plant",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Mask Of Darkness",
+    "left": "Mask of Darkness",
     "right": "Griggle",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Mask Of Darkness",
+    "left": "Mask of Darkness",
     "right": "Job-Change Mirror",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
@@ -37071,7 +37071,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Mask Of Darkness",
+    "left": "Mask of Darkness",
     "right": "Mystical Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -37080,26 +37080,26 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Mask Of Darkness",
-    "right": "Protector Of The Throne",
-    "output": "Invader Of The Throne",
+    "left": "Mask of Darkness",
+    "right": "Protector of the Throne",
+    "output": "Invader of the Throne",
     "attack": 1350,
     "defense": 1700,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Mask Of Darkness",
+    "left": "Mask of Darkness",
     "right": "Rainbow Flower",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Mask Of Darkness",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "left": "Mask of Darkness",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -37226,7 +37226,7 @@ var fusionDB = TAFFY([
   {
     "left": "Masked Clown",
     "right": "Dragon Zombie",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -37307,7 +37307,7 @@ var fusionDB = TAFFY([
   {
     "left": "Masked Clown",
     "right": "Koumori Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -37423,7 +37423,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Masked Clown",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
     "defense": 900,
@@ -37469,7 +37469,7 @@ var fusionDB = TAFFY([
   {
     "left": "Masked Sorcerer",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -37882,7 +37882,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mavelus",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -37909,7 +37909,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mavelus",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Crimson Sunbird",
     "attack": 2300,
     "defense": 1800,
@@ -37954,7 +37954,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mech Mole Zombie",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -37973,7 +37973,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mech Mole Zombie",
     "right": "Darkworld Thorns",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -37981,7 +37981,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mech Mole Zombie",
-    "right": "Djinn The Watcher Of The Wind",
+    "right": "Djinn the Watcher of the Wind",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -38053,7 +38053,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mech Mole Zombie",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -38090,7 +38090,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mech Mole Zombie",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -38152,7 +38152,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mech Mole Zombie",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone Ghost",
     "attack": 1200,
     "defense": 1000,
@@ -38179,7 +38179,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mech Mole Zombie",
-    "right": "Left Arm Of The Forbidden One",
+    "right": "Left Arm of the Forbidden One",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -38189,7 +38189,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mech Mole Zombie",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -38197,7 +38197,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mech Mole Zombie",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -38215,7 +38215,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mech Mole Zombie",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -38314,7 +38314,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mechanical Snail",
-    "right": "Guardian Of The Labyrinth",
+    "right": "Guardian of the Labyrinth",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -38360,7 +38360,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mechanical Snail",
     "right": "Milus Radiant",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -38387,7 +38387,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mechanical Snail",
     "right": "Mystical Sheep #1",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -38396,7 +38396,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mechanical Snail",
     "right": "Mystical Sheep #2",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -38476,8 +38476,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mechanical Spider",
-    "right": "Air Marmot Of Nefariousness",
-    "output": "Giga-Tech Wolf",
+    "right": "Air Marmot of Nefariousness",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -38521,7 +38521,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mechanical Spider",
-    "right": "Gazelle The King Of Mythical Beasts",
+    "right": "Gazelle the King of Mythical Beasts",
     "output": "Dice Armadillo",
     "attack": 1650,
     "defense": 1800,
@@ -38548,7 +38548,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mechanical Spider",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -38594,7 +38594,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mechanical Spider",
     "right": "Mystical Sheep #1",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -38602,8 +38602,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mechanical Spider",
-    "right": "Obese Marmot Of Nefariousness",
-    "output": "Giga-Tech Wolf",
+    "right": "Obese Marmot of Nefariousness",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -38629,7 +38629,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mechanical Spider",
-    "right": "Saggi The Dark Clown",
+    "right": "Saggi the Dark Clown",
     "output": "Disk Magician",
     "attack": 1350,
     "defense": 1000,
@@ -38647,7 +38647,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mechanical Spider",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -38683,7 +38683,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mechanical Spider",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Metal Dragon",
     "attack": 1850,
     "defense": 1700,
@@ -38711,7 +38711,7 @@ var fusionDB = TAFFY([
   {
     "left": "Meda Bat",
     "right": "Barrel Lily",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -38719,7 +38719,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Meda Bat",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -38729,7 +38729,7 @@ var fusionDB = TAFFY([
   {
     "left": "Meda Bat",
     "right": "Living Vase",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -38738,7 +38738,7 @@ var fusionDB = TAFFY([
   {
     "left": "Meda Bat",
     "right": "Rainbow Flower",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -38746,7 +38746,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mega Thunderball",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Tripwire Beast",
     "attack": 1200,
     "defense": 1300,
@@ -38818,7 +38818,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mega Thunderball",
-    "right": "Curse Of Dragon",
+    "right": "Curse of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -38827,7 +38827,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mega Thunderball",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "The Immortal of Thunder",
     "attack": 1500,
     "defense": 1300,
@@ -38908,7 +38908,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mega Thunderball",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Tripwire Beast",
     "attack": 1200,
     "defense": 1300,
@@ -38953,7 +38953,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mega Thunderball",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "The Immortal of Thunder",
     "attack": 1500,
     "defense": 1300,
@@ -38971,7 +38971,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mega Thunderball",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -39052,7 +39052,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mega Thunderball",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Thunder Dragon",
     "attack": 1600,
     "defense": 1500,
@@ -39116,7 +39116,7 @@ var fusionDB = TAFFY([
   {
     "left": "Megazowler",
     "right": "Behegon",
-    "output": "Bracchio-Raidus",
+    "output": "Bracchio-raidus",
     "attack": 2200,
     "defense": 2000,
     "type": "Monster",
@@ -39133,7 +39133,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Megirus Light",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -39160,7 +39160,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Megirus Light",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -39224,7 +39224,7 @@ var fusionDB = TAFFY([
   {
     "left": "Metal Dragon",
     "right": "Bone Mouse",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -39242,7 +39242,7 @@ var fusionDB = TAFFY([
   {
     "left": "Metal Dragon",
     "right": "Clown Zombie",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -39269,7 +39269,7 @@ var fusionDB = TAFFY([
   {
     "left": "Metal Dragon",
     "right": "Dragon Zombie",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -39476,7 +39476,7 @@ var fusionDB = TAFFY([
   {
     "left": "Meteor Dragon",
     "right": "Dragon Zombie",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -39502,7 +39502,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Meteor Dragon",
-    "right": "Giant Soldier Of Stone",
+    "right": "Giant Soldier of Stone",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -39547,8 +39547,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Meteor Dragon",
-    "right": "Pumpking The King Of Ghosts",
-    "output": "Curse Of Dragon",
+    "right": "Pumpking the King of Ghosts",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -39565,7 +39565,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Meteor Dragon",
-    "right": "Sanga Of The Thunder",
+    "right": "Sanga of the Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -39593,7 +39593,7 @@ var fusionDB = TAFFY([
   {
     "left": "Midnight Fiend",
     "right": "Dark Plant",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -39601,7 +39601,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Midnight Fiend",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -39629,7 +39629,7 @@ var fusionDB = TAFFY([
   {
     "left": "Midnight Fiend",
     "right": "Tentacle Plant",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -39674,7 +39674,7 @@ var fusionDB = TAFFY([
   {
     "left": "Milus Radiant",
     "right": "Bat",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -39718,7 +39718,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Milus Radiant",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -39755,7 +39755,7 @@ var fusionDB = TAFFY([
   {
     "left": "Milus Radiant",
     "right": "Cyber-Stein",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -39800,7 +39800,7 @@ var fusionDB = TAFFY([
   {
     "left": "Milus Radiant",
     "right": "Dharma Cannon",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -39889,7 +39889,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Milus Radiant",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -39925,7 +39925,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Milus Radiant",
-    "right": "Hourglass Of Life",
+    "right": "Hourglass of Life",
     "output": "Garvas",
     "attack": 2000,
     "defense": 1700,
@@ -39953,7 +39953,7 @@ var fusionDB = TAFFY([
   {
     "left": "Milus Radiant",
     "right": "Jinzo #7",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -39961,7 +39961,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Milus Radiant",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -40006,7 +40006,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Milus Radiant",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -40079,7 +40079,7 @@ var fusionDB = TAFFY([
   {
     "left": "Milus Radiant",
     "right": "Mechanical Snail",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -40150,7 +40150,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Milus Radiant",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -40159,7 +40159,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Milus Radiant",
-    "right": "Protector Of The Throne",
+    "right": "Protector of the Throne",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -40223,7 +40223,7 @@ var fusionDB = TAFFY([
   {
     "left": "Milus Radiant",
     "right": "Steel Scorpion",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -40240,7 +40240,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Milus Radiant",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Tiger Axe",
     "attack": 1300,
     "defense": 1100,
@@ -40357,7 +40357,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Misairuzame",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Rare Fish",
     "attack": 1500,
     "defense": 1200,
@@ -40457,7 +40457,7 @@ var fusionDB = TAFFY([
   {
     "left": "Monster Eye",
     "right": "Abyss Flower",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -40475,7 +40475,7 @@ var fusionDB = TAFFY([
   {
     "left": "Monster Eye",
     "right": "Dark Plant",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -40483,7 +40483,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Monster Eye",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -40502,7 +40502,7 @@ var fusionDB = TAFFY([
   {
     "left": "Monster Eye",
     "right": "Queen of Autumn Leaves",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -40511,7 +40511,7 @@ var fusionDB = TAFFY([
   {
     "left": "Monster Eye",
     "right": "Rainbow Flower",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -40520,7 +40520,7 @@ var fusionDB = TAFFY([
   {
     "left": "Monster Eye",
     "right": "Yashinoki",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -40537,7 +40537,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Monstrous Bird",
-    "right": "Kanan The Swordmistress",
+    "right": "Kanan the Swordmistress",
     "output": "Punished Eagle",
     "attack": 2100,
     "defense": 1800,
@@ -40546,7 +40546,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Monstrous Bird",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Crimson Sunbird",
     "attack": 2300,
     "defense": 1800,
@@ -40555,7 +40555,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Monsturtle",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Turtle Tiger",
     "attack": 1000,
     "defense": 1500,
@@ -40583,7 +40583,7 @@ var fusionDB = TAFFY([
   {
     "left": "Monsturtle",
     "right": "Fire Reaper",
-    "output": "Giant Turtle Who Feeds On Flames",
+    "output": "Giant Turtle Who Feeds on Flames",
     "attack": 1400,
     "defense": 1800,
     "type": "Monster",
@@ -40592,7 +40592,7 @@ var fusionDB = TAFFY([
   {
     "left": "Monsturtle",
     "right": "Flame Snake",
-    "output": "Giant Turtle Who Feeds On Flames",
+    "output": "Giant Turtle Who Feeds on Flames",
     "attack": 1400,
     "defense": 1800,
     "type": "Monster",
@@ -40618,8 +40618,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Monsturtle",
-    "right": "Kagemusha Of The Blue Flame",
-    "output": "Giant Turtle Who Feeds On Flames",
+    "right": "Kagemusha of the Blue Flame",
+    "output": "Giant Turtle Who Feeds on Flames",
     "attack": 1400,
     "defense": 1800,
     "type": "Monster",
@@ -40672,7 +40672,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Monsturtle",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Turtle Tiger",
     "attack": 1000,
     "defense": 1500,
@@ -40690,7 +40690,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Monsturtle",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Boulder Tortoise",
     "attack": 1450,
     "defense": 2200,
@@ -40897,7 +40897,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Moon Envoy",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -40942,7 +40942,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Morphing Jar",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "Ushi Oni",
     "attack": 2150,
     "defense": 1950,
@@ -40996,7 +40996,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Morphing Jar",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -41032,7 +41032,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Morphing Jar",
-    "right": "Magician Of Faith",
+    "right": "Magician of Faith",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -41113,7 +41113,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Morphing Jar",
-    "right": "Right Arm Of The Forbidden One",
+    "right": "Right Arm of the Forbidden One",
     "output": "Ushi Oni",
     "attack": 2150,
     "defense": 1950,
@@ -41122,7 +41122,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Morphing Jar",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -41149,7 +41149,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Morphing Jar",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -41185,7 +41185,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Morphing Jar",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -41194,7 +41194,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Morphing Jar",
-    "right": "Witch Of The Black Forest",
+    "right": "Witch of the Black Forest",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -41230,7 +41230,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Muka Muka",
-    "right": "Amazon Of The Seas",
+    "right": "Amazon of the Seas",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -41392,7 +41392,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Muka Muka",
-    "right": "Goddess Of Whim",
+    "right": "Goddess of Whim",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -41428,7 +41428,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Muka Muka",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -41608,7 +41608,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Muka Muka",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -41662,7 +41662,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Muka Muka",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -41671,7 +41671,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Muse-A",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -41707,7 +41707,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Muse-A",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -41725,7 +41725,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mushroom Man",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Flower Wolf",
     "attack": 1800,
     "defense": 1400,
@@ -41753,7 +41753,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mushroom Man",
     "right": "Armored Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -41798,7 +41798,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mushroom Man",
     "right": "Clown Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -41834,7 +41834,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mushroom Man",
     "right": "Dragon Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -41861,7 +41861,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mushroom Man",
     "right": "Flame Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -41869,7 +41869,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mushroom Man",
-    "right": "Graveyard And The Hand Of Invitation",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "Wood Remains",
     "attack": 1000,
     "defense": 900,
@@ -41878,7 +41878,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mushroom Man",
-    "right": "Guardian Of The Labyrinth",
+    "right": "Guardian of the Labyrinth",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -41887,7 +41887,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mushroom Man",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -41906,7 +41906,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mushroom Man",
     "right": "Kuriboh",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -42031,7 +42031,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mushroom Man",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -42085,7 +42085,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mushroom Man",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -42104,7 +42104,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mushroom Man",
     "right": "Three-Legged Zombies",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -42131,7 +42131,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mushroom Man",
     "right": "Wood Remains",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -42157,7 +42157,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mushroom Man #2",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Tiger Axe",
     "attack": 1300,
     "defense": 1100,
@@ -42220,7 +42220,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mushroom Man #2",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -42265,7 +42265,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mushroom Man #2",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -42320,7 +42320,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystery Hand",
     "right": "Arlownay",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -42338,7 +42338,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystery Hand",
     "right": "Dark Plant",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -42346,7 +42346,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystery Hand",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -42392,7 +42392,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystery Hand",
     "right": "Queen of Autumn Leaves",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -42418,7 +42418,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystic Horseman",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -42472,7 +42472,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystic Horseman",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -42482,7 +42482,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystic Lamp",
     "right": "Akakieisu",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42500,7 +42500,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystic Lamp",
     "right": "Ancient Sorcerer",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42518,7 +42518,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystic Lamp",
     "right": "Fairywitch",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42571,8 +42571,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystic Lamp",
-    "right": "Curtain Of The Dark Ones",
-    "output": "Lord Of The Lamp",
+    "right": "Curtain of the Dark Ones",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42589,8 +42589,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystic Lamp",
-    "right": "Djinn The Watcher Of The Wind",
-    "output": "Lord Of The Lamp",
+    "right": "Djinn the Watcher of the Wind",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42626,7 +42626,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystic Lamp",
     "right": "Genin",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42635,7 +42635,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystic Lamp",
     "right": "Hurricail",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42662,7 +42662,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystic Lamp",
     "right": "Kamionwizard",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42670,8 +42670,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystic Lamp",
-    "right": "Lady Of Faith",
-    "output": "Lord Of The Lamp",
+    "right": "Lady of Faith",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42680,7 +42680,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystic Lamp",
     "right": "Lucky Trinket",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42689,7 +42689,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystic Lamp",
     "right": "Masked Sorcerer",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42725,7 +42725,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystic Lamp",
     "right": "Nemuriko",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42752,7 +42752,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystic Lamp",
     "right": "Phantom Dewan",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42769,7 +42769,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystic Lamp",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Ushi Oni",
     "attack": 2150,
     "defense": 1950,
@@ -42778,8 +42778,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystic Lamp",
-    "right": "Right Arm Of The Forbidden One",
-    "output": "Lord Of The Lamp",
+    "right": "Right Arm of the Forbidden One",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42787,8 +42787,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystic Lamp",
-    "right": "Sectarian Of Secrets",
-    "output": "Lord Of The Lamp",
+    "right": "Sectarian of Secrets",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42806,7 +42806,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystic Lamp",
     "right": "The Bewitching Phantom Thief",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42824,7 +42824,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystic Lamp",
     "right": "Time Wizard",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -42832,8 +42832,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystic Lamp",
-    "right": "Wall Of Illusion",
-    "output": "La Jinn The Mystical Genie of the Lamp",
+    "right": "Wall of Illusion",
+    "output": "La Jinn the Mystical Genie of the Lamp",
     "attack": 1800,
     "defense": 1000,
     "type": "Monster",
@@ -42841,7 +42841,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystic Lamp",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -42886,7 +42886,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Elf",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -43039,7 +43039,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Elf",
-    "right": "Hourglass Of Courage",
+    "right": "Hourglass of Courage",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -43084,7 +43084,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Elf",
-    "right": "Mask Of Darkness",
+    "right": "Mask of Darkness",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -43138,7 +43138,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Elf",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Celtic Guardian",
     "attack": 1400,
     "defense": 1200,
@@ -43156,7 +43156,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Elf",
-    "right": "Rhaimundos Of The Red Sword",
+    "right": "Rhaimundos of the Red Sword",
     "output": "Celtic Guardian",
     "attack": 1400,
     "defense": 1200,
@@ -43165,7 +43165,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Elf",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -43210,7 +43210,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Elf",
-    "right": "The Shadow Who Controls The Dark",
+    "right": "The Shadow Who Controls the Dark",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -43265,7 +43265,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystical Elf",
     "right": "Wow Warrior",
-    "output": "Amazon Of The Seas",
+    "output": "Amazon of the Seas",
     "attack": 1300,
     "defense": 1400,
     "type": "Monster",
@@ -43283,7 +43283,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystical Sand",
     "right": "Serpentine Princess",
-    "output": "Bracchio-Raidus",
+    "output": "Bracchio-raidus",
     "attack": 2200,
     "defense": 2000,
     "type": "Monster",
@@ -43292,7 +43292,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystical Sheep #1",
     "right": "Bat",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -43372,7 +43372,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Sheep #1",
-    "right": "Giga-Tech Wolf",
+    "right": "Giga-tech Wolf",
     "output": "Dice Armadillo",
     "attack": 1650,
     "defense": 1800,
@@ -43399,7 +43399,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Sheep #1",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -43436,7 +43436,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystical Sheep #1",
     "right": "Mechanical Snail",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -43445,7 +43445,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystical Sheep #1",
     "right": "Mechanical Spider",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -43480,7 +43480,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Sheep #1",
-    "right": "Supporter In The Shadows",
+    "right": "Supporter in the Shadows",
     "output": "Tiger Axe",
     "attack": 1300,
     "defense": 1100,
@@ -43508,7 +43508,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystical Sheep #2",
     "right": "Bat",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -43517,7 +43517,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystical Sheep #2",
     "right": "Cyber-Stein",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -43526,7 +43526,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystical Sheep #2",
     "right": "Cyber Commander",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -43579,7 +43579,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Sheep #2",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Mystical Sheep #1",
     "attack": 1150,
     "defense": 900,
@@ -43588,7 +43588,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Sheep #2",
-    "right": "Giga-Tech Wolf",
+    "right": "Giga-tech Wolf",
     "output": "Dice Armadillo",
     "attack": 1650,
     "defense": 1800,
@@ -43598,7 +43598,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystical Sheep #2",
     "right": "Jinzo #7",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -43634,7 +43634,7 @@ var fusionDB = TAFFY([
   {
     "left": "Mystical Sheep #2",
     "right": "Mechanical Snail",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -43669,7 +43669,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Sheep #2",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Tiger Axe",
     "attack": 1300,
     "defense": 1100,
@@ -43687,7 +43687,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Sheep #2",
-    "right": "The Shadow Who Controls The Dark",
+    "right": "The Shadow Who Controls the Dark",
     "output": "Mystical Sheep #1",
     "attack": 1150,
     "defense": 900,
@@ -43714,7 +43714,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Mystical Sheep #2",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Mystical Sheep #1",
     "attack": 1150,
     "defense": 900,
@@ -43723,7 +43723,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Neck Hunter",
-    "right": "Ancient One Of The Deep Forest",
+    "right": "Ancient One of the Deep Forest",
     "output": "Chimera the Flying Mythical Beast",
     "attack": 2100,
     "defense": 1800,
@@ -43742,7 +43742,7 @@ var fusionDB = TAFFY([
   {
     "left": "Needle Ball",
     "right": "Arlownay",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -43750,7 +43750,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Needle Ball",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -43768,7 +43768,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Needle Worm",
-    "right": "Cocoon Of Evolution",
+    "right": "Cocoon of Evolution",
     "output": "Larva of Moth",
     "attack": 0,
     "defense": 2000,
@@ -43849,7 +43849,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Nemuriko",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -44030,7 +44030,7 @@ var fusionDB = TAFFY([
   {
     "left": "Nemuriko",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -44056,7 +44056,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Nemuriko",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -44163,7 +44163,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Ancient Brain",
     "output": "Garvas",
     "attack": 2000,
@@ -44172,7 +44172,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Bolt Penguin",
     "output": "Tripwire Beast",
     "attack": 1200,
@@ -44181,7 +44181,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Brave Scizzar",
     "output": "Dice Armadillo",
     "attack": 1650,
@@ -44190,7 +44190,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Cannon Soldier",
     "output": "Dice Armadillo",
     "attack": 1650,
@@ -44199,7 +44199,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Charubin the Fire Knight",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -44208,7 +44208,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Dark Plant",
     "output": "Flower Wolf",
     "attack": 1800,
@@ -44217,7 +44217,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Disk Magician",
     "output": "Dice Armadillo",
     "attack": 1650,
@@ -44226,7 +44226,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Dissolverock",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -44235,7 +44235,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Eldeen",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -44244,7 +44244,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Fire Reaper",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -44253,7 +44253,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Flame Ghost",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -44262,7 +44262,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Griggle",
     "output": "Flower Wolf",
     "attack": 1800,
@@ -44271,7 +44271,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Happy Lover",
     "output": "Garvas",
     "attack": 2000,
@@ -44280,7 +44280,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Hinotama Soul",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -44289,8 +44289,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
-    "right": "Hourglass Of Life",
+    "left": "Obese Marmot of Nefariousness",
+    "right": "Hourglass of Life",
     "output": "Garvas",
     "attack": 2000,
     "defense": 1700,
@@ -44298,7 +44298,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Hyo",
     "output": "Tiger Axe",
     "attack": 1300,
@@ -44307,16 +44307,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Jinzo #7",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Kageningen",
     "output": "Tiger Axe",
     "attack": 1300,
@@ -44325,7 +44325,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Key Mace",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -44334,7 +44334,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Lunar Queen Elzaim",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -44343,7 +44343,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "M-Warrior #1",
     "output": "Tiger Axe",
     "attack": 1300,
@@ -44352,16 +44352,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Mechanical Spider",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Mega Thunderball",
     "output": "Tripwire Beast",
     "attack": 1200,
@@ -44370,7 +44370,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Monsturtle",
     "output": "Turtle Tiger",
     "attack": 1000,
@@ -44379,7 +44379,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Muse-A",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -44388,7 +44388,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Petit Angel",
     "output": "Garvas",
     "attack": 2000,
@@ -44397,7 +44397,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Queen of Autumn Leaves",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -44406,8 +44406,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
-    "right": "Unknown Warrior Of Fiend",
+    "left": "Obese Marmot of Nefariousness",
+    "right": "Unknown Warrior of Fiend",
     "output": "Tiger Axe",
     "attack": 1300,
     "defense": 1100,
@@ -44415,7 +44415,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Wow Warrior",
     "output": "Tiger Axe",
     "attack": 1300,
@@ -44424,7 +44424,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Water Element",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -44433,7 +44433,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Obese Marmot Of Nefariousness",
+    "left": "Obese Marmot of Nefariousness",
     "right": "Waterdragon Fairy",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -44487,7 +44487,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Ogre Of The Black Shadow",
+    "left": "Ogre of the Black Shadow",
     "right": "Lunar Queen Elzaim",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -44561,7 +44561,7 @@ var fusionDB = TAFFY([
   {
     "left": "One-Eyed Shield Dragon",
     "right": "Axe Raider",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -44606,7 +44606,7 @@ var fusionDB = TAFFY([
   {
     "left": "One-Eyed Shield Dragon",
     "right": "Celtic Guardian",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -44623,7 +44623,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "One-Eyed Shield Dragon",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -44848,8 +44848,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "One-Eyed Shield Dragon",
-    "right": "Pumpking The King Of Ghosts",
-    "output": "Curse Of Dragon",
+    "right": "Pumpking the King of Ghosts",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -44866,7 +44866,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "One-Eyed Shield Dragon",
-    "right": "Rhaimundos Of The Red Sword",
+    "right": "Rhaimundos of the Red Sword",
     "output": "D. Human",
     "attack": 1300,
     "defense": 1100,
@@ -44885,7 +44885,7 @@ var fusionDB = TAFFY([
   {
     "left": "One-Eyed Shield Dragon",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -44893,7 +44893,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "One-Eyed Shield Dragon",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Dragon Statue",
     "attack": 1100,
     "defense": 900,
@@ -44920,7 +44920,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "One-Eyed Shield Dragon",
-    "right": "The Shadow Who Controls The Dark",
+    "right": "The Shadow Who Controls the Dark",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -45073,7 +45073,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Oscillo Hero",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Tiger Axe",
     "attack": 1300,
     "defense": 1100,
@@ -45101,7 +45101,7 @@ var fusionDB = TAFFY([
   {
     "left": "Oscillo Hero",
     "right": "Blackland Fire Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -45164,7 +45164,7 @@ var fusionDB = TAFFY([
   {
     "left": "Oscillo Hero",
     "right": "Koumori Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -45208,7 +45208,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Oscillo Hero",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -45217,7 +45217,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Oscillo Hero #2",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Tripwire Beast",
     "attack": 1200,
     "defense": 1300,
@@ -45271,7 +45271,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Oscillo Hero #2",
-    "right": "Curse Of Dragon",
+    "right": "Curse of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -45415,7 +45415,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Oscillo Hero #2",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "The Immortal of Thunder",
     "attack": 1500,
     "defense": 1300,
@@ -45442,7 +45442,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Oscillo Hero #2",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -45505,7 +45505,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Oscillo Hero #2",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Thunder Dragon",
     "attack": 1600,
     "defense": 1500,
@@ -45577,7 +45577,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Parrot Dragon",
-    "right": "Sanga Of The Thunder",
+    "right": "Sanga of the Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -45856,7 +45856,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Angel",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -45910,7 +45910,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Angel",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Garvas",
     "attack": 2000,
     "defense": 1700,
@@ -45965,7 +45965,7 @@ var fusionDB = TAFFY([
   {
     "left": "Petit Dragon",
     "right": "Ansatsu",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -46001,7 +46001,7 @@ var fusionDB = TAFFY([
   {
     "left": "Petit Dragon",
     "right": "Axe Raider",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -46099,7 +46099,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Dragon",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -46117,7 +46117,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Dragon",
-    "right": "Dark King Of The Abyss",
+    "right": "Dark King of the Abyss",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -46270,7 +46270,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Dragon",
-    "right": "Hero Of The East",
+    "right": "Hero of the East",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
     "defense": 900,
@@ -46522,7 +46522,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Dragon",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -46540,7 +46540,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Dragon",
-    "right": "Protector Of The Throne",
+    "right": "Protector of the Throne",
     "output": "Dragon Statue",
     "attack": 1100,
     "defense": 900,
@@ -46549,8 +46549,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Dragon",
-    "right": "Pumpking The King Of Ghosts",
-    "output": "Curse Of Dragon",
+    "right": "Pumpking the King of Ghosts",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -46567,7 +46567,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Dragon",
-    "right": "Rhaimundos Of The Red Sword",
+    "right": "Rhaimundos of the Red Sword",
     "output": "D. Human",
     "attack": 1300,
     "defense": 1100,
@@ -46576,7 +46576,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Dragon",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -46595,7 +46595,7 @@ var fusionDB = TAFFY([
   {
     "left": "Petit Dragon",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -46639,7 +46639,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Dragon",
-    "right": "Supporter In The Shadows",
+    "right": "Supporter in the Shadows",
     "output": "Dragon Statue",
     "attack": 1100,
     "defense": 900,
@@ -46648,7 +46648,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Dragon",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
     "defense": 900,
@@ -46657,7 +46657,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Dragon",
-    "right": "Terra The Terrible",
+    "right": "Terra the Terrible",
     "output": "Koumori Dragon",
     "attack": 1500,
     "defense": 1200,
@@ -46747,7 +46747,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Dragon",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Koumori Dragon",
     "attack": 1500,
     "defense": 1200,
@@ -46765,7 +46765,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Dragon",
-    "right": "Wretched Ghost Of The Attic",
+    "right": "Wretched Ghost of the Attic",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -46792,7 +46792,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Moth",
-    "right": "Cocoon Of Evolution",
+    "right": "Cocoon of Evolution",
     "output": "Larva of Moth",
     "attack": 0,
     "defense": 2000,
@@ -46801,7 +46801,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Petit Moth",
-    "right": "Two-mouth Darkruler",
+    "right": "Two-Mouth Darkruler",
     "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
@@ -46928,7 +46928,7 @@ var fusionDB = TAFFY([
   {
     "left": "Phantom Dewan",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -46945,7 +46945,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Phantom Dewan",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Ushi Oni",
     "attack": 2150,
     "defense": 1950,
@@ -46963,7 +46963,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Phantom Dewan",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -47089,7 +47089,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Phantom Ghost",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -47179,7 +47179,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Phantom Ghost",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -47189,7 +47189,7 @@ var fusionDB = TAFFY([
   {
     "left": "Phantom Ghost",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -47197,7 +47197,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Phantom Ghost",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -47224,7 +47224,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Phantom Ghost",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragon Zombie",
     "attack": 1600,
     "defense": 0,
@@ -47232,7 +47232,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Ancient Elf",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -47241,7 +47241,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Ancient Sorcerer",
     "output": "Ushi Oni",
     "attack": 2150,
@@ -47250,7 +47250,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Fairywitch",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -47259,7 +47259,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Armaill",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -47268,7 +47268,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Baby Dragon",
     "output": "Stone D.",
     "attack": 2000,
@@ -47277,7 +47277,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Blackland Fire Dragon",
     "output": "Stone D.",
     "attack": 2000,
@@ -47286,8 +47286,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
-    "right": "Curtain Of The Dark Ones",
+    "left": "Pot the Trick",
+    "right": "Curtain of the Dark Ones",
     "output": "Ushi Oni",
     "attack": 2150,
     "defense": 1950,
@@ -47295,7 +47295,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Dancing Elf",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -47304,7 +47304,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Darkfire Dragon",
     "output": "Stone D.",
     "attack": 2000,
@@ -47313,7 +47313,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Dragon Statue",
     "output": "Stone D.",
     "attack": 2000,
@@ -47322,7 +47322,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Dragon Zombie",
     "output": "Stone D.",
     "attack": 2000,
@@ -47331,7 +47331,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Fiend's Hand",
     "output": "Stone Ghost",
     "attack": 1200,
@@ -47340,7 +47340,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Fire Eye",
     "output": "Dissolverock",
     "attack": 900,
@@ -47349,7 +47349,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Fire Reaper",
     "output": "Stone Ghost",
     "attack": 1200,
@@ -47358,7 +47358,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Firegrass",
     "output": "Dissolverock",
     "attack": 900,
@@ -47367,7 +47367,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Flame Ghost",
     "output": "Stone Ghost",
     "attack": 1200,
@@ -47376,8 +47376,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
-    "right": "Goddess With The Third Eye",
+    "left": "Pot the Trick",
+    "right": "Goddess with the Third Eye",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -47385,7 +47385,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Hard Armor",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -47394,8 +47394,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
-    "right": "Kagemusha Of The Blue Flame",
+    "left": "Pot the Trick",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -47403,7 +47403,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Kageningen",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -47412,7 +47412,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Key Mace",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -47421,7 +47421,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Koumori Dragon",
     "output": "Stone D.",
     "attack": 2000,
@@ -47430,7 +47430,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Lesser Dragon",
     "output": "Stone D.",
     "attack": 2000,
@@ -47439,7 +47439,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Lunar Queen Elzaim",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -47448,7 +47448,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "M-Warrior #1",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -47457,7 +47457,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Mech Mole Zombie",
     "output": "Stone Ghost",
     "attack": 1200,
@@ -47466,7 +47466,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Monsturtle",
     "output": "Boulder Tortoise",
     "attack": 1450,
@@ -47475,7 +47475,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Mystic Lamp",
     "output": "Ushi Oni",
     "attack": 2150,
@@ -47484,7 +47484,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Nemuriko",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -47493,7 +47493,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Petit Dragon",
     "output": "Stone D.",
     "attack": 2000,
@@ -47502,7 +47502,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Phantom Dewan",
     "output": "Ushi Oni",
     "attack": 2150,
@@ -47511,8 +47511,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
-    "right": "Princess Of Tsurugi",
+    "left": "Pot the Trick",
+    "right": "Princess of Tsurugi",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -47520,7 +47520,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Queen's Double",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -47529,7 +47529,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Queen of Autumn Leaves",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -47538,8 +47538,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
-    "right": "Sectarian Of Secrets",
+    "left": "Pot the Trick",
+    "right": "Sectarian of Secrets",
     "output": "Ushi Oni",
     "attack": 2150,
     "defense": 1950,
@@ -47547,7 +47547,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Shadow Specter",
     "output": "Stone Ghost",
     "attack": 1200,
@@ -47556,7 +47556,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Skelgon",
     "output": "Stone D.",
     "attack": 2000,
@@ -47565,7 +47565,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Skull Servant",
     "output": "Stone Ghost",
     "attack": 1200,
@@ -47574,8 +47574,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
-    "right": "Swordsman From A Foreign Land",
+    "left": "Pot the Trick",
+    "right": "Swordsman from a Foreign Land",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -47583,7 +47583,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "The Little Swordsman of Aile",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -47592,7 +47592,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "The Wandering Doomed",
     "output": "Stone Ghost",
     "attack": 1200,
@@ -47601,7 +47601,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Trap Master",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -47610,8 +47610,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
-    "right": "Unknown Warrior Of Fiend",
+    "left": "Pot the Trick",
+    "right": "Unknown Warrior of Fiend",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -47619,7 +47619,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Vishwar Randi",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -47628,7 +47628,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Waterdragon Fairy",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -47637,8 +47637,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "left": "Pot the Trick",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -47646,8 +47646,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
-    "right": "Witch Of The Black Forest",
+    "left": "Pot the Trick",
+    "right": "Witch of the Black Forest",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -47655,7 +47655,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Wood Clown",
     "output": "Minomushi Warrior",
     "attack": 1200,
@@ -47664,7 +47664,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Yamatano Dragon Scroll",
     "output": "Stone D.",
     "attack": 2000,
@@ -47673,7 +47673,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pot The Trick",
+    "left": "Pot the Trick",
     "right": "Dragon Zombie",
     "output": "Stone D.",
     "attack": 2000,
@@ -47691,7 +47691,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Abyss Flower",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -47700,8 +47700,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
-    "right": "Air Marmot Of Nefariousness",
+    "left": "Princess of Tsurugi",
+    "right": "Air Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -47709,7 +47709,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Ancient Jar",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -47718,7 +47718,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Armaill",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -47727,7 +47727,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Blue-Eyed Silver Zombie",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -47736,7 +47736,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Charubin the Fire Knight",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -47745,16 +47745,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Crawling Dragon #2",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Dancing Elf",
     "output": "Celtic Guardian",
     "attack": 1400,
@@ -47763,7 +47763,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Dark Plant",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -47772,7 +47772,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Darkworld Thorns",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -47781,7 +47781,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Dig Beak",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -47790,7 +47790,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Dragon Piper",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -47799,7 +47799,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Fire Eye",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -47808,7 +47808,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Firegrass",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -47817,7 +47817,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Flower Wolf",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -47826,7 +47826,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Garoozis",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -47835,8 +47835,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Princess Of Tsurugi",
-    "right": "Goddess With The Third Eye",
+    "left": "Princess of Tsurugi",
+    "right": "Goddess with the Third Eye",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -47844,8 +47844,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
-    "right": "Graveyard And The Hand Of Invitation",
+    "left": "Princess of Tsurugi",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -47853,7 +47853,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Griggle",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -47862,7 +47862,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Hane-Hane",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -47871,7 +47871,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Happy Lover",
     "output": "Dark Witch",
     "attack": 1800,
@@ -47880,7 +47880,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Harpie Lady",
     "output": "Punished Eagle",
     "attack": 2100,
@@ -47889,7 +47889,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Hoshiningen",
     "output": "Dark Witch",
     "attack": 1800,
@@ -47898,8 +47898,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Princess Of Tsurugi",
-    "right": "Hourglass Of Life",
+    "left": "Princess of Tsurugi",
+    "right": "Hourglass of Life",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -47907,7 +47907,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Jinzo #7",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -47916,7 +47916,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Key Mace",
     "output": "Dark Witch",
     "attack": 1800,
@@ -47925,7 +47925,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Little Chimera",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -47934,7 +47934,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Living Vase",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -47943,7 +47943,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Lunar Queen Elzaim",
     "output": "Dark Witch",
     "attack": 1800,
@@ -47952,7 +47952,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Milus Radiant",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -47961,7 +47961,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Mushroom Man",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -47970,7 +47970,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Mystical Elf",
     "output": "Celtic Guardian",
     "attack": 1400,
@@ -47979,8 +47979,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
-    "right": "Pot The Trick",
+    "left": "Princess of Tsurugi",
+    "right": "Pot the Trick",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -47988,7 +47988,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Rainbow Flower",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -47997,7 +47997,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Ray & Temperature",
     "output": "Dark Witch",
     "attack": 1800,
@@ -48006,7 +48006,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Shining Friendship",
     "output": "Dark Witch",
     "attack": 1800,
@@ -48015,7 +48015,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Silver Fang",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -48024,7 +48024,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Skelengel",
     "output": "Dark Witch",
     "attack": 1800,
@@ -48033,7 +48033,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Skull Servant",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -48042,7 +48042,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Sleeping Lion",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -48051,7 +48051,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Steel Scorpion",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -48060,7 +48060,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "The Judgement Hand",
     "output": "Judge Man",
     "attack": 2200,
@@ -48069,7 +48069,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Weather Control",
     "output": "Dark Witch",
     "attack": 1800,
@@ -48078,8 +48078,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
-    "right": "Wings Of Wicked Flame",
+    "left": "Princess of Tsurugi",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -48087,7 +48087,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Wood Remains",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -48096,7 +48096,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Princess Of Tsurugi",
+    "left": "Princess of Tsurugi",
     "right": "Yamatano Dragon Scroll",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
@@ -48170,7 +48170,7 @@ var fusionDB = TAFFY([
   {
     "left": "Prisman",
     "right": "Serpentine Princess",
-    "output": "Bracchio-Raidus",
+    "output": "Bracchio-raidus",
     "attack": 2200,
     "defense": 2000,
     "type": "Monster",
@@ -48195,7 +48195,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Protector Of The Throne",
+    "left": "Protector of the Throne",
     "right": "Fire Reaper",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -48204,7 +48204,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Protector Of The Throne",
+    "left": "Protector of the Throne",
     "right": "Haniwa",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -48213,7 +48213,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Protector Of The Throne",
+    "left": "Protector of the Throne",
     "right": "Little Chimera",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -48222,16 +48222,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Protector Of The Throne",
-    "right": "Mask Of Darkness",
-    "output": "Invader Of The Throne",
+    "left": "Protector of the Throne",
+    "right": "Mask of Darkness",
+    "output": "Invader of the Throne",
     "attack": 1350,
     "defense": 1700,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Protector Of The Throne",
+    "left": "Protector of the Throne",
     "right": "Milus Radiant",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -48240,7 +48240,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Protector Of The Throne",
+    "left": "Protector of the Throne",
     "right": "Petit Dragon",
     "output": "Dragon Statue",
     "attack": 1100,
@@ -48249,16 +48249,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Protector Of The Throne",
+    "left": "Protector of the Throne",
     "right": "Solitude",
-    "output": "Invader Of The Throne",
+    "output": "Invader of the Throne",
     "attack": 1350,
     "defense": 1700,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Protector Of The Throne",
+    "left": "Protector of the Throne",
     "right": "Yamatano Dragon Scroll",
     "output": "Dragon Statue",
     "attack": 1100,
@@ -48376,7 +48376,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Psychic Kappa",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "Bracchio-raidus",
     "attack": 2200,
     "defense": 2000,
@@ -48403,7 +48403,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Psychic Kappa",
-    "right": "Versago The Destroyer",
+    "right": "Versago the Destroyer",
     "output": "Kappa Avenger",
     "attack": 1200,
     "defense": 900,
@@ -48412,7 +48412,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Psychic Kappa",
-    "right": "Wretched Ghost Of The Attic",
+    "right": "Wretched Ghost of the Attic",
     "output": "Kappa Avenger",
     "attack": 1200,
     "defense": 900,
@@ -48429,45 +48429,45 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pumpking The King Of Ghosts",
+    "left": "Pumpking the King of Ghosts",
     "right": "Lesser Dragon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Pumpking The King Of Ghosts",
+    "left": "Pumpking the King of Ghosts",
     "right": "Meteor Dragon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Pumpking The King Of Ghosts",
+    "left": "Pumpking the King of Ghosts",
     "right": "One-Eyed Shield Dragon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Pumpking The King Of Ghosts",
+    "left": "Pumpking the King of Ghosts",
     "right": "Petit Dragon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Pumpking The King Of Ghosts",
+    "left": "Pumpking the King of Ghosts",
     "right": "Yamatano Dragon Scroll",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -48493,7 +48493,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Queen of Autumn Leaves",
-    "right": "Curse Of Dragon",
+    "right": "Curse of Dragon",
     "output": "B. Dragon Jungle King",
     "attack": 2100,
     "defense": 1800,
@@ -48502,8 +48502,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Queen of Autumn Leaves",
-    "right": "Dark King Of The Abyss",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Dark King of the Abyss",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -48539,7 +48539,7 @@ var fusionDB = TAFFY([
   {
     "left": "Queen of Autumn Leaves",
     "right": "Feral Imp",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -48547,8 +48547,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Queen of Autumn Leaves",
-    "right": "Fungi Of The Musk",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Fungi of the Musk",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -48611,7 +48611,7 @@ var fusionDB = TAFFY([
   {
     "left": "Queen of Autumn Leaves",
     "right": "Monster Eye",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -48638,7 +48638,7 @@ var fusionDB = TAFFY([
   {
     "left": "Queen of Autumn Leaves",
     "right": "Mystery Hand",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -48646,7 +48646,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Queen of Autumn Leaves",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -48655,7 +48655,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Queen of Autumn Leaves",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -48673,8 +48673,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Queen of Autumn Leaves",
-    "right": "The Shadow Who Controls The Dark",
-    "output": "Rose Spectre Of Dunn",
+    "right": "The Shadow Who Controls the Dark",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -48682,7 +48682,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Queen's Double",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -48719,7 +48719,7 @@ var fusionDB = TAFFY([
   {
     "left": "Queen's Double",
     "right": "Blackland Fire Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -48763,7 +48763,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Queen's Double",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -48782,7 +48782,7 @@ var fusionDB = TAFFY([
   {
     "left": "Queen's Double",
     "right": "Crawling Dragon #2",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -48791,7 +48791,7 @@ var fusionDB = TAFFY([
   {
     "left": "Queen's Double",
     "right": "Crawling Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -48952,7 +48952,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Queen's Double",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -49141,7 +49141,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Queen's Double",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -49258,7 +49258,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Rainbow Flower",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Flower Wolf",
     "attack": 1800,
     "defense": 1400,
@@ -49295,7 +49295,7 @@ var fusionDB = TAFFY([
   {
     "left": "Rainbow Flower",
     "right": "Armored Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -49313,7 +49313,7 @@ var fusionDB = TAFFY([
   {
     "left": "Rainbow Flower",
     "right": "Corroding Shark",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -49385,7 +49385,7 @@ var fusionDB = TAFFY([
   {
     "left": "Rainbow Flower",
     "right": "Flame Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -49511,7 +49511,7 @@ var fusionDB = TAFFY([
   {
     "left": "Rainbow Flower",
     "right": "Rainbow Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -49519,7 +49519,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Rainbow Flower",
-    "right": "Magician Of Faith",
+    "right": "Magician of Faith",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -49537,8 +49537,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Rainbow Flower",
-    "right": "Mask Of Darkness",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Mask of Darkness",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -49574,7 +49574,7 @@ var fusionDB = TAFFY([
   {
     "left": "Rainbow Flower",
     "right": "Meda Bat",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -49583,7 +49583,7 @@ var fusionDB = TAFFY([
   {
     "left": "Rainbow Flower",
     "right": "Monster Eye",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -49618,7 +49618,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Rainbow Flower",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -49637,7 +49637,7 @@ var fusionDB = TAFFY([
   {
     "left": "Rainbow Flower",
     "right": "Shadow Ghoul",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -49700,7 +49700,7 @@ var fusionDB = TAFFY([
   {
     "left": "Rainbow Flower",
     "right": "The 13th Grave",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -49718,7 +49718,7 @@ var fusionDB = TAFFY([
   {
     "left": "Rainbow Flower",
     "right": "The Snake Hair",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -49744,7 +49744,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Rainbow Flower",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -49790,7 +49790,7 @@ var fusionDB = TAFFY([
   {
     "left": "Rainbow Flower",
     "right": "Wood Remains",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -49798,8 +49798,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Rainbow Flower",
-    "right": "Wretched Ghost Of The Attic",
-    "output": "Rose Spectre Of Dunn",
+    "right": "Wretched Ghost of the Attic",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -49861,7 +49861,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ray & Temperature",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -49879,7 +49879,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ray & Temperature",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -49906,7 +49906,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ray & Temperature",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -49932,7 +49932,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Reaper Of The Cards",
+    "left": "Reaper of the Cards",
     "right": "Job-Change Mirror",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
@@ -50023,7 +50023,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Red-Eyes B. Dragon",
-    "right": "Sanga Of The Thunder",
+    "right": "Sanga of the Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -50076,7 +50076,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Rhaimundos Of The Red Sword",
+    "left": "Rhaimundos of the Red Sword",
     "right": "Clown Zombie",
     "output": "Armored Zombie",
     "attack": 1500,
@@ -50085,7 +50085,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Rhaimundos Of The Red Sword",
+    "left": "Rhaimundos of the Red Sword",
     "right": "Hinotama Soul",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -50094,7 +50094,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Rhaimundos Of The Red Sword",
+    "left": "Rhaimundos of the Red Sword",
     "right": "Mystical Elf",
     "output": "Celtic Guardian",
     "attack": 1400,
@@ -50103,7 +50103,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Rhaimundos Of The Red Sword",
+    "left": "Rhaimundos of the Red Sword",
     "right": "One-Eyed Shield Dragon",
     "output": "D. Human",
     "attack": 1300,
@@ -50112,7 +50112,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Rhaimundos Of The Red Sword",
+    "left": "Rhaimundos of the Red Sword",
     "right": "Petit Dragon",
     "output": "D. Human",
     "attack": 1300,
@@ -50121,16 +50121,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Rhaimundos Of The Red Sword",
+    "left": "Rhaimundos of the Red Sword",
     "right": "Uraby",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 2250,
     "defense": 2530,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Rhaimundos Of The Red Sword",
+    "left": "Rhaimundos of the Red Sword",
     "right": "Yamatano Dragon Scroll",
     "output": "D. Human",
     "attack": 1300,
@@ -50139,7 +50139,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Right Arm Of The Forbidden One",
+    "left": "Right Arm of the Forbidden One",
     "right": "Ancient Jar",
     "output": "Ushi Oni",
     "attack": 2150,
@@ -50148,7 +50148,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Right Arm Of The Forbidden One",
+    "left": "Right Arm of the Forbidden One",
     "right": "Baby Dragon",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -50157,7 +50157,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Right Arm Of The Forbidden One",
+    "left": "Right Arm of the Forbidden One",
     "right": "Celtic Guardian",
     "output": "Dark Elf",
     "attack": 2000,
@@ -50166,7 +50166,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Right Arm Of The Forbidden One",
+    "left": "Right Arm of the Forbidden One",
     "right": "Morphing Jar",
     "output": "Ushi Oni",
     "attack": 2150,
@@ -50175,16 +50175,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Right Arm Of The Forbidden One",
+    "left": "Right Arm of the Forbidden One",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Right Arm Of The Forbidden One",
+    "left": "Right Arm of the Forbidden One",
     "right": "The 13th Grave",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -50193,7 +50193,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Right Leg Of The Forbidden One",
+    "left": "Right Leg of the Forbidden One",
     "right": "Baby Dragon",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -50202,7 +50202,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Right Leg Of The Forbidden One",
+    "left": "Right Leg of the Forbidden One",
     "right": "Celtic Guardian",
     "output": "Dark Elf",
     "attack": 2000,
@@ -50211,7 +50211,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Right Leg Of The Forbidden One",
+    "left": "Right Leg of the Forbidden One",
     "right": "The 13th Grave",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -50220,7 +50220,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Right Leg Of The Forbidden One",
+    "left": "Right Leg of the Forbidden One",
     "right": "Zombie Warrior",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -50302,7 +50302,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Rock Ogre Grotto #1",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -50329,7 +50329,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Rock Ogre Grotto #2",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -50338,7 +50338,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Rock Ogre Grotto #2",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -50375,7 +50375,7 @@ var fusionDB = TAFFY([
   {
     "left": "Root Water",
     "right": "Enchanting Mermaid",
-    "output": "Amazon Of The Seas",
+    "output": "Amazon of the Seas",
     "attack": 1300,
     "defense": 1400,
     "type": "Monster",
@@ -50419,8 +50419,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Root Water",
-    "right": "Maiden Of The Aqua",
-    "output": "Amazon Of The Seas",
+    "right": "Maiden of the Aqua",
+    "output": "Amazon of the Seas",
     "attack": 1300,
     "defense": 1400,
     "type": "Monster",
@@ -50436,7 +50436,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Rose Spectre Of Dunn",
+    "left": "Rose Spectre of Dunn",
     "right": "Haniwa",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -50445,7 +50445,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Rose Spectre Of Dunn",
+    "left": "Rose Spectre of Dunn",
     "right": "Muka Muka",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -50509,7 +50509,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Ryu-Kishin",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
     "defense": 1200,
@@ -50535,7 +50535,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Saggi The Dark Clown",
+    "left": "Saggi the Dark Clown",
     "right": "Mechanical Spider",
     "output": "Disk Magician",
     "attack": 1350,
@@ -50553,7 +50553,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sanga Of The Thunder",
+    "left": "Sanga of the Thunder",
     "right": "B. Dragon Jungle King",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -50562,7 +50562,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Sanga Of The Thunder",
+    "left": "Sanga of the Thunder",
     "right": "Crawling Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -50571,8 +50571,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sanga Of The Thunder",
-    "right": "Curse Of Dragon",
+    "left": "Sanga of the Thunder",
+    "right": "Curse of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -50580,8 +50580,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sanga Of The Thunder",
-    "right": "Gaia The Dragon Champion",
+    "left": "Sanga of the Thunder",
+    "right": "Gaia the Dragon Champion",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -50589,7 +50589,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sanga Of The Thunder",
+    "left": "Sanga of the Thunder",
     "right": "Harpie's Pet Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -50598,7 +50598,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Sanga Of The Thunder",
+    "left": "Sanga of the Thunder",
     "right": "Kairyu-Shin",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -50607,7 +50607,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sanga Of The Thunder",
+    "left": "Sanga of the Thunder",
     "right": "Kaiser Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -50616,7 +50616,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Sanga Of The Thunder",
+    "left": "Sanga of the Thunder",
     "right": "Meteor Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -50625,7 +50625,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sanga Of The Thunder",
+    "left": "Sanga of the Thunder",
     "right": "Parrot Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -50634,7 +50634,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sanga Of The Thunder",
+    "left": "Sanga of the Thunder",
     "right": "Red-Eyes B. Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -50643,7 +50643,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Sanga Of The Thunder",
+    "left": "Sanga of the Thunder",
     "right": "Sea King Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -50652,7 +50652,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sanga Of The Thunder",
+    "left": "Sanga of the Thunder",
     "right": "Seiyaryu",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -50661,7 +50661,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Sanga Of The Thunder",
+    "left": "Sanga of the Thunder",
     "right": "Stone D.",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -50670,7 +50670,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sanga Of The Thunder",
+    "left": "Sanga of the Thunder",
     "right": "Thousand Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -50806,7 +50806,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Sea King Dragon",
-    "right": "Sanga Of The Thunder",
+    "right": "Sanga of the Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -50850,7 +50850,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Ancient Jar",
     "output": "Ushi Oni",
     "attack": 2150,
@@ -50859,7 +50859,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Bat",
     "output": "Disk Magician",
     "attack": 1350,
@@ -50868,7 +50868,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Bolt Escargot",
     "output": "The Immortal of Thunder",
     "attack": 1500,
@@ -50877,7 +50877,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Cyber-Stein",
     "output": "Disk Magician",
     "attack": 1350,
@@ -50886,7 +50886,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Dancing Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -50895,7 +50895,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Electric Lizard",
     "output": "The Immortal of Thunder",
     "attack": 1500,
@@ -50904,7 +50904,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Fiend's Hand",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -50913,7 +50913,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Fire Reaper",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -50922,7 +50922,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Flame Ghost",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -50931,7 +50931,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Holograh",
     "output": "Disk Magician",
     "attack": 1350,
@@ -50940,7 +50940,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Jinzo #7",
     "output": "Disk Magician",
     "attack": 1350,
@@ -50949,7 +50949,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Lesser Dragon",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -50958,7 +50958,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Mega Thunderball",
     "output": "The Immortal of Thunder",
     "attack": 1500,
@@ -50967,16 +50967,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Mystical Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -50985,7 +50985,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Oscillo Hero #2",
     "output": "The Immortal of Thunder",
     "attack": 1500,
@@ -50994,7 +50994,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Petit Dragon",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -51003,7 +51003,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Phantom Ghost",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -51012,8 +51012,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
-    "right": "Pot The Trick",
+    "left": "Sectarian of Secrets",
+    "right": "Pot the Trick",
     "output": "Ushi Oni",
     "attack": 2150,
     "defense": 1950,
@@ -51021,7 +51021,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Ryu-Kishin",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
@@ -51030,7 +51030,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "The Immortal of Thunder",
     "output": "Kaminari Attack",
     "attack": 1900,
@@ -51039,8 +51039,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "left": "Sectarian of Secrets",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -51048,7 +51048,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Wing Egg Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -51057,7 +51057,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Wood Remains",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -51066,7 +51066,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sectarian Of Secrets",
+    "left": "Sectarian of Secrets",
     "right": "Yamatano Dragon Scroll",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -51139,7 +51139,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Seiyaryu",
-    "right": "Sanga Of The Thunder",
+    "right": "Sanga of the Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -51194,7 +51194,7 @@ var fusionDB = TAFFY([
   {
     "left": "Serpentine Princess",
     "right": "Mystical Sand",
-    "output": "Bracchio-Raidus",
+    "output": "Bracchio-raidus",
     "attack": 2200,
     "defense": 2000,
     "type": "Monster",
@@ -51203,7 +51203,7 @@ var fusionDB = TAFFY([
   {
     "left": "Serpentine Princess",
     "right": "Prisman",
-    "output": "Bracchio-Raidus",
+    "output": "Bracchio-raidus",
     "attack": 2200,
     "defense": 2000,
     "type": "Monster",
@@ -51212,7 +51212,7 @@ var fusionDB = TAFFY([
   {
     "left": "Serpentine Princess",
     "right": "Stone D.",
-    "output": "Bracchio-Raidus",
+    "output": "Bracchio-raidus",
     "attack": 2200,
     "defense": 2000,
     "type": "Monster",
@@ -51220,8 +51220,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Serpentine Princess",
-    "right": "The Statue Of Easter Island",
-    "output": "Bracchio-Raidus",
+    "right": "The Statue of Easter Island",
+    "output": "Bracchio-raidus",
     "attack": 2200,
     "defense": 2000,
     "type": "Monster",
@@ -51230,7 +51230,7 @@ var fusionDB = TAFFY([
   {
     "left": "Shadow Ghoul",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -51239,7 +51239,7 @@ var fusionDB = TAFFY([
   {
     "left": "Shadow Ghoul",
     "right": "Rainbow Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -51265,7 +51265,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Shadow Specter",
-    "right": "Ancient Tree Of Enlightenment",
+    "right": "Ancient Tree of Enlightenment",
     "output": "Wood Remains",
     "attack": 1000,
     "defense": 900,
@@ -51284,7 +51284,7 @@ var fusionDB = TAFFY([
   {
     "left": "Shadow Specter",
     "right": "Bean Soldier",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -51319,7 +51319,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Shadow Specter",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Fire Reaper",
     "attack": 700,
     "defense": 500,
@@ -51347,7 +51347,7 @@ var fusionDB = TAFFY([
   {
     "left": "Shadow Specter",
     "right": "Darkworld Thorns",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -51427,7 +51427,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Shadow Specter",
-    "right": "Graveyard And The Hand Of Invitation",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "The Snake Hair",
     "attack": 1500,
     "defense": 1200,
@@ -51472,7 +51472,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Shadow Specter",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -51508,7 +51508,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Shadow Specter",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -51545,7 +51545,7 @@ var fusionDB = TAFFY([
   {
     "left": "Shadow Specter",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2300,
     "defense": 1800,
     "type": "Monster",
@@ -51643,7 +51643,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Shadow Specter",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone Ghost",
     "attack": 1200,
     "defense": 1000,
@@ -51662,7 +51662,7 @@ var fusionDB = TAFFY([
   {
     "left": "Shadow Specter",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -51679,8 +51679,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Shadow Specter",
-    "right": "Sword Arm Of Dragon",
-    "output": "Curse Of Dragon",
+    "right": "Sword Arm of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -51688,7 +51688,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Shadow Specter",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -51769,7 +51769,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Shining Friendship",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -51832,7 +51832,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Silver Fang",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -51949,7 +51949,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Silver Fang",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -52003,7 +52003,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Silver Fang",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -52057,7 +52057,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Silver Fang",
-    "right": "Magician Of Faith",
+    "right": "Magician of Faith",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -52129,7 +52129,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Silver Fang",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -52147,7 +52147,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Silver Fang",
-    "right": "Queen Of Autumn Leaves",
+    "right": "Queen of Autumn Leaves",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -52192,7 +52192,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Silver Fang",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Tiger Axe",
     "attack": 1300,
     "defense": 1100,
@@ -52246,7 +52246,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Silver Fang",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -52354,7 +52354,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skelengel",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -52399,7 +52399,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skelengel",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -52436,7 +52436,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Arlownay",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -52445,7 +52445,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Armored Zombie",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52454,7 +52454,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Baby Dragon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52463,7 +52463,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Blackland Fire Dragon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52472,7 +52472,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Blue-Eyed Silver Zombie",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52481,7 +52481,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Clown Zombie",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52490,7 +52490,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Dark Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -52508,7 +52508,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Dragon Zombie",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52526,7 +52526,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Fiend's Hand",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52535,7 +52535,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Fire Reaper",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52544,7 +52544,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Flame Ghost",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52562,7 +52562,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Mech Mole Zombie",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52571,7 +52571,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "One-Eyed Shield Dragon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52580,7 +52580,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Petit Dragon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52589,7 +52589,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Phantom Ghost",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52597,7 +52597,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skelgon",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -52607,7 +52607,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Shadow Specter",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52625,7 +52625,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skelgon",
     "right": "Yamatano Dragon Scroll",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -52642,7 +52642,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skull Red Bird",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Crimson Sunbird",
     "attack": 2300,
     "defense": 1800,
@@ -52714,7 +52714,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skull Red Bird",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Crimson Sunbird",
     "attack": 2300,
     "defense": 1800,
@@ -52723,7 +52723,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skull Servant",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Shadow Specter",
     "attack": 500,
     "defense": 200,
@@ -52769,7 +52769,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skull Servant",
     "right": "Bean Soldier",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -52822,7 +52822,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skull Servant",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -52841,7 +52841,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skull Servant",
     "right": "Darkworld Thorns",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -52858,7 +52858,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skull Servant",
-    "right": "Djinn The Watcher Of The Wind",
+    "right": "Djinn the Watcher of the Wind",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -52930,7 +52930,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skull Servant",
-    "right": "Graveyard And The Hand Of Invitation",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "The Snake Hair",
     "attack": 1500,
     "defense": 1200,
@@ -52957,7 +52957,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skull Servant",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -52994,7 +52994,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skull Servant",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -53074,7 +53074,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skull Servant",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone Ghost",
     "attack": 1200,
     "defense": 1000,
@@ -53083,7 +53083,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skull Servant",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -53101,7 +53101,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skull Servant",
-    "right": "Left Arm Of The Forbidden One",
+    "right": "Left Arm of the Forbidden One",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -53111,7 +53111,7 @@ var fusionDB = TAFFY([
   {
     "left": "Skull Servant",
     "right": "Snakeyashi",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -53119,7 +53119,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skull Servant",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -53191,7 +53191,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Skull Servant",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragon Zombie",
     "attack": 1600,
     "defense": 0,
@@ -53389,7 +53389,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Sleeping Lion",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -53435,7 +53435,7 @@ var fusionDB = TAFFY([
   {
     "left": "Snakeyashi",
     "right": "Bone Mouse",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -53444,7 +53444,7 @@ var fusionDB = TAFFY([
   {
     "left": "Snakeyashi",
     "right": "Fire Reaper",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -53471,7 +53471,7 @@ var fusionDB = TAFFY([
   {
     "left": "Snakeyashi",
     "right": "Skull Servant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -53480,7 +53480,7 @@ var fusionDB = TAFFY([
   {
     "left": "Snakeyashi",
     "right": "The Melting Red Shadow",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -53489,7 +53489,7 @@ var fusionDB = TAFFY([
   {
     "left": "Snakeyashi",
     "right": "The Wandering Doomed",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -53515,8 +53515,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Solitude",
-    "right": "Protector Of The Throne",
-    "output": "Invader Of The Throne",
+    "right": "Protector of the Throne",
+    "output": "Invader of the Throne",
     "attack": 1350,
     "defense": 1700,
     "type": "Monster",
@@ -53524,7 +53524,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Solitude",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Koumori Dragon",
     "attack": 1500,
     "defense": 1200,
@@ -53559,7 +53559,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sorcerer Of The Doomed",
+    "left": "Sorcerer of the Doomed",
     "right": "Baby Dragon",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -53568,7 +53568,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Sorcerer Of The Doomed",
+    "left": "Sorcerer of the Doomed",
     "right": "Kaminarikozou",
     "output": "The Immortal of Thunder",
     "attack": 1500,
@@ -53577,7 +53577,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Sorcerer Of The Doomed",
+    "left": "Sorcerer of the Doomed",
     "right": "Lesser Dragon",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -53586,7 +53586,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Sorcerer Of The Doomed",
+    "left": "Sorcerer of the Doomed",
     "right": "Petit Dragon",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -53624,7 +53624,7 @@ var fusionDB = TAFFY([
   {
     "left": "Spike Seadra",
     "right": "Axe Raider",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -53642,7 +53642,7 @@ var fusionDB = TAFFY([
   {
     "left": "Spike Seadra",
     "right": "Celtic Guardian",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -53794,8 +53794,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Spike Seadra",
-    "right": "Swordsman From A Foreign Land",
-    "output": "Sword Arm Of Dragon",
+    "right": "Swordsman from a Foreign Land",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -53820,7 +53820,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Spirit Of The Books",
+    "left": "Spirit of the Books",
     "right": "Fireyarou",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -53829,7 +53829,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Spirit Of The Books",
+    "left": "Spirit of the Books",
     "right": "Flame Cerebrus",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -53838,7 +53838,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Spirit Of The Books",
+    "left": "Spirit of the Books",
     "right": "Vermillion Sparrow",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -53866,7 +53866,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Spirit of the Harp",
-    "right": "Doma the Angel of Silence",
+    "right": "Doma The Angel of Silence",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -53991,7 +53991,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Spirit Of The Winds",
+    "left": "Spirit of the Winds",
     "right": "Larvas",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -54000,7 +54000,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Spirit Of The Winds",
+    "left": "Spirit of the Winds",
     "right": "Trent",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -54055,7 +54055,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Steel Scorpion",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -54065,7 +54065,7 @@ var fusionDB = TAFFY([
   {
     "left": "Steel Scorpion",
     "right": "Little Chimera",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -54083,7 +54083,7 @@ var fusionDB = TAFFY([
   {
     "left": "Steel Scorpion",
     "right": "Milus Radiant",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -54100,7 +54100,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Steel Scorpion",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -54172,7 +54172,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Stone Armadiller",
-    "right": "Amazon Of The Seas",
+    "right": "Amazon of the Seas",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -54226,7 +54226,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Stone Armadiller",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -54262,7 +54262,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Stone Armadiller",
-    "right": "Warrior Of Tradition",
+    "right": "Warrior of Tradition",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -54406,7 +54406,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Stone D.",
-    "right": "Sanga Of The Thunder",
+    "right": "Sanga of the Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -54416,7 +54416,7 @@ var fusionDB = TAFFY([
   {
     "left": "Stone D.",
     "right": "Serpentine Princess",
-    "output": "Bracchio-Raidus",
+    "output": "Bracchio-raidus",
     "attack": 2200,
     "defense": 2000,
     "type": "Monster",
@@ -54595,7 +54595,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Succubus Knight",
-    "right": "Goddess Of Whim",
+    "right": "Goddess of Whim",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -54639,7 +54639,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Supporter In The Shadows",
+    "left": "Supporter in the Shadows",
     "right": "Ancient Jar",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -54648,7 +54648,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Supporter In The Shadows",
+    "left": "Supporter in the Shadows",
     "right": "Arlownay",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -54657,7 +54657,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Supporter In The Shadows",
+    "left": "Supporter in the Shadows",
     "right": "Darkworld Thorns",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -54666,7 +54666,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Supporter In The Shadows",
+    "left": "Supporter in the Shadows",
     "right": "Embryonic Beast",
     "output": "Tiger Axe",
     "attack": 1300,
@@ -54675,7 +54675,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Supporter In The Shadows",
+    "left": "Supporter in the Shadows",
     "right": "Fire Eye",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -54684,7 +54684,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Supporter In The Shadows",
+    "left": "Supporter in the Shadows",
     "right": "Griggle",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -54693,7 +54693,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Supporter In The Shadows",
+    "left": "Supporter in the Shadows",
     "right": "Mystical Sheep #1",
     "output": "Tiger Axe",
     "attack": 1300,
@@ -54702,7 +54702,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Supporter In The Shadows",
+    "left": "Supporter in the Shadows",
     "right": "Petit Dragon",
     "output": "Dragon Statue",
     "attack": 1100,
@@ -54711,7 +54711,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Supporter In The Shadows",
+    "left": "Supporter in the Shadows",
     "right": "The Judgement Hand",
     "output": "Judge Man",
     "attack": 2200,
@@ -54720,7 +54720,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Supporter In The Shadows",
+    "left": "Supporter in the Shadows",
     "right": "Wing Egg Elf",
     "output": "Celtic Guardian",
     "attack": 1400,
@@ -54738,16 +54738,16 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Armored Zombie",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Bolt Penguin",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -54756,7 +54756,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Brave Scizzar",
     "output": "Cyber Saurus",
     "attack": 1800,
@@ -54765,16 +54765,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Clown Zombie",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Dissolverock",
     "output": "Stone D.",
     "attack": 2000,
@@ -54783,25 +54783,25 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Dokurorider",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Dragon Zombie",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Electric Lizard",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -54810,7 +54810,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Electric Snake",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -54819,16 +54819,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Fire Reaper",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Firegrass",
     "output": "B. Dragon Jungle King",
     "attack": 2100,
@@ -54837,16 +54837,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Flame Ghost",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Griggle",
     "output": "B. Dragon Jungle King",
     "attack": 2100,
@@ -54855,7 +54855,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Holograh",
     "output": "Cyber Saurus",
     "attack": 1800,
@@ -54864,7 +54864,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Jellyfish",
     "output": "Kairyu-Shin",
     "attack": 1800,
@@ -54873,7 +54873,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Kaminarikozou",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -54882,7 +54882,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Kanikabuto",
     "output": "Kairyu-Shin",
     "attack": 1800,
@@ -54891,7 +54891,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "LaLa Li-oon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -54900,7 +54900,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Mega Thunderball",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -54909,7 +54909,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Oscillo Hero #2",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -54918,7 +54918,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Psychic Kappa",
     "output": "Bracchio-raidus",
     "attack": 2200,
@@ -54927,16 +54927,16 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Shadow Specter",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "The Immortal of Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -54945,7 +54945,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Trent",
     "output": "B. Dragon Jungle King",
     "attack": 2100,
@@ -54954,16 +54954,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Sword Of Dark Destruction",
+    "left": "Sword of Dark Destruction",
     "right": "Legendary Sword",
-    "output": "Kunai With Chain",
+    "output": "Kunai with Chain",
     "attack": 0,
     "defense": 0,
     "type": "Equip",
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Abyss Flower",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -54972,7 +54972,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Ancient Jar",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -54981,8 +54981,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
-    "right": "Ancient Tree Of Enlightenment",
+    "left": "Swordsman from a Foreign Land",
+    "right": "Ancient Tree of Enlightenment",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -54990,7 +54990,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Armaill",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -54999,7 +54999,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Basic Insect",
     "output": "Cockroach Knight",
     "attack": 800,
@@ -55008,7 +55008,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Bat",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -55017,7 +55017,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Bladefly",
     "output": "Cockroach Knight",
     "attack": 800,
@@ -55026,7 +55026,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Blue-Eyed Silver Zombie",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -55035,7 +55035,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Bone Mouse",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -55044,8 +55044,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
-    "right": "Candle Of Fate",
+    "left": "Swordsman from a Foreign Land",
+    "right": "Candle of Fate",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -55053,7 +55053,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Charubin the Fire Knight",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -55062,7 +55062,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Cyber-Stein",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -55071,7 +55071,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Cyber Commander",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -55080,7 +55080,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Dancing Elf",
     "output": "Celtic Guardian",
     "attack": 1400,
@@ -55089,7 +55089,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Dark Plant",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -55098,7 +55098,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Darkworld Thorns",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -55107,7 +55107,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Dharma Cannon",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -55116,7 +55116,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Dragon Piper",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -55125,16 +55125,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Dragon Zombie",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Fire Eye",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -55143,7 +55143,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Fire Reaper",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -55152,7 +55152,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Firegrass",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -55161,7 +55161,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Fireyarou",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -55170,7 +55170,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Flame Ghost",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -55179,7 +55179,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Flame Swordsman",
     "output": "Vermillion Sparrow",
     "attack": 1900,
@@ -55188,7 +55188,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Gale Dogra",
     "output": "Cockroach Knight",
     "attack": 800,
@@ -55197,8 +55197,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
-    "right": "Gear Golem The Moving Fortress",
+    "left": "Swordsman from a Foreign Land",
+    "right": "Gear Golem the Moving Fortress",
     "output": "Cyber Soldier",
     "attack": 1500,
     "defense": 1700,
@@ -55206,7 +55206,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Griggle",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -55215,7 +55215,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Haniwa",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -55224,7 +55224,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Jinzo #7",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -55233,7 +55233,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Korogashi",
     "output": "Cockroach Knight",
     "attack": 800,
@@ -55242,16 +55242,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Koumori Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Leghul",
     "output": "Cockroach Knight",
     "attack": 800,
@@ -55260,7 +55260,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Living Vase",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -55269,7 +55269,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Magical Ghost",
     "output": "Armored Zombie",
     "attack": 1500,
@@ -55278,7 +55278,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Man-Eating Plant",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -55287,7 +55287,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Mavelus",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -55296,7 +55296,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Mech Mole Zombie",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -55305,7 +55305,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Mechanical Spider",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -55314,7 +55314,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Milus Radiant",
     "output": "Tiger Axe",
     "attack": 1300,
@@ -55323,7 +55323,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Morphing Jar",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -55332,7 +55332,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Muka Muka",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -55341,7 +55341,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Mushroom Man",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -55350,7 +55350,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Mystical Sheep #2",
     "output": "Tiger Axe",
     "attack": 1300,
@@ -55359,7 +55359,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "One-Eyed Shield Dragon",
     "output": "Dragon Statue",
     "attack": 1100,
@@ -55368,7 +55368,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Petit Dragon",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
@@ -55377,7 +55377,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Phantom Ghost",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -55386,8 +55386,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
-    "right": "Pot The Trick",
+    "left": "Swordsman from a Foreign Land",
+    "right": "Pot the Trick",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -55395,7 +55395,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Rock Ogre Grotto #1",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -55404,7 +55404,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Rock Ogre Grotto #2",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -55413,7 +55413,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Shadow Specter",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -55422,7 +55422,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Silver Fang",
     "output": "Tiger Axe",
     "attack": 1300,
@@ -55431,7 +55431,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Skull Servant",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -55440,7 +55440,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Spike Seadra",
     "output": "Sword Arm of Dragon",
     "attack": 1750,
@@ -55449,7 +55449,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Synchar",
     "output": "Tiger Axe",
     "attack": 1300,
@@ -55458,7 +55458,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Tentacle Plant",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -55467,7 +55467,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "The Wandering Doomed",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -55476,7 +55476,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "White Dolphin",
     "output": "Wow Warrior",
     "attack": 1250,
@@ -55485,7 +55485,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Wing Egg Elf",
     "output": "Celtic Guardian",
     "attack": 1400,
@@ -55494,8 +55494,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Swordsman From A Foreign Land",
-    "right": "Wings Of Wicked Flame",
+    "left": "Swordsman from a Foreign Land",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -55503,7 +55503,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Yamatano Dragon Scroll",
     "output": "Dragon Statue",
     "attack": 1100,
@@ -55512,7 +55512,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Swordsman From A Foreign Land",
+    "left": "Swordsman from a Foreign Land",
     "right": "Zombie Warrior",
     "output": "Armored Zombie",
     "attack": 1500,
@@ -55594,7 +55594,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Synchar",
-    "right": "Hero Of The East",
+    "right": "Hero of the East",
     "output": "Tiger Axe",
     "attack": 1300,
     "defense": 1100,
@@ -55604,7 +55604,7 @@ var fusionDB = TAFFY([
   {
     "left": "Synchar",
     "right": "Jinzo #7",
-    "output": "Giga-Tech Wolf",
+    "output": "Giga-tech Wolf",
     "attack": 1200,
     "defense": 1400,
     "type": "Monster",
@@ -55630,7 +55630,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Synchar",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Tiger Axe",
     "attack": 1300,
     "defense": 1100,
@@ -55710,7 +55710,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Temple Of Skulls",
+    "left": "Temple of Skulls",
     "right": "Dark Plant",
     "output": "Wood Remains",
     "attack": 1000,
@@ -55729,7 +55729,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Tenderness",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -55783,7 +55783,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Tentacle Plant",
-    "right": "Candle Of Fate",
+    "right": "Candle of Fate",
     "output": "Firegrass",
     "attack": 700,
     "defense": 600,
@@ -55793,7 +55793,7 @@ var fusionDB = TAFFY([
   {
     "left": "Tentacle Plant",
     "right": "Claw Reacher",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -55802,7 +55802,7 @@ var fusionDB = TAFFY([
   {
     "left": "Tentacle Plant",
     "right": "Clown Zombie",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -55865,7 +55865,7 @@ var fusionDB = TAFFY([
   {
     "left": "Tentacle Plant",
     "right": "Flame Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -55892,7 +55892,7 @@ var fusionDB = TAFFY([
   {
     "left": "Tentacle Plant",
     "right": "Magical Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -55910,7 +55910,7 @@ var fusionDB = TAFFY([
   {
     "left": "Tentacle Plant",
     "right": "Midnight Fiend",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -55990,7 +55990,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Tentacle Plant",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Bean Soldier",
     "attack": 1400,
     "defense": 1300,
@@ -55999,8 +55999,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Tentacle Plant",
-    "right": "The Shadow Who Controls The Dark",
-    "output": "Rose Spectre Of Dunn",
+    "right": "The Shadow Who Controls the Dark",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -56036,7 +56036,7 @@ var fusionDB = TAFFY([
   {
     "left": "Tentacle Plant",
     "right": "Wicked Mirror",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -56063,14 +56063,14 @@ var fusionDB = TAFFY([
   {
     "left": "Tentacle Plant",
     "right": "Wood Remains",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Terra The Terrible",
+    "left": "Terra the Terrible",
     "right": "Job-Change Mirror",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
@@ -56079,7 +56079,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Terra The Terrible",
+    "left": "Terra the Terrible",
     "right": "Petit Dragon",
     "output": "Koumori Dragon",
     "attack": 1500,
@@ -56088,7 +56088,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "That Which Feeds On Life",
+    "left": "That Which Feeds on Life",
     "right": "Dancing Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -56099,7 +56099,7 @@ var fusionDB = TAFFY([
   {
     "left": "The 13th Grave",
     "right": "Abyss Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -56108,7 +56108,7 @@ var fusionDB = TAFFY([
   {
     "left": "The 13th Grave",
     "right": "Arlownay",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -56126,7 +56126,7 @@ var fusionDB = TAFFY([
   {
     "left": "The 13th Grave",
     "right": "Dark Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -56135,7 +56135,7 @@ var fusionDB = TAFFY([
   {
     "left": "The 13th Grave",
     "right": "Darkworld Thorns",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -56152,7 +56152,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The 13th Grave",
-    "right": "Exodia The Forbidden One",
+    "right": "Exodia the Forbidden One",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -56171,7 +56171,7 @@ var fusionDB = TAFFY([
   {
     "left": "The 13th Grave",
     "right": "Laughing Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -56179,7 +56179,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The 13th Grave",
-    "right": "Left Arm Of The Forbidden One",
+    "right": "Left Arm of the Forbidden One",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -56188,7 +56188,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The 13th Grave",
-    "right": "Left Leg Of The Forbidden One",
+    "right": "Left Leg of the Forbidden One",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -56207,7 +56207,7 @@ var fusionDB = TAFFY([
   {
     "left": "The 13th Grave",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -56216,7 +56216,7 @@ var fusionDB = TAFFY([
   {
     "left": "The 13th Grave",
     "right": "Rainbow Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -56224,7 +56224,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The 13th Grave",
-    "right": "Right Arm Of The Forbidden One",
+    "right": "Right Arm of the Forbidden One",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -56233,7 +56233,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The 13th Grave",
-    "right": "Right Leg Of The Forbidden One",
+    "right": "Right Leg of the Forbidden One",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -56342,7 +56342,7 @@ var fusionDB = TAFFY([
   {
     "left": "The Bewitching Phantom Thief",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -56395,7 +56395,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Drdek",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -56405,7 +56405,7 @@ var fusionDB = TAFFY([
   {
     "left": "The Drdek",
     "right": "Yashinoki",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -56503,7 +56503,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Immortal of Thunder",
-    "right": "Curse Of Dragon",
+    "right": "Curse of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -56530,7 +56530,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Immortal of Thunder",
-    "right": "Gaia The Dragon Champion",
+    "right": "Gaia the Dragon Champion",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -56674,7 +56674,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Immortal of Thunder",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Kaminari Attack",
     "attack": 1900,
     "defense": 1400,
@@ -56710,7 +56710,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Immortal of Thunder",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -56827,7 +56827,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Judgement Hand",
-    "right": "Guardian Of The Labyrinth",
+    "right": "Guardian of the Labyrinth",
     "output": "Judge Man",
     "attack": 2200,
     "defense": 1700,
@@ -56899,7 +56899,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Judgement Hand",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Judge Man",
     "attack": 2200,
     "defense": 1500,
@@ -56926,7 +56926,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Judgement Hand",
-    "right": "Supporter In The Shadows",
+    "right": "Supporter in the Shadows",
     "output": "Judge Man",
     "attack": 2200,
     "defense": 1500,
@@ -56954,7 +56954,7 @@ var fusionDB = TAFFY([
   {
     "left": "The Judgement Hand",
     "right": "Yamatano Dragon Scroll",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -57080,7 +57080,7 @@ var fusionDB = TAFFY([
   {
     "left": "The Little Swordsman of Aile",
     "right": "Koumori Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -57133,7 +57133,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Little Swordsman of Aile",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -57188,7 +57188,7 @@ var fusionDB = TAFFY([
   {
     "left": "The Melting Red Shadow",
     "right": "Snakeyashi",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -57204,44 +57204,44 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "The Shadow Who Controls The Dark",
-    "right": "Ancient Tree Of Enlightenment",
-    "output": "Rose Spectre Of Dunn",
+    "left": "The Shadow Who Controls the Dark",
+    "right": "Ancient Tree of Enlightenment",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "The Shadow Who Controls The Dark",
+    "left": "The Shadow Who Controls the Dark",
     "right": "Arlownay",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "The Shadow Who Controls The Dark",
+    "left": "The Shadow Who Controls the Dark",
     "right": "Bean Soldier",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "The Shadow Who Controls The Dark",
+    "left": "The Shadow Who Controls the Dark",
     "right": "Dark Plant",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "The Shadow Who Controls The Dark",
-    "right": "Fungi Of The Musk",
+    "left": "The Shadow Who Controls the Dark",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -57249,7 +57249,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "The Shadow Who Controls The Dark",
+    "left": "The Shadow Who Controls the Dark",
     "right": "Job-Change Mirror",
     "output": "Ryu-Kishin Powered",
     "attack": 1600,
@@ -57258,16 +57258,16 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "The Shadow Who Controls The Dark",
+    "left": "The Shadow Who Controls the Dark",
     "right": "Laughing Flower",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "The Shadow Who Controls The Dark",
+    "left": "The Shadow Who Controls the Dark",
     "right": "Mystical Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -57276,7 +57276,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "The Shadow Who Controls The Dark",
+    "left": "The Shadow Who Controls the Dark",
     "right": "Mystical Sheep #2",
     "output": "Mystical Sheep #1",
     "attack": 1150,
@@ -57285,7 +57285,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "The Shadow Who Controls The Dark",
+    "left": "The Shadow Who Controls the Dark",
     "right": "One-Eyed Shield Dragon",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -57294,25 +57294,25 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "The Shadow Who Controls The Dark",
+    "left": "The Shadow Who Controls the Dark",
     "right": "Queen of Autumn Leaves",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "The Shadow Who Controls The Dark",
+    "left": "The Shadow Who Controls the Dark",
     "right": "Tentacle Plant",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "The Shadow Who Controls The Dark",
+    "left": "The Shadow Who Controls the Dark",
     "right": "Yamatano Dragon Scroll",
     "output": "Koumori Dragon",
     "attack": 1500,
@@ -57323,7 +57323,7 @@ var fusionDB = TAFFY([
   {
     "left": "The Snake Hair",
     "right": "Abyss Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -57332,7 +57332,7 @@ var fusionDB = TAFFY([
   {
     "left": "The Snake Hair",
     "right": "Bean Soldier",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -57341,7 +57341,7 @@ var fusionDB = TAFFY([
   {
     "left": "The Snake Hair",
     "right": "Laughing Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -57350,7 +57350,7 @@ var fusionDB = TAFFY([
   {
     "left": "The Snake Hair",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -57377,7 +57377,7 @@ var fusionDB = TAFFY([
   {
     "left": "The Snake Hair",
     "right": "Rainbow Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -57385,7 +57385,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Snake Hair",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragon Zombie",
     "attack": 1600,
     "defense": 0,
@@ -57393,16 +57393,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "The Statue Of Easter Island",
+    "left": "The Statue of Easter Island",
     "right": "Serpentine Princess",
-    "output": "Bracchio-Raidus",
+    "output": "Bracchio-raidus",
     "attack": 2200,
     "defense": 2000,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "The Statue Of Easter Island",
+    "left": "The Statue of Easter Island",
     "right": "Thunder Nyan Nyan",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -57412,7 +57412,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Thing That Hides in the Mud",
-    "right": "Goddess Of Whim",
+    "right": "Goddess of Whim",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -57430,7 +57430,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Unhappy Maiden",
-    "right": "Ancient Tree Of Enlightenment",
+    "right": "Ancient Tree of Enlightenment",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -57457,7 +57457,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Unhappy Maiden",
-    "right": "Goddess Of Whim",
+    "right": "Goddess of Whim",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -57475,7 +57475,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Unhappy Maiden",
-    "right": "Hourglass Of Courage",
+    "right": "Hourglass of Courage",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -57538,7 +57538,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Wandering Doomed",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -57592,7 +57592,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Wandering Doomed",
-    "right": "Graveyard And The Hand Of Invitation",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "The Snake Hair",
     "attack": 1500,
     "defense": 1200,
@@ -57628,7 +57628,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Wandering Doomed",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone Ghost",
     "attack": 1200,
     "defense": 1000,
@@ -57647,7 +57647,7 @@ var fusionDB = TAFFY([
   {
     "left": "The Wandering Doomed",
     "right": "Snakeyashi",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -57655,7 +57655,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Wandering Doomed",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -57682,7 +57682,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "The Wandering Doomed",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragon Zombie",
     "attack": 1600,
     "defense": 0,
@@ -57781,7 +57781,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Thousand Dragon",
-    "right": "Sanga Of The Thunder",
+    "right": "Sanga of the Thunder",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -57800,7 +57800,7 @@ var fusionDB = TAFFY([
   {
     "left": "Three-Legged Zombies",
     "right": "Mushroom Man",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -57871,7 +57871,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Thunder Dragon",
-    "right": "Curse Of Dragon",
+    "right": "Curse of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -57934,7 +57934,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Thunder Dragon",
-    "right": "Gaia The Dragon Champion",
+    "right": "Gaia the Dragon Champion",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -58132,7 +58132,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Thunder Dragon",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -58141,7 +58141,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Thunder Dragon",
-    "right": "Witch Of The Black Forest",
+    "right": "Witch of the Black Forest",
     "output": "Kaminari Attack",
     "attack": 1900,
     "defense": 1400,
@@ -58150,7 +58150,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Thunder Nyan Nyan",
-    "right": "Giant Soldier Of Stone",
+    "right": "Giant Soldier of Stone",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -58186,7 +58186,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Thunder Nyan Nyan",
-    "right": "The Statue Of Easter Island",
+    "right": "The Statue of Easter Island",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -58196,7 +58196,7 @@ var fusionDB = TAFFY([
   {
     "left": "Tiger Axe",
     "right": "Darkfire Dragon",
-    "output": "Cocoon Of Evolution",
+    "output": "Cocoon of Evolution",
     "attack": 0,
     "defense": 2000,
     "type": "Monster",
@@ -58403,7 +58403,7 @@ var fusionDB = TAFFY([
   {
     "left": "Time Wizard",
     "right": "Mystic Lamp",
-    "output": "Lord Of The Lamp",
+    "output": "Lord of the Lamp",
     "attack": 1400,
     "defense": 1200,
     "type": "Monster",
@@ -58510,7 +58510,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Time Wizard",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Thousand Dragon",
     "attack": 2400,
     "defense": 2000,
@@ -58699,7 +58699,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Torike",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -58753,7 +58753,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Torike",
-    "right": "Magician Of Faith",
+    "right": "Magician of Faith",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -58807,7 +58807,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Trakadon",
-    "right": "Giga-Tech Wolf",
+    "right": "Giga-tech Wolf",
     "output": "Cyber Saurus",
     "attack": 1800,
     "defense": 1400,
@@ -58915,7 +58915,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Trap Master",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -58943,7 +58943,7 @@ var fusionDB = TAFFY([
   {
     "left": "Trent",
     "right": "King Fog",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -58951,7 +58951,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Trent",
-    "right": "Spirit Of The Winds",
+    "right": "Spirit of the Winds",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
     "defense": 1500,
@@ -58960,7 +58960,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Trent",
-    "right": "Sword Arm Of Dragon",
+    "right": "Sword Arm of Dragon",
     "output": "B. Dragon Jungle King",
     "attack": 2100,
     "defense": 1800,
@@ -58996,7 +58996,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Tripwire Beast",
-    "right": "Curse Of Dragon",
+    "right": "Curse of Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -59014,7 +59014,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Tripwire Beast",
-    "right": "Gaia The Dragon Champion",
+    "right": "Gaia the Dragon Champion",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
     "defense": 2100,
@@ -59410,7 +59410,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Twin Long Rods #2",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Spike Seadra",
     "attack": 1600,
     "defense": 1300,
@@ -59474,7 +59474,7 @@ var fusionDB = TAFFY([
   {
     "left": "Two-Mouth Darkruler",
     "right": "Larvae Moth",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -59562,7 +59562,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Ancient Jar",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -59571,7 +59571,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Arlownay",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -59580,7 +59580,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Bat",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -59589,7 +59589,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Bone Mouse",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -59598,7 +59598,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Brave Scizzar",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -59607,8 +59607,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Unknown Warrior Of Fiend",
-    "right": "Candle Of Fate",
+    "left": "Unknown Warrior of Fiend",
+    "right": "Candle of Fate",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -59616,7 +59616,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Charubin the Fire Knight",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -59625,7 +59625,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Cyber Commander",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -59634,7 +59634,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Dancing Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -59643,7 +59643,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Fiend Reflection #1",
     "output": "Punished Eagle",
     "attack": 2100,
@@ -59652,7 +59652,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Flame Swordsman",
     "output": "Vermillion Sparrow",
     "attack": 1900,
@@ -59661,7 +59661,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Griggle",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -59670,7 +59670,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Hinotama Soul",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -59679,7 +59679,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Holograh",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -59688,7 +59688,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Jinzo #7",
     "output": "Cyber Soldier",
     "attack": 1500,
@@ -59697,7 +59697,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Man Eater",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -59706,7 +59706,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Mech Mole Zombie",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -59715,7 +59715,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Morphing Jar",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -59724,8 +59724,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
-    "right": "Obese Marmot Of Nefariousness",
+    "left": "Unknown Warrior of Fiend",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Tiger Axe",
     "attack": 1300,
     "defense": 1100,
@@ -59733,8 +59733,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
-    "right": "Pot The Trick",
+    "left": "Unknown Warrior of Fiend",
+    "right": "Pot the Trick",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -59742,7 +59742,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Rainbow Flower",
     "output": "Bean Soldier",
     "attack": 1400,
@@ -59751,7 +59751,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Rock Ogre Grotto #2",
     "output": "Minomushi Warrior",
     "attack": 1300,
@@ -59760,7 +59760,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "White Dolphin",
     "output": "Wow Warrior",
     "attack": 1250,
@@ -59769,8 +59769,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "left": "Unknown Warrior of Fiend",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragon Statue",
     "attack": 1100,
     "defense": 900,
@@ -59778,7 +59778,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Unknown Warrior Of Fiend",
+    "left": "Unknown Warrior of Fiend",
     "right": "Wood Remains",
     "output": "Zombie Warrior",
     "attack": 1200,
@@ -59797,8 +59797,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Uraby",
-    "right": "Rhaimundos Of The Red Sword",
-    "output": "Sword Arm Of Dragon",
+    "right": "Rhaimundos of the Red Sword",
+    "output": "Sword Arm of Dragon",
     "attack": 2250,
     "defense": 2530,
     "type": "Monster",
@@ -59841,25 +59841,25 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Versago The Destroyer",
+    "left": "Versago the Destroyer",
     "right": "Arlownay",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Versago The Destroyer",
-    "right": "Lord Of The Lamp",
-    "output": "La Jinn The Mystical Genie of the Lamp",
+    "left": "Versago the Destroyer",
+    "right": "Lord of the Lamp",
+    "output": "La Jinn the Mystical Genie of the Lamp",
     "attack": 1800,
     "defense": 1000,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Versago The Destroyer",
+    "left": "Versago the Destroyer",
     "right": "Psychic Kappa",
     "output": "Kappa Avenger",
     "attack": 1200,
@@ -59868,7 +59868,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Versago The Destroyer",
+    "left": "Versago the Destroyer",
     "right": "Yamatano Dragon Scroll",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -59906,7 +59906,7 @@ var fusionDB = TAFFY([
   {
     "left": "Vishwar Randi",
     "right": "Blackland Fire Dragon",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -59960,7 +59960,7 @@ var fusionDB = TAFFY([
   {
     "left": "Vishwar Randi",
     "right": "Dragon Zombie",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -59995,7 +59995,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Vishwar Randi",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -60004,7 +60004,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Vishwar Randi",
-    "right": "Hourglass Of Life",
+    "right": "Hourglass of Life",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -60085,7 +60085,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Vishwar Randi",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -60103,7 +60103,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Vishwar Randi",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -60111,7 +60111,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wall Of Illusion",
+    "left": "Wall of Illusion",
     "right": "Baby Dragon",
     "output": "Koumori Dragon",
     "attack": 1500,
@@ -60120,7 +60120,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wall Of Illusion",
+    "left": "Wall of Illusion",
     "right": "Dark Rabbit",
     "output": "Chimera the Flying Mythical Beast",
     "attack": 2100,
@@ -60129,16 +60129,16 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wall Of Illusion",
+    "left": "Wall of Illusion",
     "right": "Mystic Lamp",
-    "output": "La Jinn The Mystical Genie of the Lamp",
+    "output": "La Jinn the Mystical Genie of the Lamp",
     "attack": 1800,
     "defense": 1000,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Warrior Of Tradition",
+    "left": "Warrior of Tradition",
     "right": "Destroyer Golem",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -60147,7 +60147,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Warrior Of Tradition",
+    "left": "Warrior of Tradition",
     "right": "Stone Armadiller",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -60157,7 +60157,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Water Element",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -60274,7 +60274,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Water Element",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -60310,7 +60310,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Water Element",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Spike Seadra",
     "attack": 1600,
     "defense": 1300,
@@ -60436,7 +60436,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Water Magician",
-    "right": "Hourglass Of Life",
+    "right": "Hourglass of Life",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -60535,7 +60535,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Waterdragon Fairy",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -60581,7 +60581,7 @@ var fusionDB = TAFFY([
   {
     "left": "Waterdragon Fairy",
     "right": "Enchanting Mermaid",
-    "output": "Amazon Of The Seas",
+    "output": "Amazon of the Seas",
     "attack": 1300,
     "defense": 1400,
     "type": "Monster",
@@ -60715,7 +60715,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Waterdragon Fairy",
-    "right": "Obese Marmot Of Nefariousness",
+    "right": "Obese Marmot of Nefariousness",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -60733,7 +60733,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Waterdragon Fairy",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -60787,7 +60787,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Waterdragon Fairy",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Spike Seadra",
     "attack": 1600,
     "defense": 1300,
@@ -60841,7 +60841,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Weather Control",
-    "right": "Lady Of Faith",
+    "right": "Lady of Faith",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -60850,7 +60850,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Weather Control",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -60995,7 +60995,7 @@ var fusionDB = TAFFY([
   {
     "left": "White Dolphin",
     "right": "Enchanting Mermaid",
-    "output": "Amazon Of The Seas",
+    "output": "Amazon of the Seas",
     "attack": 1300,
     "defense": 1400,
     "type": "Monster",
@@ -61030,7 +61030,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "White Dolphin",
-    "right": "Guardian Of The Labyrinth",
+    "right": "Guardian of the Labyrinth",
     "output": "Wow Warrior",
     "attack": 1250,
     "defense": 900,
@@ -61057,7 +61057,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "White Dolphin",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Wow Warrior",
     "attack": 1250,
     "defense": 900,
@@ -61201,7 +61201,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "White Dolphin",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Wow Warrior",
     "attack": 1250,
     "defense": 900,
@@ -61219,7 +61219,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "White Dolphin",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Wow Warrior",
     "attack": 1250,
     "defense": 900,
@@ -61254,7 +61254,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Ancient Brain",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -61263,7 +61263,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Ancient Jar",
     "output": "Stone D.",
     "attack": 2000,
@@ -61272,7 +61272,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Armed Ninja",
     "output": "Dragon Statue",
     "attack": 1100,
@@ -61281,7 +61281,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Armored Zombie",
     "output": "Dragon Zombie",
     "attack": 1600,
@@ -61290,7 +61290,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Bat",
     "output": "Metal Dragon",
     "attack": 1850,
@@ -61299,7 +61299,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Blue-Eyed Silver Zombie",
     "output": "Dragon Zombie",
     "attack": 1600,
@@ -61308,7 +61308,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Bolt Penguin",
     "output": "Thunder Dragon",
     "attack": 1600,
@@ -61317,7 +61317,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Brave Scizzar",
     "output": "Metal Dragon",
     "attack": 1850,
@@ -61326,7 +61326,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Clown Zombie",
     "output": "Dragon Zombie",
     "attack": 1600,
@@ -61335,8 +61335,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
-    "right": "Curtain Of The Dark Ones",
+    "left": "Wicked Dragon with the Ersatz Head",
+    "right": "Curtain of the Dark Ones",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -61344,7 +61344,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Cyber Soldier",
     "output": "Metal Dragon",
     "attack": 1850,
@@ -61353,17 +61353,17 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "D. Human",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
-    "right": "Dark King Of The Abyss",
+    "left": "Wicked Dragon with the Ersatz Head",
+    "right": "Dark King of the Abyss",
     "output": "Koumori Dragon",
     "attack": 1500,
     "defense": 1200,
@@ -61371,7 +61371,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Darkworld Thorns",
     "output": "B. Dragon Jungle King",
     "attack": 2100,
@@ -61380,7 +61380,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Dimensional Warrior",
     "output": "D. Human",
     "attack": 1300,
@@ -61389,7 +61389,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Disk Magician",
     "output": "Metal Dragon",
     "attack": 1850,
@@ -61398,7 +61398,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Dragoness the Wicked Knight",
     "output": "D. Human",
     "attack": 1300,
@@ -61407,7 +61407,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Eldeen",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -61416,7 +61416,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Electric Lizard",
     "output": "Thunder Dragon",
     "attack": 1600,
@@ -61425,7 +61425,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Electric Snake",
     "output": "Thunder Dragon",
     "attack": 1600,
@@ -61434,7 +61434,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Embryonic Beast",
     "output": "Koumori Dragon",
     "attack": 1500,
@@ -61443,7 +61443,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Fiend's Hand",
     "output": "Dragon Zombie",
     "attack": 1600,
@@ -61452,7 +61452,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Fire Reaper",
     "output": "Dragon Zombie",
     "attack": 1600,
@@ -61461,7 +61461,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Frog The Jam",
     "output": "Spike Seadra",
     "attack": 1600,
@@ -61470,8 +61470,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
-    "right": "Giga-Tech Wolf",
+    "left": "Wicked Dragon with the Ersatz Head",
+    "right": "Giga-tech Wolf",
     "output": "Metal Dragon",
     "attack": 1850,
     "defense": 1700,
@@ -61479,7 +61479,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Haniwa",
     "output": "Stone D.",
     "attack": 2000,
@@ -61488,7 +61488,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Holograh",
     "output": "Metal Dragon",
     "attack": 1850,
@@ -61497,7 +61497,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Hyosube",
     "output": "Spike Seadra",
     "attack": 1600,
@@ -61506,7 +61506,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Jellyfish",
     "output": "Spike Seadra",
     "attack": 1600,
@@ -61515,8 +61515,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
-    "right": "Kagemusha Of The Blue Flame",
+    "left": "Wicked Dragon with the Ersatz Head",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
     "defense": 900,
@@ -61524,7 +61524,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Kageningen",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
@@ -61533,7 +61533,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Kaminari Attack",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -61542,7 +61542,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "LaLa Li-oon",
     "output": "Thunder Dragon",
     "attack": 1600,
@@ -61551,7 +61551,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "M-Warrior #2",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
@@ -61560,7 +61560,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Mammoth Graveyard",
     "output": "Koumori Dragon",
     "attack": 1500,
@@ -61569,8 +61569,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
-    "right": "Mask Of Darkness",
+    "left": "Wicked Dragon with the Ersatz Head",
+    "right": "Mask of Darkness",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -61578,7 +61578,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Masked Clown",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
@@ -61587,7 +61587,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Mechanical Spider",
     "output": "Metal Dragon",
     "attack": 1850,
@@ -61596,7 +61596,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Mega Thunderball",
     "output": "Thunder Dragon",
     "attack": 1600,
@@ -61605,7 +61605,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Megirus Light",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -61614,7 +61614,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Morphing Jar",
     "output": "Stone D.",
     "attack": 2000,
@@ -61623,7 +61623,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Muka Muka",
     "output": "Stone D.",
     "attack": 2000,
@@ -61632,7 +61632,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Mystic Lamp",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -61641,7 +61641,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Mystical Sheep #2",
     "output": "Mystical Sheep #1",
     "attack": 1150,
@@ -61650,7 +61650,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Oscillo Hero #2",
     "output": "Thunder Dragon",
     "attack": 1600,
@@ -61659,7 +61659,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Petit Dragon",
     "output": "Koumori Dragon",
     "attack": 1500,
@@ -61668,7 +61668,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Phantom Dewan",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -61677,7 +61677,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Phantom Ghost",
     "output": "Dragon Zombie",
     "attack": 1600,
@@ -61686,8 +61686,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
-    "right": "Pot The Trick",
+    "left": "Wicked Dragon with the Ersatz Head",
+    "right": "Pot the Trick",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -61695,8 +61695,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
-    "right": "Sectarian Of Secrets",
+    "left": "Wicked Dragon with the Ersatz Head",
+    "right": "Sectarian of Secrets",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -61704,7 +61704,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Skull Servant",
     "output": "Dragon Zombie",
     "attack": 1600,
@@ -61713,7 +61713,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Solitude",
     "output": "Koumori Dragon",
     "attack": 1500,
@@ -61722,7 +61722,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "The Snake Hair",
     "output": "Dragon Zombie",
     "attack": 1600,
@@ -61731,7 +61731,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "The Wandering Doomed",
     "output": "Dragon Zombie",
     "attack": 1600,
@@ -61740,7 +61740,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Thunder Dragon",
     "output": "Twin-Headed Thunder Dragon",
     "attack": 2800,
@@ -61749,7 +61749,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Time Wizard",
     "output": "Thousand Dragon",
     "attack": 2400,
@@ -61758,7 +61758,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Twin Long Rods #2",
     "output": "Spike Seadra",
     "attack": 1600,
@@ -61767,8 +61767,8 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
-    "right": "Unknown Warrior Of Fiend",
+    "left": "Wicked Dragon with the Ersatz Head",
+    "right": "Unknown Warrior of Fiend",
     "output": "Dragon Statue",
     "attack": 1100,
     "defense": 900,
@@ -61776,7 +61776,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Water Element",
     "output": "Spike Seadra",
     "attack": 1600,
@@ -61785,7 +61785,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Waterdragon Fairy",
     "output": "Spike Seadra",
     "attack": 1600,
@@ -61794,7 +61794,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Wood Clown",
     "output": "Dragon Statue",
     "attack": 1100,
@@ -61803,7 +61803,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wicked Dragon With The Ersatz Head",
+    "left": "Wicked Dragon with the Ersatz Head",
     "right": "Yamatano Dragon Scroll",
     "output": "Koumori Dragon",
     "attack": 1500,
@@ -61823,7 +61823,7 @@ var fusionDB = TAFFY([
   {
     "left": "Wicked Mirror",
     "right": "Tentacle Plant",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -61894,7 +61894,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Wing Egg Elf",
-    "right": "Goddess Of Whim",
+    "right": "Goddess of Whim",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -61903,7 +61903,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Wing Egg Elf",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -61939,7 +61939,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Wing Egg Elf",
-    "right": "Hourglass Of Life",
+    "right": "Hourglass of Life",
     "output": "Mystical Elf",
     "attack": 800,
     "defense": 2000,
@@ -62002,7 +62002,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Wing Egg Elf",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Dark Elf",
     "attack": 2000,
     "defense": 800,
@@ -62011,7 +62011,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Wing Egg Elf",
-    "right": "Supporter In The Shadows",
+    "right": "Supporter in the Shadows",
     "output": "Celtic Guardian",
     "attack": 1400,
     "defense": 1200,
@@ -62020,7 +62020,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Wing Egg Elf",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Celtic Guardian",
     "attack": 1400,
     "defense": 1200,
@@ -62164,7 +62164,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Winged Egg of New Life",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Dark Witch",
     "attack": 1800,
     "defense": 1700,
@@ -62217,7 +62217,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Armed Ninja",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
@@ -62226,7 +62226,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Beautiful Beast Trainer",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -62235,7 +62235,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Celtic Guardian",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -62244,7 +62244,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Crow Goblin",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -62253,7 +62253,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Droll Bird",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -62262,7 +62262,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Eyearmor",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -62271,7 +62271,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Flower Wolf",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -62280,7 +62280,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Garvas",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -62289,7 +62289,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Griffore",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -62298,7 +62298,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Hibikime",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -62307,7 +62307,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Hyo",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -62316,8 +62316,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
-    "right": "Kagemusha Of The Blue Flame",
+    "left": "Wings of Wicked Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -62325,7 +62325,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Kurama",
     "output": "Mavelus",
     "attack": 1300,
@@ -62334,7 +62334,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "M-Warrior #1",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -62343,7 +62343,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "M-Warrior #2",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -62352,7 +62352,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Mavelus",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -62361,7 +62361,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Monstrous Bird",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -62370,7 +62370,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Moon Envoy",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -62379,7 +62379,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Mushroom Man #2",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -62388,7 +62388,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Mystic Horseman",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -62397,7 +62397,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Oscillo Hero",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -62406,8 +62406,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
-    "right": "Princess Of Tsurugi",
+    "left": "Wings of Wicked Flame",
+    "right": "Princess of Tsurugi",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -62415,7 +62415,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Silver Fang",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -62424,7 +62424,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Skull Red Bird",
     "output": "Crimson Sunbird",
     "attack": 2300,
@@ -62433,8 +62433,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
-    "right": "Swordsman From A Foreign Land",
+    "left": "Wings of Wicked Flame",
+    "right": "Swordsman from a Foreign Land",
     "output": "Flame Swordsman",
     "attack": 1800,
     "defense": 1600,
@@ -62442,7 +62442,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Vishwar Randi",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -62451,7 +62451,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Wolf",
     "output": "Flame Cerebrus",
     "attack": 2100,
@@ -62460,7 +62460,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wings Of Wicked Flame",
+    "left": "Wings of Wicked Flame",
     "right": "Wood Clown",
     "output": "Flame Swordsman",
     "attack": 1800,
@@ -62469,7 +62469,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Witch Of The Black Forest",
+    "left": "Witch of the Black Forest",
     "right": "Celtic Guardian",
     "output": "Dark Elf",
     "attack": 2000,
@@ -62478,7 +62478,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Witch Of The Black Forest",
+    "left": "Witch of the Black Forest",
     "right": "Fiend's Hand",
     "output": "Magical Ghost",
     "attack": 1300,
@@ -62487,7 +62487,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Witch Of The Black Forest",
+    "left": "Witch of the Black Forest",
     "right": "Hoshiningen",
     "output": "Dark Witch",
     "attack": 1800,
@@ -62496,7 +62496,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Witch Of The Black Forest",
+    "left": "Witch of the Black Forest",
     "right": "Mon Larvas",
     "output": "Nekogal #2",
     "attack": 1900,
@@ -62505,7 +62505,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Witch Of The Black Forest",
+    "left": "Witch of the Black Forest",
     "right": "Morphing Jar",
     "output": "Mystical Sand",
     "attack": 2100,
@@ -62514,7 +62514,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Witch Of The Black Forest",
+    "left": "Witch of the Black Forest",
     "right": "Petit Angel",
     "output": "Dark Witch",
     "attack": 1800,
@@ -62523,8 +62523,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Witch Of The Black Forest",
-    "right": "Pot The Trick",
+    "left": "Witch of the Black Forest",
+    "right": "Pot the Trick",
     "output": "Mystical Sand",
     "attack": 2100,
     "defense": 1700,
@@ -62532,7 +62532,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Witch Of The Black Forest",
+    "left": "Witch of the Black Forest",
     "right": "Tentacle Plant",
     "output": "Queen of Autumn Leaves",
     "attack": 1800,
@@ -62541,7 +62541,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Witch Of The Black Forest",
+    "left": "Witch of the Black Forest",
     "right": "Thunder Dragon",
     "output": "Kaminari Attack",
     "attack": 1900,
@@ -62633,7 +62633,7 @@ var fusionDB = TAFFY([
   {
     "left": "Witty Phantom",
     "right": "Arlownay",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -62713,7 +62713,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Wolf",
-    "right": "Goddess With The Third Eye",
+    "right": "Goddess with the Third Eye",
     "output": "Nekogal #2",
     "attack": 1900,
     "defense": 2000,
@@ -62821,7 +62821,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Wolf",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Flame Cerebrus",
     "attack": 2100,
     "defense": 1800,
@@ -62938,7 +62938,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Wood Clown",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Minomushi Warrior",
     "attack": 1300,
     "defense": 1200,
@@ -62974,7 +62974,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Wood Clown",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Dragon Statue",
     "attack": 1100,
     "defense": 900,
@@ -62983,7 +62983,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Wood Clown",
-    "right": "Wings Of Wicked Flame",
+    "right": "Wings of Wicked Flame",
     "output": "Charubin the Fire Knight",
     "attack": 1100,
     "defense": 800,
@@ -62993,7 +62993,7 @@ var fusionDB = TAFFY([
   {
     "left": "Wood Remains",
     "right": "Abyss Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -63020,7 +63020,7 @@ var fusionDB = TAFFY([
   {
     "left": "Wood Remains",
     "right": "Dark Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -63029,7 +63029,7 @@ var fusionDB = TAFFY([
   {
     "left": "Wood Remains",
     "right": "Darkworld Thorns",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -63047,7 +63047,7 @@ var fusionDB = TAFFY([
   {
     "left": "Wood Remains",
     "right": "Griggle",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -63065,7 +63065,7 @@ var fusionDB = TAFFY([
   {
     "left": "Wood Remains",
     "right": "Laughing Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -63074,7 +63074,7 @@ var fusionDB = TAFFY([
   {
     "left": "Wood Remains",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -63083,7 +63083,7 @@ var fusionDB = TAFFY([
   {
     "left": "Wood Remains",
     "right": "Man Eater",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -63092,7 +63092,7 @@ var fusionDB = TAFFY([
   {
     "left": "Wood Remains",
     "right": "Mushroom Man",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -63109,7 +63109,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Wood Remains",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -63119,7 +63119,7 @@ var fusionDB = TAFFY([
   {
     "left": "Wood Remains",
     "right": "Rainbow Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -63127,7 +63127,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Wood Remains",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -63137,7 +63137,7 @@ var fusionDB = TAFFY([
   {
     "left": "Wood Remains",
     "right": "Tentacle Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -63145,7 +63145,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Wood Remains",
-    "right": "Unknown Warrior Of Fiend",
+    "right": "Unknown Warrior of Fiend",
     "output": "Zombie Warrior",
     "attack": 1200,
     "defense": 900,
@@ -63218,23 +63218,23 @@ var fusionDB = TAFFY([
   {
     "left": "Wow Warrior",
     "right": "Mystical Elf",
-    "output": "Amazon Of The Seas",
+    "output": "Amazon of the Seas",
     "attack": 1300,
     "defense": 1400,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Wretched Ghost Of The Attic",
+    "left": "Wretched Ghost of the Attic",
     "right": "Arlownay",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": true
   },
   {
-    "left": "Wretched Ghost Of The Attic",
+    "left": "Wretched Ghost of the Attic",
     "right": "Baby Dragon",
     "output": "Koumori Dragon",
     "attack": 1500,
@@ -63243,7 +63243,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wretched Ghost Of The Attic",
+    "left": "Wretched Ghost of the Attic",
     "right": "Dancing Elf",
     "output": "Dark Elf",
     "attack": 2000,
@@ -63252,16 +63252,16 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wretched Ghost Of The Attic",
+    "left": "Wretched Ghost of the Attic",
     "right": "Dark Plant",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
     "untested": false
   },
   {
-    "left": "Wretched Ghost Of The Attic",
+    "left": "Wretched Ghost of the Attic",
     "right": "Fairy Dragon",
     "output": "Koumori Dragon",
     "attack": 1500,
@@ -63270,8 +63270,8 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wretched Ghost Of The Attic",
-    "right": "Fungi Of The Musk",
+    "left": "Wretched Ghost of the Attic",
+    "right": "Fungi of the Musk",
     "output": "Darkworld Thorns",
     "attack": 1200,
     "defense": 900,
@@ -63279,7 +63279,7 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wretched Ghost Of The Attic",
+    "left": "Wretched Ghost of the Attic",
     "right": "Lesser Dragon",
     "output": "Koumori Dragon",
     "attack": 1500,
@@ -63288,7 +63288,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wretched Ghost Of The Attic",
+    "left": "Wretched Ghost of the Attic",
     "right": "Petit Dragon",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
@@ -63297,7 +63297,7 @@ var fusionDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Wretched Ghost Of The Attic",
+    "left": "Wretched Ghost of the Attic",
     "right": "Psychic Kappa",
     "output": "Kappa Avenger",
     "attack": 1200,
@@ -63306,9 +63306,9 @@ var fusionDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Wretched Ghost Of The Attic",
+    "left": "Wretched Ghost of the Attic",
     "right": "Rainbow Flower",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -63398,7 +63398,7 @@ var fusionDB = TAFFY([
   {
     "left": "Yamatano Dragon Scroll",
     "right": "Axe Raider",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -63461,7 +63461,7 @@ var fusionDB = TAFFY([
   {
     "left": "Yamatano Dragon Scroll",
     "right": "Celtic Guardian",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -63496,7 +63496,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Curtain Of The Dark Ones",
+    "right": "Curtain of the Dark Ones",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -63514,7 +63514,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Dark King Of The Abyss",
+    "right": "Dark King of the Abyss",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -63604,7 +63604,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Fungi Of The Musk",
+    "right": "Fungi of the Musk",
     "output": "Koumori Dragon",
     "attack": 1500,
     "defense": 1200,
@@ -63622,7 +63622,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Guardian Of The Sea",
+    "right": "Guardian of the Sea",
     "output": "Spike Seadra",
     "attack": 1600,
     "defense": 1300,
@@ -63703,7 +63703,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Kagemusha Of The Blue Flame",
+    "right": "Kagemusha of the Blue Flame",
     "output": "Dragon Statue",
     "attack": 1100,
     "defense": 900,
@@ -63740,7 +63740,7 @@ var fusionDB = TAFFY([
   {
     "left": "Yamatano Dragon Scroll",
     "right": "Karbonala Warrior",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -63784,7 +63784,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Lord Of Zemia",
+    "right": "Lord of Zemia",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -63811,7 +63811,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Magician Of Faith",
+    "right": "Magician of Faith",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -63991,7 +63991,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Pot The Trick",
+    "right": "Pot the Trick",
     "output": "Stone D.",
     "attack": 2000,
     "defense": 2300,
@@ -64000,7 +64000,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Princess Of Tsurugi",
+    "right": "Princess of Tsurugi",
     "output": "Dragoness the Wicked Knight",
     "attack": 1200,
     "defense": 900,
@@ -64009,7 +64009,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Protector Of The Throne",
+    "right": "Protector of the Throne",
     "output": "Dragon Statue",
     "attack": 1100,
     "defense": 900,
@@ -64018,8 +64018,8 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Pumpking The King Of Ghosts",
-    "output": "Curse Of Dragon",
+    "right": "Pumpking the King of Ghosts",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -64036,7 +64036,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Rhaimundos Of The Red Sword",
+    "right": "Rhaimundos of the Red Sword",
     "output": "D. Human",
     "attack": 1300,
     "defense": 1100,
@@ -64054,7 +64054,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Sectarian Of Secrets",
+    "right": "Sectarian of Secrets",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -64073,7 +64073,7 @@ var fusionDB = TAFFY([
   {
     "left": "Yamatano Dragon Scroll",
     "right": "Skelgon",
-    "output": "Curse Of Dragon",
+    "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
     "type": "Monster",
@@ -64099,7 +64099,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Dragon Statue",
     "attack": 1100,
     "defense": 900,
@@ -64118,7 +64118,7 @@ var fusionDB = TAFFY([
   {
     "left": "Yamatano Dragon Scroll",
     "right": "The Judgement Hand",
-    "output": "Sword Arm Of Dragon",
+    "output": "Sword Arm of Dragon",
     "attack": 1750,
     "defense": 2030,
     "type": "Monster",
@@ -64126,7 +64126,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "The Shadow Who Controls The Dark",
+    "right": "The Shadow Who Controls the Dark",
     "output": "Koumori Dragon",
     "attack": 1500,
     "defense": 1200,
@@ -64180,7 +64180,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Versago The Destroyer",
+    "right": "Versago the Destroyer",
     "output": "Blackland Fire Dragon",
     "attack": 1500,
     "defense": 800,
@@ -64189,7 +64189,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yamatano Dragon Scroll",
-    "right": "Wicked Dragon With The Ersatz Head",
+    "right": "Wicked Dragon with the Ersatz Head",
     "output": "Koumori Dragon",
     "attack": 1500,
     "defense": 1200,
@@ -64234,7 +64234,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yashinoki",
-    "right": "Air Marmot Of Nefariousness",
+    "right": "Air Marmot of Nefariousness",
     "output": "Flower Wolf",
     "attack": 1800,
     "defense": 1400,
@@ -64298,7 +64298,7 @@ var fusionDB = TAFFY([
   {
     "left": "Yashinoki",
     "right": "Flame Ghost",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -64315,7 +64315,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Yashinoki",
-    "right": "Graveyard And The Hand Of Invitation",
+    "right": "Graveyard and the Hand of Invitation",
     "output": "Wood Remains",
     "attack": 1000,
     "defense": 900,
@@ -64370,7 +64370,7 @@ var fusionDB = TAFFY([
   {
     "left": "Yashinoki",
     "right": "Monster Eye",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -64397,7 +64397,7 @@ var fusionDB = TAFFY([
   {
     "left": "Yashinoki",
     "right": "The Drdek",
-    "output": "Rose Spectre Of Dunn",
+    "output": "Rose Spectre of Dunn",
     "attack": 2000,
     "defense": 1800,
     "type": "Monster",
@@ -64487,7 +64487,7 @@ var fusionDB = TAFFY([
   {
     "left": "Zombie Warrior",
     "right": "Abyss Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -64496,7 +64496,7 @@ var fusionDB = TAFFY([
   {
     "left": "Zombie Warrior",
     "right": "Arlownay",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -64514,7 +64514,7 @@ var fusionDB = TAFFY([
   {
     "left": "Zombie Warrior",
     "right": "Barrel Lily",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -64541,7 +64541,7 @@ var fusionDB = TAFFY([
   {
     "left": "Zombie Warrior",
     "right": "Dark Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -64586,7 +64586,7 @@ var fusionDB = TAFFY([
   {
     "left": "Zombie Warrior",
     "right": "Laughing Flower",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -64613,7 +64613,7 @@ var fusionDB = TAFFY([
   {
     "left": "Zombie Warrior",
     "right": "Mammoth Graveyard",
-    "output": "Great Mammoth Of Goldfine",
+    "output": "Great Mammoth of Goldfine",
     "attack": 2200,
     "defense": 1800,
     "type": "Monster",
@@ -64622,7 +64622,7 @@ var fusionDB = TAFFY([
   {
     "left": "Zombie Warrior",
     "right": "Man-Eating Plant",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -64631,7 +64631,7 @@ var fusionDB = TAFFY([
   {
     "left": "Zombie Warrior",
     "right": "Man Eater",
-    "output": "Pumpking The King Of Ghosts",
+    "output": "Pumpking the King of Ghosts",
     "attack": 1800,
     "defense": 2000,
     "type": "Monster",
@@ -64693,7 +64693,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Zombie Warrior",
-    "right": "Right Leg Of The Forbidden One",
+    "right": "Right Leg of the Forbidden One",
     "output": "Magical Ghost",
     "attack": 1300,
     "defense": 1400,
@@ -64702,7 +64702,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Zombie Warrior",
-    "right": "Swordsman From A Foreign Land",
+    "right": "Swordsman from a Foreign Land",
     "output": "Armored Zombie",
     "attack": 1500,
     "defense": 0,
