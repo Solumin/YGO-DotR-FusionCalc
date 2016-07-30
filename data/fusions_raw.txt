@@ -139,7 +139,6 @@ Amazon of the Seas (1300/1400) 475
 Firegrass (700/600) = Queen of Autumn Leaves (1800/1500)
 *** Muka Muka (600/300) = Mystical Sand (2100/1700)
 *** Stone Armadiller (800/1200) = Mystical Sand (2100/1700)
-*** Amphibious Bugroth (1850/1300) 639
 
 Ameba (300/350) 589
 -----------------------------------------

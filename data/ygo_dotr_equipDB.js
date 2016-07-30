@@ -1,11 +1,5 @@
 var equipDB = TAFFY([
   {
-    "left": "Amazon of the Seas",
-    "right": "Amphibious Bugroth (1850/1300)",
-    "type": "Equippable",
-    "untested": true
-  },
-  {
     "left": "Ancient Jar",
     "right": "Black Pendant",
     "type": "Equippable",

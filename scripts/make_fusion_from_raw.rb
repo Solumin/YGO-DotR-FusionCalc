@@ -110,4 +110,4 @@ File.open("data/equips.csv", "w") {|file|
     file.write(equips.map{|f| f.values.join ";"}.join "\n")
 }
 
-puts "Wrote JSON DB js file"
+puts "Wrote JSON, JS and CSV files"
