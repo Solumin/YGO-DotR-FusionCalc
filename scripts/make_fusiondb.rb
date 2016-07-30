@@ -1,6 +1,7 @@
 require "json"
 
 def make_entry(fields)
+    raise ArgumentError, "Expected 7 fields #{fields}" unless fields.count == 7
     {
         :left => fields[0],
         :right => fields[1],
