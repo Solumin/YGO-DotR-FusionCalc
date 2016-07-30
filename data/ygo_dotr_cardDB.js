@@ -4969,7 +4969,7 @@ var cardDB = TAFFY([
   },
   {
     "number": "414",
-    "name": "Kuwagata ╬▒",
+    "name": "Kuwagata alpha",
     "deckcost": "23",
     "cardtype": "Monster",
     "attribute": "EARTH",

@@ -1,11 +1,5 @@
 var equipDB = TAFFY([
   {
-    "left": "Amazon Of The Seas",
-    "right": "Amphibious Bugroth (1850/1300)",
-    "type": "Equippable",
-    "untested": true
-  },
-  {
     "left": "Ancient Jar",
     "right": "Black Pendant",
     "type": "Equippable",
@@ -19,7 +13,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Armored Zombie",
-    "right": "Axe Of Despair",
+    "right": "Axe of Despair",
     "type": "Equippable",
     "untested": true
   },
@@ -31,7 +25,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "B. Dragon Jungle King",
-    "right": "Horn Of Light",
+    "right": "Horn of Light",
     "type": "Equippable",
     "untested": false
   },
@@ -55,13 +49,13 @@ var equipDB = TAFFY([
   },
   {
     "left": "Baby Dragon",
-    "right": "Horn Of Light",
+    "right": "Horn of Light",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Battle Steer",
-    "right": "Kunai With Chain",
+    "right": "Kunai with Chain",
     "type": "Equippable",
     "untested": true
   },
@@ -79,13 +73,13 @@ var equipDB = TAFFY([
   },
   {
     "left": "Blackland Fire Dragon",
-    "right": "Horn Of The Unicorn",
+    "right": "Horn of the Unicorn",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Blackland Fire Dragon",
-    "right": "Nails Of Bane",
+    "right": "Nails of Bane",
     "type": "Equippable",
     "untested": false
   },
@@ -115,7 +109,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Celtic Guardian",
-    "right": "Kunai With Chain",
+    "right": "Kunai with Chain",
     "type": "Equippable",
     "untested": false
   },
@@ -156,26 +150,26 @@ var equipDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "Dark Energy",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Curse Of Dragon",
+    "left": "Curse of Dragon",
     "right": "Dragon Treasure",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Curse Of Dragon",
-    "right": "Horn Of The Unicorn",
+    "left": "Curse of Dragon",
+    "right": "Horn of the Unicorn",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Curse Of Dragon",
-    "right": "Nails Of Bane",
+    "left": "Curse of Dragon",
+    "right": "Nails of Bane",
     "type": "Equippable",
     "untested": false
   },
@@ -235,7 +229,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Dancing Elf",
-    "right": "Silver Bow And Arrow",
+    "right": "Silver Bow and Arrow",
     "type": "Equippable",
     "untested": false
   },
@@ -276,7 +270,7 @@ var equipDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Dark King Of The Abyss",
+    "left": "Dark King of the Abyss",
     "right": "Black Pendant",
     "type": "Equippable",
     "untested": true
@@ -349,7 +343,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Dark Witch",
-    "right": "Horn Of Light",
+    "right": "Horn of Light",
     "type": "Equippable",
     "untested": false
   },
@@ -361,7 +355,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Dark Witch",
-    "right": "Silver Bow & Arrow",
+    "right": "Silver Bow and Arrow",
     "type": "Equippable",
     "untested": false
   },
@@ -379,7 +373,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Darkfire Dragon",
-    "right": "Nails Of Bane",
+    "right": "Nails of Bane",
     "type": "Equippable",
     "untested": false
   },
@@ -396,7 +390,7 @@ var equipDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Doma the Angel of Silence",
+    "left": "Doma The Angel of Silence",
     "right": "Black Pendant",
     "type": "Equippable",
     "untested": true
@@ -421,7 +415,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Eldeen",
-    "right": "Book Of Secret Arts",
+    "right": "Book of Secret Arts",
     "type": "Equippable",
     "untested": false
   },
@@ -475,7 +469,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Fairy's Gift",
-    "right": "Book Of Secret Arts",
+    "right": "Book of Secret Arts",
     "type": "Equippable",
     "untested": false
   },
@@ -517,37 +511,37 @@ var equipDB = TAFFY([
   },
   {
     "left": "Flame Swordsman",
-    "right": "Kunai With Chain",
+    "right": "Kunai with Chain",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Gaia The Dragon Champion",
+    "left": "Gaia the Dragon Champion",
     "right": "Dragon Treasure",
     "type": "Equippable",
     "untested": true
   },
   {
     "left": "Gaia The Fierce Knight",
-    "right": "Kunai With Chain",
+    "right": "Kunai with Chain",
     "type": "Equippable",
     "untested": true
   },
   {
     "left": "Gaia The Fierce Knight",
-    "right": "Sword Of Dark Destruction",
+    "right": "Sword of Dark Destruction",
     "type": "Equippable",
     "untested": true
   },
   {
     "left": "Garoozis",
-    "right": "Axe Of Despair",
+    "right": "Axe of Despair",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Garoozis",
-    "right": "Kunai With Chain",
+    "right": "Kunai with Chain",
     "type": "Equippable",
     "untested": false
   },
@@ -559,13 +553,13 @@ var equipDB = TAFFY([
   },
   {
     "left": "Gate Guardian",
-    "right": "Sword Of Destruction",
+    "right": "Sword of Dark Destruction",
     "type": "Equippable",
     "untested": true
   },
   {
     "left": "Gemini Elf",
-    "right": "Book Of Secret Arts",
+    "right": "Book of Secret Arts",
     "type": "Equippable",
     "untested": true
   },
@@ -588,50 +582,50 @@ var equipDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Giltia The Dark Kinght",
-    "right": "Kunai With Chain",
+    "left": "Giltia the D. Knight",
+    "right": "Kunai with Chain",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Goddess Of Whim",
+    "left": "Goddess of Whim",
     "right": "Bright Castle",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
+    "left": "Goddess of Whim",
     "right": "Crush Card",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
+    "left": "Goddess of Whim",
     "right": "Cyber Shield",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
+    "left": "Goddess of Whim",
     "right": "Electro-Whip",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
+    "left": "Goddess of Whim",
     "right": "Enchanted Javelin",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
+    "left": "Goddess of Whim",
     "right": "Malevolent Nuzzler",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Goddess Of Whim",
-    "right": "Silver Bow And Arrow",
+    "left": "Goddess of Whim",
+    "right": "Silver Bow and Arrow",
     "type": "Equippable",
     "untested": false
   },
@@ -648,7 +642,7 @@ var equipDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Great Mammoth Of Goldfine",
+    "left": "Great Mammoth of Goldfine",
     "right": "Beast Fangs",
     "type": "Equippable",
     "untested": true
@@ -667,25 +661,25 @@ var equipDB = TAFFY([
   },
   {
     "left": "Greenkappa",
-    "right": "Kunai With Chain",
+    "right": "Kunai with Chain",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Greenkappa",
-    "right": "Sword Of Dark Destruction",
+    "right": "Sword of Dark Destruction",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Greenkappa",
-    "right": "Sword Of Dragon's Soul",
+    "right": "Sword of Dragon's Soul",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Harpie Lady Sisters",
-    "right": "Cyber Shiled",
+    "right": "Cyber Shield",
     "type": "Equippable",
     "untested": false
   },
@@ -745,13 +739,13 @@ var equipDB = TAFFY([
   },
   {
     "left": "Ice Water",
-    "right": "Power Of Kaishin",
+    "right": "Power of Kaishin",
     "type": "Equippable",
     "untested": true
   },
   {
     "left": "Ill Witch",
-    "right": "Book Of Secret Arts",
+    "right": "Book of Secret Arts",
     "type": "Equippable",
     "untested": false
   },
@@ -781,7 +775,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Injection Fairy Lily",
-    "right": "Book Of Secret Arts",
+    "right": "Book of Secret Arts",
     "type": "Equippable",
     "untested": false
   },
@@ -841,13 +835,13 @@ var equipDB = TAFFY([
   },
   {
     "left": "Kaiser Dragon",
-    "right": "Horn Of Light",
+    "right": "Horn of Light",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Kaiser Dragon",
-    "right": "Spring Of Rebirth",
+    "right": "Spring of Rebirth",
     "type": "Equippable",
     "untested": false
   },
@@ -865,7 +859,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Korogashi",
-    "right": "Insect Armor With Laser Cannon",
+    "right": "Insect Armor with Laser Cannon",
     "type": "Equippable",
     "untested": false
   },
@@ -895,13 +889,13 @@ var equipDB = TAFFY([
   },
   {
     "left": "Koumori Dragon",
-    "right": "Horn Of The Unicorn",
+    "right": "Horn of the Unicorn",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Koumori Dragon",
-    "right": "Nails Of Bane",
+    "right": "Nails of Bane",
     "type": "Equippable",
     "untested": false
   },
@@ -919,7 +913,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "LaMoon",
-    "right": "Book Of Secret Arts",
+    "right": "Book of Secret Arts",
     "type": "Equippable",
     "untested": false
   },
@@ -943,7 +937,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "LaMoon",
-    "right": "Horn Of Light",
+    "right": "Horn of Light",
     "type": "Equippable",
     "untested": false
   },
@@ -966,44 +960,44 @@ var equipDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Magician Of Faith",
-    "right": "Book Of Secret Arts",
+    "left": "Magician of Faith",
+    "right": "Book of Secret Arts",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Bright Castle",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Crush Card",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Cyber Shield",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Electro-Whip",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Magician Of Faith",
+    "left": "Magician of Faith",
     "right": "Malevolent Nuzzler",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Maiden of the Moonlight",
-    "right": "Book Of Secret Arts",
+    "right": "Book of Secret Arts",
     "type": "Equippable",
     "untested": false
   },
@@ -1045,7 +1039,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Manga Ryu-Ran",
-    "right": "Horn Of Light",
+    "right": "Horn of Light",
     "type": "Equippable",
     "untested": false
   },
@@ -1069,7 +1063,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Metal Guardian",
-    "right": "Axe Of Despair",
+    "right": "Axe of Despair",
     "type": "Equippable",
     "untested": true
   },
@@ -1105,19 +1099,19 @@ var equipDB = TAFFY([
   },
   {
     "left": "Mikazukinoyaiba",
-    "right": "Horn Of The Unicorn",
+    "right": "Horn of the Unicorn",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Mikazukinoyaiba",
-    "right": "Nails Of Bane",
+    "right": "Nails of Bane",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Millennium Golem",
-    "right": "Axe Of Despair",
+    "right": "Axe of Despair",
     "type": "Equippable",
     "untested": true
   },
@@ -1147,7 +1141,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Mystical Elf",
-    "right": "Book Of Secret Arts",
+    "right": "Book of Secret Arts",
     "type": "Equippable",
     "untested": false
   },
@@ -1213,13 +1207,13 @@ var equipDB = TAFFY([
   },
   {
     "left": "Mystical Sand",
-    "right": "Spring Of Rebirth",
+    "right": "Spring of Rebirth",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Nekogal #2",
-    "right": "Axe Of Despair",
+    "right": "Axe of Despair",
     "type": "Equippable",
     "untested": true
   },
@@ -1284,7 +1278,7 @@ var equipDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Pumpking The King Of Ghosts",
+    "left": "Pumpking the King of Ghosts",
     "right": "Beast Fangs",
     "type": "Equippable",
     "untested": true
@@ -1363,13 +1357,13 @@ var equipDB = TAFFY([
   },
   {
     "left": "Red-Eyes B. Dragon",
-    "right": "Horn Of The Unicorn",
+    "right": "Horn of the Unicorn",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Red-Eyes B. Dragon",
-    "right": "Nails Of Bane",
+    "right": "Nails of Bane",
     "type": "Equippable",
     "untested": false
   },
@@ -1381,7 +1375,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Red-Eyes Black Metal Dragon",
-    "right": "Horn Of The Unicorn",
+    "right": "Horn of the Unicorn",
     "type": "Equippable",
     "untested": false
   },
@@ -1393,18 +1387,18 @@ var equipDB = TAFFY([
   },
   {
     "left": "Red-Eyes Black Metal Dragon",
-    "right": "Nails Of Bane",
+    "right": "Nails of Bane",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Rogue Doll",
-    "right": "Book Of Secret Arts",
+    "right": "Book of Secret Arts",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Rose Spectre Of Dunn",
+    "left": "Rose Spectre of Dunn",
     "right": "Electro-Whip",
     "type": "Equippable",
     "untested": true
@@ -1417,7 +1411,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Ryu-Ran",
-    "right": "Horn Of Light",
+    "right": "Horn of Light",
     "type": "Equippable",
     "untested": false
   },
@@ -1441,13 +1435,13 @@ var equipDB = TAFFY([
   },
   {
     "left": "Seiyaryu",
-    "right": "Horn Of Light",
+    "right": "Horn of Light",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Seiyaryu",
-    "right": "Spring Of Rebirth",
+    "right": "Spring of Rebirth",
     "type": "Equippable",
     "untested": false
   },
@@ -1477,7 +1471,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Skull Knight",
-    "right": "Horn Of The Unicorn",
+    "right": "Horn of the Unicorn",
     "type": "Equippable",
     "untested": false
   },
@@ -1495,7 +1489,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Solitude",
-    "right": "Axe Of Despair",
+    "right": "Axe of Despair",
     "type": "Equippable",
     "untested": true
   },
@@ -1524,8 +1518,8 @@ var equipDB = TAFFY([
     "untested": true
   },
   {
-    "left": "Spirit Of The Mountain",
-    "right": "Book Of Secret Arts",
+    "left": "Spirit of the Mountain",
+    "right": "Book of Secret Arts",
     "type": "Equippable",
     "untested": true
   },
@@ -1573,7 +1567,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Summoned Skull",
-    "right": "Horn Of The Unicorn",
+    "right": "Horn of the Unicorn",
     "type": "Equippable",
     "untested": true
   },
@@ -1585,43 +1579,43 @@ var equipDB = TAFFY([
   },
   {
     "left": "Summoned Skull",
-    "right": "Sword Of Dark Destruction",
+    "right": "Sword of Dark Destruction",
     "type": "Equippable",
     "untested": true
   },
   {
     "left": "Swamp Battleguard",
-    "right": "Kunai With Chain",
+    "right": "Kunai with Chain",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Beast Fangs",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Sword Arm Of Dragon",
+    "left": "Sword Arm of Dragon",
     "right": "Dragon Treasure",
     "type": "Equippable",
     "untested": true
   },
   {
     "left": "Swordstalker",
-    "right": "Sword Of Dark Destruction",
+    "right": "Sword of Dark Destruction",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Terra The Terrible",
-    "right": "Axe Of Despair",
+    "left": "Terra the Terrible",
+    "right": "Axe of Despair",
     "type": "Equippable",
     "untested": true
   },
   {
     "left": "The Unhappy Maiden",
-    "right": "Book Of Secret Arts",
+    "right": "Book of Secret Arts",
     "type": "Equippable",
     "untested": false
   },
@@ -1675,13 +1669,13 @@ var equipDB = TAFFY([
   },
   {
     "left": "Thunder Dragon",
-    "right": "Horn Of Light",
+    "right": "Horn of Light",
     "type": "Equippable",
     "untested": false
   },
   {
     "left": "Thunder Dragon",
-    "right": "Spring Of Rebirth",
+    "right": "Spring of Rebirth",
     "type": "Equippable",
     "untested": false
   },
@@ -1693,36 +1687,36 @@ var equipDB = TAFFY([
   },
   {
     "left": "Turu-Purun",
-    "right": "Power Of Kaishin",
+    "right": "Power of Kaishin",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Twin Headed Thunder Dragon",
+    "left": "Twin-Headed Thunder Dragon",
     "right": "Beast Fangs",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Twin Headed Thunder Dragon",
+    "left": "Twin-Headed Thunder Dragon",
     "right": "Dark Energy",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Twin Headed Thunder Dragon",
+    "left": "Twin-Headed Thunder Dragon",
     "right": "Dragon Treasure",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Twin Headed Thunder Dragon",
-    "right": "Horn Of Light",
+    "left": "Twin-Headed Thunder Dragon",
+    "right": "Horn of Light",
     "type": "Equippable",
     "untested": true
   },
   {
-    "left": "Twin Headed Thunder Dragon",
+    "left": "Twin-Headed Thunder Dragon",
     "right": "Invigoration",
     "type": "Equippable",
     "untested": true
@@ -1741,7 +1735,7 @@ var equipDB = TAFFY([
   },
   {
     "left": "Twin-Headed Behemoth",
-    "right": "Horn Of Light",
+    "right": "Horn of Light",
     "type": "Equippable",
     "untested": false
   },
@@ -1764,7 +1758,7 @@ var equipDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Warrior Of Tradition",
+    "left": "Warrior of Tradition",
     "right": "Electro-Whip",
     "type": "Equippable",
     "untested": true
@@ -1776,13 +1770,13 @@ var equipDB = TAFFY([
     "untested": false
   },
   {
-    "left": "Winged Dragon Guardian Of Fortress #1",
+    "left": "Winged Dragon, Guardian of the Fortress #1",
     "right": "Dragon Treasure",
     "type": "Equippable",
     "untested": false
   },
   {
-    "left": "Winged Dragon Guardian Of Fortress #1",
+    "left": "Winged Dragon, Guardian of the Fortress #1",
     "right": "Gust Fan",
     "type": "Equippable",
     "untested": false
