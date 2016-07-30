@@ -560,7 +560,6 @@ Bat;Burglar;Giga-tech Wolf;1200;1400;Monster;true
 Bat;Crawling Dragon;Metal Dragon;1850;1700;Monster;true
 Bat;Dark Gray;Dice Armadillo;1650;1800;Monster;false
 Bat;Darkfire Dragon;Metal Dragon;1850;1700;Monster;true
-Bat;Dragon Zombie;Metal Dragon;1850;1700;Monster;true
 Bat;Dragoness the Wicked Knight;Cyber Soldier;1500;1700;Monster;true
 Bat;Eyearmor;Cyber Soldier;1500;1700;Monster;true
 Bat;Greenkappa;Cyber Soldier;1500;1700;Monster;true
@@ -1350,7 +1349,6 @@ Dancing Elf;Dark Rabbit;Garvas;2000;1700;Monster;true
 Dancing Elf;Dark Titan of Terror;Dark Elf;2000;800;Monster;true
 Dancing Elf;Darkworld Thorns;Queen of Autumn Leaves;1800;1500;Monster;false
 Dancing Elf;Dig Beak;Garvas;2000;1700;Monster;true
-Dancing Elf;Dissolverock;Mystical Sand;2100;1700;Monster;true
 Dancing Elf;Doron;Celtic Guardian;1400;1200;Monster;true
 Dancing Elf;Eldeen;Dark Elf;2000;800;Monster;true
 Dancing Elf;Enchanting Mermaid;Dark Witch;1800;1700;Monster;true
@@ -1717,7 +1715,6 @@ Disk Magician;Yamatano Dragon Scroll;Metal Dragon;1850;1700;Monster;true
 Dissolverock;Corroding Shark;Stone Ghost;1200;1000;Monster;true
 Dissolverock;Crawling Dragon #2;Stone D.;2000;2300;Monster;true
 Dissolverock;Crawling Dragon;Stone D.;2000;2300;Monster;true
-Dissolverock;Dancing Elf;Mystical Sand;2100;1700;Monster;true
 Dissolverock;Dragon Zombie;Stone D.;2000;2300;Monster;true
 Dissolverock;Droll Bird;Mavelus;1300;900;Monster;true
 Dissolverock;Garvas;Flame Cerebrus;2100;1800;Monster;true
@@ -1832,7 +1829,6 @@ Dragon Zombie;Armaill;Sword Arm of Dragon;1750;2030;Monster;true
 Dragon Zombie;Armed Ninja;Sword Arm of Dragon;1750;2030;Monster;true
 Dragon Zombie;Armored Zombie;Skelgon;1700;1900;Monster;false
 Dragon Zombie;Baby Dragon;Skelgon;1700;1900;Monster;true
-Dragon Zombie;Bat;Metal Dragon;1850;1700;Monster;true
 Dragon Zombie;Battle Warrior;Sword Arm of Dragon;1750;2030;Monster;true
 Dragon Zombie;Blackland Fire Dragon;Skelgon;1700;1900;Monster;true
 Dragon Zombie;Blue-Eyed Silver Zombie;Skelgon;1700;1900;Monster;true
@@ -1901,7 +1897,6 @@ Dragon Zombie;The 13th Grave;Skelgon;1700;1900;Monster;true
 Dragon Zombie;Thunder Dragon;Skelgon;1700;1900;Monster;true
 Dragon Zombie;Tripwire Beast;Twin-Headed Thunder Dragon;2800;2100;Monster;true
 Dragon Zombie;Vishwar Randi;Sword Arm of Dragon;1750;2030;Monster;true
-Dragon Zombie;Yamatano Dragon Scroll;Skelgon;1700;1900;Monster;true
 Dragon Zombie;Zombie Warrior;Skelgon;1700;1900;Monster;true
 Dragon Zombie;Zone Eater;Kairyu-Shin;1800;1500;Monster;true
 Dragoness the Wicked Knight;Bat;Cyber Soldier;1500;1700;Monster;true
@@ -7155,7 +7150,6 @@ Yamatano Dragon Scroll;Dark Rabbit;Koumori Dragon;1500;1200;Monster;true
 Yamatano Dragon Scroll;Dharma Cannon;Metal Dragon;1850;1700;Monster;false
 Yamatano Dragon Scroll;Disk Magician;Metal Dragon;1850;1700;Monster;true
 Yamatano Dragon Scroll;Dragon Statue;Dragoness the Wicked Knight;1200;900;Monster;true
-Yamatano Dragon Scroll;Dragon Zombie;Skelgon;1700;1900;Monster;true
 Yamatano Dragon Scroll;Electric Snake;Thunder Dragon;1600;1500;Monster;true
 Yamatano Dragon Scroll;Embryonic Beast;Koumori Dragon;1500;1200;Monster;true
 Yamatano Dragon Scroll;Fiend's Hand;Dragon Zombie;1600;0;Monster;true
