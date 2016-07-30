@@ -6016,7 +6016,7 @@ Meteor Dragon (1800/2000) 019
 Ancient Jar (400/200) = Stone D. (2000/2300)
 *** Bolt Escargot (1400/1500) = Twin-Headed Thunder Dragon (2800/2100)
 *** Bolt Penguin (1100/800) = Twin-Headed Thunder Dragon (2800/2100)
-Clown Zombie (1350/0) 107 = Curse of Dragon (2000/1500)
+Clown Zombie (1350/0) = Curse of Dragon (2000/1500)
 Dragon Treasure (Equip)
 *** Dragon Zombie (1600/0) = Curse of Dragon (2000/1500)
 *** Electric Lizard (850/800) = Twin-Headed Thunder Dragon (2800/2100)

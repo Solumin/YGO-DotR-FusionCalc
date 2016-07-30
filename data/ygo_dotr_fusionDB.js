@@ -39466,7 +39466,7 @@ var fusionDB = TAFFY([
   },
   {
     "left": "Meteor Dragon",
-    "right": "Clown Zombie (1350/0)",
+    "right": "Clown Zombie",
     "output": "Curse of Dragon",
     "attack": 2000,
     "defense": 1500,
