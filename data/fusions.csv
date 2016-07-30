@@ -238,8 +238,10 @@ Ansatsu;Flame Snake;Flame Swordsman;1800;1600;Monster;true
 Ansatsu;Harpie Lady;Punished Eagle;2100;1800;Monster;false
 Ansatsu;Hinotama Soul;Flame Swordsman;1800;1600;Monster;true
 Ansatsu;LaMoon;Cocoon of Evolution;0;2000;Monster;true
+Ansatsu;Monstrous Bird;Punished Eagle;2100;1800;Monster;false
 Ansatsu;One-Eyed Shield Dragon;Sword Arm of Dragon;1750;2030;Monster;true
 Ansatsu;Petit Dragon;Sword Arm of Dragon;1750;2030;Monster;true
+Ansatsu;Skull Red Bird;Punished Eagle;2100;1800;Monster;false
 Ansatsu;The Judgement Hand;Judge Man;2200;1500;Monster;true
 Anthrosaurus;Bat;Cyber Saurus;1800;1400;Monster;true
 Anthrosaurus;Brave Scizzar;Cyber Saurus;1800;1400;Monster;true
@@ -494,6 +496,7 @@ Baby Dragon;Bolt Penguin;Thunder Dragon;1600;1500;Monster;true
 Baby Dragon;Brave Scizzar;Metal Dragon;1850;1700;Monster;true
 Baby Dragon;Cannon Soldier;Metal Dragon;1850;1700;Monster;true
 Baby Dragon;Clown Zombie;Dragon Zombie;1600;0;Monster;true
+Baby Dragon;Corroding Shark;Dragon Zombie;1600;0;Monster;false
 Baby Dragon;Cyber Saurus;Metal Dragon;1850;1700;Monster;true
 Baby Dragon;Dragon Statue;D. Human;1300;1100;Monster;true
 Baby Dragon;Dragon Zombie;Skelgon;1700;1900;Monster;true
@@ -509,6 +512,7 @@ Baby Dragon;Jellyfish;Spike Seadra;1600;1300;Monster;true
 Baby Dragon;Kaminarikozou;Thunder Dragon;1600;1500;Monster;false
 Baby Dragon;Kuriboh;Koumori Dragon;1500;1200;Monster;true
 Baby Dragon;LaLa Li-oon;Thunder Dragon;1600;1500;Monster;true
+Baby Dragon;LaMoon;Blackland Fire Dragon;1500;800;Monster;false
 Baby Dragon;Left Arm of the Forbidden One;Blackland Fire Dragon;1500;800;Monster;true
 Baby Dragon;Left Leg of the Forbidden One;Blackland Fire Dragon;1500;800;Monster;true
 Baby Dragon;Living Vase;B. Dragon Jungle King;2100;1800;Monster;true
@@ -590,8 +594,9 @@ Bat;Unknown Warrior of Fiend;Cyber Soldier;1500;1700;Monster;true
 Bat;Uraby;Cyber Saurus;1800;1400;Monster;true
 Bat;White Dolphin;Misairuzame;1400;1600;Monster;true
 Bat;Wicked Dragon with the Ersatz Head;Metal Dragon;1850;1700;Monster;true
+Bat;Winged Dragon, Guardian of the Fortress #1;Metal Dragon;1850;1700;Monster;false
 Bat;Wow Warrior;Misairuzame;1400;1600;Monster;true
-Bat;Yamatano Dragon Scroll;Metal Dragon;1850;1700;Monster;true
+Bat;Yamatano Dragon Scroll;Metal Dragon;1850;1700;Monster;false
 Battle Ox;Ancient Elf;Nekogal #2;1900;2000;Monster;false
 Battle Ox;Beautiful Headhuntress;Empress Judge;2100;1700;Monster;false
 Battle Ox;Dragon Statue;Baby Dragon;1200;700;Monster;true
@@ -773,6 +778,8 @@ Blue-Winged Crown;Flame Snake;Crimson Sunbird;2300;1800;Monster;true
 Blue-Winged Crown;Flame Swordsman;Crimson Sunbird;2300;1800;Monster;true
 Blue-Winged Crown;Hinotama Soul;Crimson Sunbird;2300;1800;Monster;true
 Blue-Winged Crown;Kanan the Swordmistress;Punished Eagle;2100;1800;Monster;false
+Blue-Winged Crown;Moon Envoy;Punished Eagle;2100;1800;Monster;false
+Blue-Winged Crown;Princess of Tsurugi;Punished Eagle;2100;1800;Monster;false
 Bolt Escargot;Aqua Madoor;The Immortal of Thunder;1500;1300;Monster;false
 Bolt Escargot;Crawling Dragon #2;Twin-Headed Thunder Dragon;2800;2100;Monster;true
 Bolt Escargot;Crawling Dragon;Twin-Headed Thunder Dragon;2800;2100;Monster;true
@@ -882,6 +889,7 @@ Bone Mouse;Yamatano Dragon Scroll;Dragon Zombie;1600;0;Monster;true
 Boo Koo;Blue-Eyed Silver Zombie;Magical Ghost;1300;1400;Monster;true
 Boo Koo;Bolt Penguin;The Immortal of Thunder;1500;1300;Monster;true
 Boo Koo;Bone Mouse;Magical Ghost;1300;1400;Monster;true
+Boo Koo;Corroding Shark;Magical Ghost;1300;1400;Monster;false
 Boo Koo;Dancing Elf;Mystical Elf;800;2000;Monster;true
 Boo Koo;Droll Bird;Spirit of the Books;1400;1200;Monster;true
 Boo Koo;Electric Lizard;The Immortal of Thunder;1500;1300;Monster;true
@@ -890,6 +898,7 @@ Boo Koo;Fire Reaper;Magical Ghost;1300;1400;Monster;true
 Boo Koo;Graveyard and the Hand of Invitation;Magical Ghost;1300;1400;Monster;true
 Boo Koo;Hibikime;Musician King;1750;1500;Monster;true
 Boo Koo;Kaminarikozou;The Immortal of Thunder;1500;1300;Monster;true
+Boo Koo;Kurama;Spirit of the Books;1400;1200;Monster;false
 Boo Koo;Mech Mole Zombie;Magical Ghost;1300;1400;Monster;true
 Boo Koo;Mega Thunderball;The Immortal of Thunder;1500;1300;Monster;true
 Boo Koo;Monsturtle;30,000-Year White Turtle;1250;2100;Monster;true
@@ -897,6 +906,7 @@ Boo Koo;Shadow Specter;Magical Ghost;1300;1400;Monster;true
 Boo Koo;Skull Servant;Magical Ghost;1300;1400;Monster;true
 Boo Koo;Sonic Maid;Musician King;1750;1500;Monster;true
 Boo Koo;The Immortal of Thunder;Kaminari Attack;1900;1400;Monster;true
+Boo Koo;Yamatano Dragon Scroll;Blackland Fire Dragon;1500;800;Monster;false
 Boulder Tortoise;Faith Bird;Turtle Bird;1900;1700;Monster;true
 Boulder Tortoise;Kairyu-Shin;Aqua Dragon;2250;1900;Monster;false
 Brave Scizzar;Anthrosaurus;Cyber Saurus;1800;1400;Monster;true
@@ -1061,6 +1071,7 @@ Charubin the Fire Knight;Unknown Warrior of Fiend;Flame Swordsman;1800;1600;Mons
 Charubin the Fire Knight;Vishwar Randi;Flame Swordsman;1800;1600;Monster;true
 Charubin the Fire Knight;Winged Dragon, Guardian of the Fortress #2;Mavelus;1300;900;Monster;false
 Charubin the Fire Knight;Wood Clown;Flame Swordsman;1800;1600;Monster;false
+Claw Reache;Yamatano Dragon Scroll;Koumori Dragon;1500;1200;Monster;false
 Claw Reacher;Dark Rabbit;Chimera the Flying Mythical Beast;2100;1800;Monster;false
 Claw Reacher;Firegrass;Rose Spectre of Dunn;2000;1800;Monster;false
 Claw Reacher;Fungi of the Musk;Darkworld Thorns;1200;900;Monster;true
@@ -1077,7 +1088,7 @@ Clown Zombie;Crawling Dragon;Skelgon;1700;1900;Monster;true
 Clown Zombie;Dark Plant;Pumpking the King of Ghosts;1800;2000;Monster;true
 Clown Zombie;Darkfire Dragon;Dragon Zombie;1600;0;Monster;true
 Clown Zombie;Darkworld Thorns;Pumpking the King of Ghosts;1800;2000;Monster;true
-Clown Zombie;Dragon Zombie;Skelgon;1700;1900;Monster;true
+Clown Zombie;Dragon Zombie;Skelgon;1700;1900;Monster;false
 Clown Zombie;Fairy Dragon;Dragon Zombie;1600;0;Monster;false
 Clown Zombie;Firegrass;Pumpking the King of Ghosts;1800;2000;Monster;true
 Clown Zombie;Greenkappa;Armored Zombie;1500;0;Monster;false
@@ -1119,7 +1130,9 @@ Corroding Shark;Abyss Flower;Pumpking the King of Ghosts;1800;2000;Monster;true
 Corroding Shark;Ancient Jar;Stone Ghost;1200;1000;Monster;true
 Corroding Shark;Arlownay;Pumpking the King of Ghosts;1800;2000;Monster;true
 Corroding Shark;Armed Ninja;Zombie Warrior;1200;900;Monster;true
+Corroding Shark;Baby Dragon;Dragon Zombie;1600;0;Monster;false
 Corroding Shark;Battle Warrior;Zombie Warrior;1200;900;Monster;true
+Corroding Shark;Boo Koo;Magical Ghost;1300;1400;Monster;false
 Corroding Shark;Dark Plant;Pumpking the King of Ghosts;1800;2000;Monster;true
 Corroding Shark;Dissolverock;Stone Ghost;1200;1000;Monster;true
 Corroding Shark;Dragon Zombie;Skelgon;1700;1900;Monster;true
@@ -1140,7 +1153,8 @@ Corroding Shark;Petit Dragon;Dragon Zombie;1600;0;Monster;true
 Corroding Shark;Rainbow Flower;Pumpking the King of Ghosts;1800;2000;Monster;true
 Corroding Shark;The Bewitching Phantom Thief;Magical Ghost;1300;1400;Monster;true
 Corroding Shark;Winged Dragon, Guardian of the Fortress #1;Dragon Zombie;1600;0;Monster;false
-Corroding Shark;Yamatano Dragon Scroll;Dragon Zombie;1600;0;Monster;true
+Corroding Shark;Witch's Apprentice;Magical Ghost;1300;1400;Monster;false
+Corroding Shark;Yamatano Dragon Scroll;Dragon Zombie;1600;0;Monster;false
 Crass Clown;Grappler;Soul Hunter;2200;1800;Monster;true
 Crass Clown;Job-Change Mirror;Summoned Skull;2500;1200;Monster;false
 Crass Clown;Sinister Serpent;Soul Hunter;2200;1800;Monster;true
@@ -1376,6 +1390,7 @@ Dancing Elf;Kageningen;Celtic Guardian;1400;1200;Monster;true
 Dancing Elf;Key Mace #2;Dark Elf;2000;800;Monster;true
 Dancing Elf;Key Mace;Mystical Elf;800;2000;Monster;false
 Dancing Elf;Kurama;Winged Egg of New Life;1400;1700;Monster;false
+Dancing Elf;LaMoon;Dark Witch;1800;1700;Monster;false
 Dancing Elf;Lady of Faith;Dark Witch;1800;1700;Monster;true
 Dancing Elf;Laughing Flower;Queen of Autumn Leaves;1800;1500;Monster;false
 Dancing Elf;Left Arm of the Forbidden One;Dark Elf;2000;800;Monster;true
@@ -1464,8 +1479,10 @@ Dark Gray;Kurama;Garvas;2000;1700;Monster;false
 Dark Gray;M-Warrior #1;Tiger Axe;1300;1100;Monster;true
 Dark Gray;Man-Eating Plant;Flower Wolf;1800;1400;Monster;false
 Dark Gray;Mechanical Snail;Dice Armadillo;1650;1800;Monster;false
+Dark Gray;Spirit of the Winds;Nekogal #2;1900;2000;Monster;false
 Dark Gray;Tentacle Plant;Flower Wolf;1800;1400;Monster;false
 Dark Gray;Vishwar Randi;Nekogal #2;1900;2000;Monster;true
+Dark Gray;Wing Eagle;Garvas;2000;1700;Monster;false
 Dark Gray;Witch's Apprentice;Nekogal #2;1900;2000;Monster;false
 Dark King of the Abyss;Job-Change Mirror;Ryu-Kishin Powered;1600;1200;Monster;false
 Dark King of the Abyss;Living Vase;Rose Spectre of Dunn;2000;1800;Monster;false
@@ -1559,8 +1576,10 @@ Dark Rabbit;Claw Reacher;Chimera the Flying Mythical Beast;2100;1800;Monster;fal
 Dark Rabbit;Cyber-Stein;Dice Armadillo;1650;1800;Monster;false
 Dark Rabbit;Dancing Elf;Garvas;2000;1700;Monster;true
 Dark Rabbit;Harpie Lady;Garvas;2000;1700;Monster;false
+Dark Rabbit;Larvas;Mon Larvas;1300;1400;Monster;false
 Dark Rabbit;Mystical Elf;Nekogal #2;1900;2000;Monster;false
 Dark Rabbit;Niwatori;Garvas;2000;1700;Monster;false
+Dark Rabbit;Skull Red Bird;Garvas;2000;1700;Monster;false
 Dark Rabbit;Wall of Illusion;Chimera the Flying Mythical Beast;2100;1800;Monster;false
 Dark Rabbit;Witch's Apprentice;Nekogal #2;1900;2000;Monster;false
 Dark Rabbit;Yamatano Dragon Scroll;Koumori Dragon;1500;1200;Monster;true
@@ -1736,6 +1755,7 @@ Djinn the Watcher of the Wind;Fiend's Hand;Magical Ghost;1300;1400;Monster;true
 Djinn the Watcher of the Wind;Mech Mole Zombie;Magical Ghost;1300;1400;Monster;true
 Djinn the Watcher of the Wind;Mystic Lamp;Lord of the Lamp;1400;1200;Monster;true
 Djinn the Watcher of the Wind;Skull Servant;Magical Ghost;1300;1400;Monster;true
+Djinn the Watcher of the Wind;Winged Dragon, Guardian of the Fortress #1;Blackland Fire Dragon;1500;800;Monster;false
 Dokurorider;Sword Arm of Dragon;Curse of Dragon;2000;1500;Monster;true
 Doma The Angel of Silence;Goddess with the Third Eye;Dark Witch;1800;1700;Monster;false
 Doma The Angel of Silence;Spirit of the Harp;Dark Witch;1800;1700;Monster;false
@@ -1838,7 +1858,7 @@ Dragon Zombie;Brave Scizzar;Metal Dragon;1850;1700;Monster;true
 Dragon Zombie;Cannon Soldier;Metal Dragon;1850;1700;Monster;true
 Dragon Zombie;Celtic Guardian;Sword Arm of Dragon;1750;2030;Monster;true
 Dragon Zombie;Change Slime;Kairyu-Shin;1800;1500;Monster;true
-Dragon Zombie;Clown Zombie;Skelgon;1700;1900;Monster;true
+Dragon Zombie;Clown Zombie;Skelgon;1700;1900;Monster;false
 Dragon Zombie;Corroding Shark;Skelgon;1700;1900;Monster;true
 Dragon Zombie;Crawling Dragon;Curse of Dragon;2000;1500;Monster;false
 Dragon Zombie;Cyber Commander;Metal Dragon;1850;1700;Monster;true
@@ -2418,6 +2438,7 @@ Fireyarou;Fiend Reflection #1;Crimson Sunbird;2300;1800;Monster;true
 Fireyarou;Fiend Sword;Flame Swordsman;1800;1600;Monster;true
 Fireyarou;Flame Swordsman;Vermillion Sparrow;1900;1500;Monster;false
 Fireyarou;Milus Radiant;Flame Cerebrus;2100;1800;Monster;true
+Fireyarou;Princess of Tsurugi;Flame Swordsman;1800;1600;Monster;false
 Fireyarou;Spirit of the Books;Crimson Sunbird;2300;1800;Monster;false
 Fireyarou;Swordsman from a Foreign Land;Flame Swordsman;1800;1600;Monster;true
 Fireyarou;Wing Eagle;Crimson Sunbird;2300;1800;Monster;false
@@ -2878,6 +2899,7 @@ Hane-Hane;Bat;Dice Armadillo;1650;1800;Monster;false
 Hane-Hane;Dancing Elf;Nekogal #2;1900;2000;Monster;false
 Hane-Hane;Enchanting Mermaid;Nekogal #2;1900;2000;Monster;false
 Hane-Hane;Harpie Lady;Garvas;2000;1700;Monster;false
+Hane-Hane;Kurama;Garvas;2000;1700;Monster;false
 Hane-Hane;LaMoon;Nekogal #2;1900;2000;Monster;false
 Hane-Hane;Living Vase;Flower Wolf;1800;1400;Monster;false
 Hane-Hane;Mechanical Snail;Dice Armadillo;1650;1800;Monster;false
@@ -2885,6 +2907,7 @@ Hane-Hane;Mechanical Spider;Dice Armadillo;1650;1800;Monster;false
 Hane-Hane;Monsturtle;Turtle Tiger;1000;1500;Monster;false
 Hane-Hane;Princess of Tsurugi;Nekogal #2;1900;2000;Monster;false
 Hane-Hane;Rainbow Flower;Flower Wolf;1800;1400;Monster;false
+Hane-Hane;Spirit of the Books;Garvas;2000;1700;Monster;false
 Hane-Hane;Witch's Apprentice;Nekogal #2;1900;2000;Monster;false
 Haniwa;Baby Dragon;Stone D.;2000;2300;Monster;true
 Haniwa;Blackland Fire Dragon;Stone D.;2000;2300;Monster;true
@@ -3064,6 +3087,7 @@ Hitodenchak;Electric Snake;Bolt Escargot;1400;1500;Monster;true
 Hitodenchak;LaLa Li-oon;Bolt Escargot;1400;1500;Monster;true
 Hitotsu-Me Giant;LaMoon;Nekogal #2;1900;2000;Monster;false
 Hitotsu-Me Giant;Queen's Double;Nekogal #2;1900;2000;Monster;false
+Hitotsu-Me Giant;Spirit of the Winds;Nekogal #2;1900;2000;Monster;false
 Holograh;Air Marmot of Nefariousness;Dice Armadillo;1650;1800;Monster;false
 Holograh;Doron;Cyber Soldier;1500;1700;Monster;true
 Holograh;Enchanting Mermaid;Misairuzame;1400;1600;Monster;true
@@ -3132,7 +3156,7 @@ Hurricail;Mech Mole Zombie;Magical Ghost;1300;1400;Monster;true
 Hurricail;Monsturtle;30,000-Year White Turtle;1250;2100;Monster;true
 Hurricail;Mystic Lamp;Lord of the Lamp;1400;1200;Monster;true
 Hurricail;Shadow Specter;Magical Ghost;1300;1400;Monster;true
-Hurricail;Zombie Warrior;Magical Ghost;1300;1400;Monster;true
+Hurricail;Zombie Warrior;Magical Ghost;1300;1400;Monster;false
 Hyo;Arlownay;Bean Soldier;1400;1300;Monster;true
 Hyo;Charubin the Fire Knight;Flame Swordsman;1800;1600;Monster;true
 Hyo;Clown Zombie;Armored Zombie;1500;0;Monster;true
@@ -3394,6 +3418,7 @@ Kaminarikozou;Magician of Faith;The Immortal of Thunder;1500;1300;Monster;false
 Kaminarikozou;Metal Dragon;Twin-Headed Thunder Dragon;2800;2100;Monster;true
 Kaminarikozou;Meteor Dragon;Twin-Headed Thunder Dragon;2800;2100;Monster;true
 Kaminarikozou;Milus Radiant;Tripwire Beast;1200;1300;Monster;true
+Kaminarikozou;Monsturtle;Bolt Escargot;1400;1500;Monster;false
 Kaminarikozou;Mystic Lamp;The Immortal of Thunder;1500;1300;Monster;false
 Kaminarikozou;Mystical Sheep #1;Tripwire Beast;1200;1300;Monster;true
 Kaminarikozou;Mystical Sheep #2;Tripwire Beast;1200;1300;Monster;true
@@ -3545,6 +3570,7 @@ Koumori Dragon;Time Wizard;Thousand Dragon;2400;2000;Monster;false
 Koumori Dragon;Tyhone #2;Red-Eyes B. Dragon;2400;2000;Monster;false
 Koumori Dragon;Zone Eater;Spike Seadra;1600;1300;Monster;true
 Kurama;Armaill;Mavelus;1300;900;Monster;true
+Kurama;Boo Koo;Spirit of the Books;1400;1200;Monster;false
 Kurama;Charubin the Fire Knight;Mavelus;1300;900;Monster;true
 Kurama;Dancing Elf;Winged Egg of New Life;1400;1700;Monster;false
 Kurama;Dark Gray;Garvas;2000;1700;Monster;false
@@ -3556,6 +3582,7 @@ Kurama;Flame Snake;Mavelus;1300;900;Monster;true
 Kurama;Flame Swordsman;Crimson Sunbird;2300;1800;Monster;true
 Kurama;Flower Wolf;Garvas;2000;1700;Monster;false
 Kurama;Goddess with the Third Eye;Winged Egg of New Life;1400;1700;Monster;false
+Kurama;Hane-Hane;Garvas;2000;1700;Monster;false
 Kurama;Hoshiningen;Winged Egg of New Life;1400;1700;Monster;false
 Kurama;Master & Expert;Garvas;2000;1700;Monster;false
 Kurama;Mavelus;Crimson Sunbird;2300;1800;Monster;false
@@ -3622,7 +3649,9 @@ LaLa Li-oon;Wicked Dragon with the Ersatz Head;Thunder Dragon;1600;1500;Monster;
 LaLa Li-oon;Yamatano Dragon Scroll;Thunder Dragon;1600;1500;Monster;true
 LaLa Li-oon;Zarigun;Bolt Escargot;1400;1500;Monster;true
 LaMoon;Ansatsu;Cocoon of Evolution;0;2000;Monster;true
+LaMoon;Baby Dragon;Blackland Fire Dragon;1500;800;Monster;false
 LaMoon;Catapult Turtle;30,000-Year White Turtle;1250;2100;Monster;true
+LaMoon;Dancing Elf;Dark Witch;1800;1700;Monster;false
 LaMoon;Firegrass;Queen of Autumn Leaves;1800;1500;Monster;true
 LaMoon;Fusionist;Nekogal #2;1900;2000;Monster;true
 LaMoon;Hane-Hane;Nekogal #2;1900;2000;Monster;false
@@ -3668,6 +3697,7 @@ Larvae Moth;Anthrosaurus;Sword Arm of Dragon;1750;2030;Monster;false
 Larvae Moth;Cockroach Knight;Larva of Moth;0;2000;Monster;false
 Larvae Moth;Cocoon of Evolution;Larva of Moth;0;2000;Monster;false
 Larvae Moth;Two-Mouth Darkruler;Sword Arm of Dragon;1750;2030;Monster;false
+Larvas;Dark Rabbit;Mon Larvas;1300;1400;Monster;false
 Larvas;Happy Lover;Garvas;2000;1700;Monster;true
 Larvas;Harpie Lady;Garvas;2000;1700;Monster;false
 Larvas;Monsturtle;Turtle Tiger;1000;1500;Monster;false
@@ -4556,7 +4586,10 @@ Monster Eye;Queen of Autumn Leaves;Rose Spectre of Dunn;2000;1800;Monster;false
 Monster Eye;Rainbow Flower;Rose Spectre of Dunn;2000;1800;Monster;false
 Monster Eye;Yashinoki;Rose Spectre of Dunn;2000;1800;Monster;false
 Monster Tamer;Flame Swordsman;Vermillion Sparrow;1900;1500;Monster;true
+Monstrous Bird;Ansatsu;Punished Eagle;2100;1800;Monster;false
 Monstrous Bird;Kanan the Swordmistress;Punished Eagle;2100;1800;Monster;false
+Monstrous Bird;Moon Envoy;Punished Eagle;2100;1800;Monster;false
+Monstrous Bird;Princess of Tsurugi;Punished Eagle;2100;1800;Monster;false
 Monstrous Bird;Wings of Wicked Flame;Crimson Sunbird;2300;1800;Monster;false
 Monsturtle;Air Marmot of Nefariousness;Turtle Tiger;1000;1500;Monster;true
 Monsturtle;Armored Rat;Turtle Tiger;1000;1500;Monster;true
@@ -4567,6 +4600,7 @@ Monsturtle;Hane-Hane;Turtle Tiger;1000;1500;Monster;false
 Monsturtle;Hurricail;30,000-Year White Turtle;1250;2100;Monster;true
 Monsturtle;Kagemusha of the Blue Flame;Giant Turtle Who Feeds on Flames;1400;1800;Monster;true
 Monsturtle;Kairyu-Shin;Sea King Dragon;2000;1700;Monster;true
+Monsturtle;Kaminarikozou;Bolt Escargot;1400;1500;Monster;false
 Monsturtle;Koumori Dragon;Spike Seadra;1600;1300;Monster;true
 Monsturtle;Larvas;Turtle Tiger;1000;1500;Monster;false
 Monsturtle;Mega Thunderball;Bolt Escargot;1400;1500;Monster;true
@@ -4578,8 +4612,10 @@ Monsturtle;Psychic Kappa;Hyosube;1500;900;Monster;true
 Monsturtle;Rock Ogre Grotto #2;Boulder Tortoise;1450;2200;Monster;false
 Monsturtle;Stone Ghost;Boulder Tortoise;1450;2200;Monster;true
 Monsturtle;The Bewitching Phantom Thief;30,000-Year White Turtle;1250;2100;Monster;true
+Monsturtle;Wings of Wicked Flame;Giant Turtle Who Feeds on Flame;1400;1800;Monster;false
 Monsturtle;Yamatano Dragon Scroll;Spike Seadra;1600;1300;Monster;true
 Moon Envoy;Arlownay;Bean Soldier;1400;1300;Monster;false
+Moon Envoy;Blue-Winged Crown;Punished Eagle;2100;1800;Monster;false
 Moon Envoy;Dancing Elf;Celtic Guardian;1400;1200;Monster;false
 Moon Envoy;Dark Plant;Bean Soldier;1400;1300;Monster;false
 Moon Envoy;Dragon Statue;Dragoness the Wicked Knight;1200;900;Monster;true
@@ -4591,6 +4627,7 @@ Moon Envoy;Griggle;Bean Soldier;1400;1300;Monster;false
 Moon Envoy;Haniwa;Minomushi Warrior;1300;1200;Monster;true
 Moon Envoy;Laughing Flower;Bean Soldier;1400;1300;Monster;false
 Moon Envoy;Mavelus;Punished Eagle;2100;1800;Monster;false
+Moon Envoy;Monstrous Bird;Punished Eagle;2100;1800;Monster;false
 Moon Envoy;Muka Muka;Minomushi Warrior;1300;1200;Monster;false
 Moon Envoy;Peacock;Punished Eagle;2100;1800;Monster;false
 Moon Envoy;Rainbow Flower;Bean Soldier;1400;1300;Monster;false
@@ -5365,6 +5402,7 @@ Princess of Tsurugi;Air Marmot of Nefariousness;Nekogal #2;1900;2000;Monster;fal
 Princess of Tsurugi;Ancient Jar;Mystical Sand;2100;1700;Monster;true
 Princess of Tsurugi;Armaill;Charubin the Fire Knight;1100;800;Monster;true
 Princess of Tsurugi;Blue-Eyed Silver Zombie;Zombie Warrior;1200;900;Monster;true
+Princess of Tsurugi;Blue-Winged Crown;Punished Eagle;2100;1800;Monster;false
 Princess of Tsurugi;Charubin the Fire Knight;Flame Swordsman;1800;1600;Monster;true
 Princess of Tsurugi;Crawling Dragon #2;Sword Arm of Dragon;1750;2030;Monster;true
 Princess of Tsurugi;Dancing Elf;Celtic Guardian;1400;1200;Monster;true
@@ -5374,6 +5412,7 @@ Princess of Tsurugi;Dig Beak;Nekogal #2;1900;2000;Monster;false
 Princess of Tsurugi;Dragon Piper;Charubin the Fire Knight;1100;800;Monster;true
 Princess of Tsurugi;Fire Eye;Charubin the Fire Knight;1100;800;Monster;true
 Princess of Tsurugi;Firegrass;Queen of Autumn Leaves;1800;1500;Monster;true
+Princess of Tsurugi;Fireyarou;Flame Swordsman;1800;1600;Monster;false
 Princess of Tsurugi;Flower Wolf;Nekogal #2;1900;2000;Monster;true
 Princess of Tsurugi;Garoozis;Nekogal #2;1900;2000;Monster;false
 Princess of Tsurugi;Goddess with the Third Eye;Dark Witch;1800;1700;Monster;true
@@ -5390,6 +5429,7 @@ Princess of Tsurugi;Little Chimera;Nekogal #2;1900;2000;Monster;true
 Princess of Tsurugi;Living Vase;Nekogal #2;1900;2000;Monster;true
 Princess of Tsurugi;Lunar Queen Elzaim;Dark Witch;1800;1700;Monster;true
 Princess of Tsurugi;Milus Radiant;Nekogal #2;1900;2000;Monster;true
+Princess of Tsurugi;Monstrous Bird;Punished Eagle;2100;1800;Monster;false
 Princess of Tsurugi;Mushroom Man;Queen of Autumn Leaves;1800;1500;Monster;true
 Princess of Tsurugi;Mystical Elf;Celtic Guardian;1400;1200;Monster;true
 Princess of Tsurugi;Pot the Trick;Mystical Sand;2100;1700;Monster;true
@@ -5916,8 +5956,10 @@ Skelgon;Pot the Trick;Stone D.;2000;2300;Monster;true
 Skelgon;Shadow Specter;Curse of Dragon;2000;1500;Monster;true
 Skelgon;The Immortal of Thunder;Twin-Headed Thunder Dragon;2800;2100;Monster;true
 Skelgon;Yamatano Dragon Scroll;Curse of Dragon;2000;1500;Monster;true
+Skull Red Bird;Ansatsu;Punished Eagle;2100;1800;Monster;false
 Skull Red Bird;Armaill;Crimson Sunbird;2300;1800;Monster;true
 Skull Red Bird;Candle of Fate;Crimson Sunbird;2300;1800;Monster;true
+Skull Red Bird;Dark Rabbit;Garvas;2000;1700;Monster;false
 Skull Red Bird;Dissolverock;Crimson Sunbird;2300;1800;Monster;true
 Skull Red Bird;Fire Eye;Crimson Sunbird;2300;1800;Monster;true
 Skull Red Bird;Fire Reaper;Crimson Sunbird;2300;1800;Monster;true
@@ -6054,6 +6096,7 @@ Spike Seadra;Time Wizard;Thousand Dragon;2400;2000;Monster;true
 Spirit of the Books;Fireyarou;Crimson Sunbird;2300;1800;Monster;false
 Spirit of the Books;Flame Cerebrus;Crimson Sunbird;2300;1800;Monster;false
 Spirit of the Books;Flame Snake;Crimson Sunbird;2300;1800;Monster;true
+Spirit of the Books;Hane-Hane;Garvas;2000;1700;Monster;false
 Spirit of the Books;Vermillion Sparrow;Crimson Sunbird;2300;1800;Monster;false
 Spirit of the Harp;Bean Soldier;Queen of Autumn Leaves;1800;1500;Monster;false
 Spirit of the Harp;Dancing Elf;Dark Witch;1800;1700;Monster;false
@@ -6071,6 +6114,8 @@ Spirit of the Harp;Spirit of the Harp;Dark Witch;1800;1700;Monster;false
 Spirit of the Harp;Tatsunootoshigo;Nekogal #2;1900;2000;Monster;false
 Spirit of the Harp;Tenderness;Dark Witch;1800;1700;Monster;false
 Spirit of the Harp;Winged Egg of New Life;Dark Witch;1800;1700;Monster;false
+Spirit of the Winds;Dark Gray;Nekogal #2;1900;2000;Monster;false
+Spirit of the Winds;Hitotsu-Me Giant;Nekogal #2;1900;2000;Monster;false
 Spirit of the Winds;Larvas;Nekogal #2;1900;2000;Monster;false
 Spirit of the Winds;Trent;Queen of Autumn Leaves;1800;1500;Monster;false
 Star Boy;Bolt Penguin;Bolt Escargot;1400;1500;Monster;false
@@ -6954,6 +6999,7 @@ Wilmee;Dancing Elf;Nekogal #2;1900;2000;Monster;false
 Wilmee;Dark Witch;Nekogal #2;1900;2000;Monster;false
 Wilmee;Tatsunootoshigo;Tatsunootoshigo;1350;1600;Monster;false
 Wilmee;Wow Warrior;Tatsunootoshigo;1350;1600;Monster;false
+Wing Eagle;Dark Gray;Garvas;2000;1700;Monster;false
 Wing Eagle;Fireyarou;Crimson Sunbird;2300;1800;Monster;false
 Wing Eagle;Flame Swordsman;Punished Eagle;2100;1800;Monster;false
 Wing Egg Elf;Ancient Sorcerer;Dark Elf;2000;800;Monster;false
@@ -6976,8 +7022,10 @@ Wing Egg Elf;Swordsman from a Foreign Land;Celtic Guardian;1400;1200;Monster;fal
 Wing Egg Elf;The Bewitching Phantom Thief;Dark Elf;2000;800;Monster;false
 Wing Egg Elf;Weather Control;Mystical Elf;800;2000;Monster;false
 Wing Egg Elf;Wing Egg Elf;Mystical Elf;800;2000;Monster;false
+Winged Dragon, Guardian of the Fortress #1;Bat;Metal Dragon;1850;1700;Monster;false
 Winged Dragon, Guardian of the Fortress #1;Claw Reacher;Koumori Dragon;1500;1200;Monster;false
 Winged Dragon, Guardian of the Fortress #1;Corroding Shark;Dragon Zombie;1600;0;Monster;false
+Winged Dragon, Guardian of the Fortress #1;Djinn the Watcher of the Wind;Blackland Fire Dragon;1500;800;Monster;false
 Winged Dragon, Guardian of the Fortress #1;Harpie Lady;Harpie's Pet Dragon;2000;2500;Monster;false
 Winged Dragon, Guardian of the Fortress #1;Kuriboh;Koumori Dragon;1500;1200;Monster;false
 Winged Dragon, Guardian of the Fortress #1;Mystical Elf;Blackland Fire Dragon;1500;800;Monster;false
@@ -6995,6 +7043,7 @@ Winged Egg of New Life;Key Mace;Dark Witch;1800;1700;Monster;false
 Winged Egg of New Life;Lunar Queen Elzaim;Dark Witch;1800;1700;Monster;false
 Winged Egg of New Life;Mystical Elf;Dark Witch;1800;1700;Monster;false
 Winged Egg of New Life;Spirit of the Harp;Dark Witch;1800;1700;Monster;false
+Winged Egg of New Life;Witch's Apprentice;Dark Witch;1800;1700;Monster;false
 Wings of Wicked Flame;Armed Ninja;Charubin the Fire Knight;1100;800;Monster;false
 Wings of Wicked Flame;Beautiful Beast Trainer;Flame Swordsman;1800;1600;Monster;false
 Wings of Wicked Flame;Celtic Guardian;Flame Swordsman;1800;1600;Monster;false
@@ -7012,6 +7061,7 @@ Wings of Wicked Flame;M-Warrior #1;Flame Swordsman;1800;1600;Monster;false
 Wings of Wicked Flame;M-Warrior #2;Flame Swordsman;1800;1600;Monster;false
 Wings of Wicked Flame;Mavelus;Crimson Sunbird;2300;1800;Monster;false
 Wings of Wicked Flame;Monstrous Bird;Crimson Sunbird;2300;1800;Monster;false
+Wings of Wicked Flame;Monsturtle;Giant Turtle Who Feeds on Flame;1400;1800;Monster;false
 Wings of Wicked Flame;Moon Envoy;Flame Swordsman;1800;1600;Monster;false
 Wings of Wicked Flame;Mushroom Man #2;Flame Swordsman;1800;1600;Monster;false
 Wings of Wicked Flame;Mystic Horseman;Flame Cerebrus;2100;1800;Monster;false
@@ -7034,6 +7084,7 @@ Witch of the Black Forest;Tentacle Plant;Queen of Autumn Leaves;1800;1500;Monste
 Witch of the Black Forest;Thunder Dragon;Kaminari Attack;1900;1400;Monster;false
 Witch's Apprentice;Bean Soldier;Queen of Autumn Leaves;1800;1500;Monster;false
 Witch's Apprentice;Celtic Guardian;Dark Elf;2000;800;Monster;false
+Witch's Apprentice;Corroding Shark;Magical Ghost;1300;1400;Monster;false
 Witch's Apprentice;Dark Gray;Nekogal #2;1900;2000;Monster;false
 Witch's Apprentice;Dark Rabbit;Nekogal #2;1900;2000;Monster;false
 Witch's Apprentice;Firegrass;Queen of Autumn Leaves;1800;1500;Monster;false
@@ -7041,6 +7092,7 @@ Witch's Apprentice;Hane-Hane;Nekogal #2;1900;2000;Monster;false
 Witch's Apprentice;Happy Lover;Dark Witch;1800;1700;Monster;false
 Witch's Apprentice;Shining Friendship;Dark Witch;1800;1700;Monster;false
 Witch's Apprentice;Snakeyashi;Queen of Autumn Leaves;1800;1500;Monster;false
+Witch's Apprentice;Winged Egg of New Life;Dark Witch;1800;1700;Monster;false
 Witty Phantom;Arlownay;Rose Spectre of Dunn;2000;1800;Monster;false
 Wolf;Abyss Flower;Flower Wolf;1800;1400;Monster;false
 Wolf;Cyber Commander;Dice Armadillo;1650;1800;Monster;false
@@ -7132,16 +7184,18 @@ Yamatano Dragon Scroll;Arlownay;B. Dragon Jungle King;2100;1800;Monster;true
 Yamatano Dragon Scroll;Armed Ninja;Dragon Statue;1100;900;Monster;true
 Yamatano Dragon Scroll;Armored Zombie;Dragon Zombie;1600;0;Monster;true
 Yamatano Dragon Scroll;Axe Raider;Sword Arm of Dragon;1750;2030;Monster;true
-Yamatano Dragon Scroll;Bat;Metal Dragon;1850;1700;Monster;true
+Yamatano Dragon Scroll;Bat;Metal Dragon;1850;1700;Monster;false
 Yamatano Dragon Scroll;Blast Juggler;Metal Dragon;1850;1700;Monster;false
 Yamatano Dragon Scroll;Blocker;Metal Dragon;1850;1700;Monster;true
 Yamatano Dragon Scroll;Bolt Penguin;Thunder Dragon;1600;1500;Monster;true
 Yamatano Dragon Scroll;Bone Mouse;Dragon Zombie;1600;0;Monster;true
+Yamatano Dragon Scroll;Boo Koo;Blackland Fire Dragon;1500;800;Monster;false
 Yamatano Dragon Scroll;Brave Scizzar;Metal Dragon;1850;1700;Monster;true
 Yamatano Dragon Scroll;Celtic Guardian;Sword Arm of Dragon;1750;2030;Monster;true
 Yamatano Dragon Scroll;Change Slime;Spike Seadra;1600;1300;Monster;true
+Yamatano Dragon Scroll;Claw Reache;Koumori Dragon;1500;1200;Monster;false
 Yamatano Dragon Scroll;Clown Zombie;Dragon Zombie;1600;0;Monster;true
-Yamatano Dragon Scroll;Corroding Shark;Dragon Zombie;1600;0;Monster;true
+Yamatano Dragon Scroll;Corroding Shark;Dragon Zombie;1600;0;Monster;false
 Yamatano Dragon Scroll;Curtain of the Dark Ones;Blackland Fire Dragon;1500;800;Monster;true
 Yamatano Dragon Scroll;Cyber-Stein;Metal Dragon;1850;1700;Monster;true
 Yamatano Dragon Scroll;Dark King of the Abyss;Blackland Fire Dragon;1500;800;Monster;true
@@ -7261,7 +7315,7 @@ Zombie Warrior;Dark Plant;Pumpking the King of Ghosts;1800;2000;Monster;true
 Zombie Warrior;Doron;Armored Zombie;1500;0;Monster;true
 Zombie Warrior;Dragon Zombie;Skelgon;1700;1900;Monster;true
 Zombie Warrior;Hard Armor;Armored Zombie;1500;0;Monster;false
-Zombie Warrior;Hurricail;Magical Ghost;1300;1400;Monster;true
+Zombie Warrior;Hurricail;Magical Ghost;1300;1400;Monster;false
 Zombie Warrior;Laughing Flower;Pumpking the King of Ghosts;1800;2000;Monster;true
 Zombie Warrior;M-Warrior #1;Armored Zombie;1500;0;Monster;false
 Zombie Warrior;M-Warrior #2;Armored Zombie;1500;0;Monster;false
