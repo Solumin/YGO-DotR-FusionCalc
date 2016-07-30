@@ -16,7 +16,8 @@ require "json"
 #   Entries...
 #   <blank line>
 # And so on.
-# The fusion database is as so: (left, right, output, attack, defense, type)
+# The fusion database is as so:
+#   (left, right, output, attack, defense, type, # untested)
 
 fusions = []
 equips = []
@@ -89,7 +90,11 @@ File.open("data/ygo_dotr_fusionDB.json", "w") {|file|
     file.write(JSON.pretty_generate fusions)
 }
 
-puts "Wrote JSON DB js file"
+File.open("data/fusions.csv", "w") {|file|
+    file.write(fusions.map{|f| f.values.join ";"}.join "\n")
+}
+
+puts "Wrote JSON, JS and CSV files"
 
 puts "Processed #{equips.count} equipment fusions"
 
@@ -99,6 +104,10 @@ File.open("data/ygo_dotr_equipDB.js", "w") {|file|
 
 File.open("data/ygo_dotr_equipDB.json", "w") {|file|
     file.write(JSON.pretty_generate equips)
+}
+
+File.open("data/equips.csv", "w") {|file|
+    file.write(equips.map{|f| f.values.join ";"}.join "\n")
 }
 
 puts "Wrote JSON DB js file"
